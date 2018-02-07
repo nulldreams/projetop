@@ -5,6 +5,36 @@ var arr = {
   tema: '',
   filmes: []
 }
+var temas = [
+  'lancamentos',
+  'filmes-hd',
+  'series',
+  'acao',
+  'animes',
+  'antigos',
+  'animacao',
+  'aventura',
+  'desenhos',
+  'comedia',
+  'c-romantica',
+  'corrida',
+  'crime',
+  'documentario',
+  'drama',
+  'fantasia',
+  'faroeste',
+  'ficcao',
+  'guerra',
+  'musical',
+  'nacional',
+  'policial',
+  'religioso',
+  'romance',
+  'suspense',
+  'terror',
+  'thriller'
+]
+var indice = 0
 
 function consultarTemas (cb) {
   let option = {
@@ -26,7 +56,7 @@ function consultarTemas (cb) {
 }
 
 function consultarFilmes (index, cb) {
-  arr.tema = 'guerra'
+  arr.tema = temas[indice]
   let option = {
     url: `http://filmeseseriesonline.net/filmes/${arr.tema}/page/${index}/`,
     method: 'GET'
@@ -38,11 +68,12 @@ function consultarFilmes (index, cb) {
       // let titulo = $('.filmes').eq(0).find('.item').eq(i).find('.titulo').eq(0).find('a').eq(0).text().trim().toLowerCase().replace(/á/g, 'a').replace(/é/g, 'e').replace(/í/g, 'i').replace(/ó/g, 'o').replace(/ú/g, 'u').replace(/ã/g, 'a').replace(/õ/g, 'o').replace(/à/g, 'a').replace(/è/g, 'e').replace(/ì/g, 'i').replace(/ò/g, 'o').replace(/ù/g, 'u').replace(/â/g, 'a').replace(/ê/g, 'e').replace(/î/g, 'i').replace(/ô/g, 'o').replace(/û/g, 'u').replace(/’/g, '').replace(/ç/g, 'c').replace(/ - /g, '-')
       let nome = $('.filmes').eq(0).find('.item').eq(i).find('.titulo').eq(0).find('a').eq(0).text().trim()
       let titulo = $('.filmes').eq(0).find('.item').eq(i).find('.titulo').eq(0).find('a').eq(0).attr('href').replace('http://filmeseseriesonline.net/', '').replace('/', '').trim()
-      console.log('titurlo:', titulo)
 
       consultarFilme(titulo, (err, filme) => {
         filme.imagem = $('.filmes').eq(0).find('.item').eq(i).find('.imagem').eq(0).find('img').eq(0).attr('src').trim()
-        console.log(filme)
+        // console.log(filme)
+        arr.filmes.push(filme)
+        console.log(arr.filmes.length)
       })
 
       // arr.filmes.push({
@@ -51,13 +82,15 @@ function consultarFilmes (index, cb) {
       //   imagem: $('.filmes').eq(0).find('.item').eq(i).find('.imagem').eq(0).find('img').eq(0).attr('src').trim(),
       //   audio: $('.filmes').eq(0).find('.item').eq(i).find('.imagem').eq(0).find('span').eq(0).text().trim()
       // })
-      // if (i + 1 === $('.filmes').eq(0).find('.item').length) {
-      //   return consultarFilmes(index + 1)
-      // }
+      if (i + 1 === $('.filmes').eq(0).find('.item').length) {
+        return consultarFilmes(index + 1)
+      }
     }
-    // db.add(arr, (err, result) => {
-
-    // })
+    indice++
+    console.log(arr.filmes.length)
+    db.add(arr, (err, result) => {
+      console.log('aaaa')
+    })
   })
 }
 
@@ -81,7 +114,7 @@ function consultarFilme (nomeFilme, cb) {
     console.log(nomeFilme)
     const $ = cheerio.load(body)
     let url = $('.embeds-servidores').eq(0).find('iframe').eq(0).attr('src')
-    let id = url.substring(url.indexOf('openload='), url.indexOf('&thevid=')).replace('openload=', '')
+    let id = url.substring(url.indexOf('openload='), url.indexOf('&')).replace('openload=', '')
     let filme = {
       nome: $('.content').eq(0).find('h2').eq(0).text().trim(),
       sinopse: $('.content').eq(0).find('p').eq(1).text().replace('Filme Online Mad Max', '').trim(),
