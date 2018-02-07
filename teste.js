@@ -1,9 +1,10 @@
 const request = require('request')
 const cheerio = require('cheerio')
 const db = require('./db/database')
+const async = require('async')
 var arr = {
   tema: '',
-  filmes: []
+  filme: {}
 }
 var temas = [
   'lancamentos',
@@ -56,7 +57,7 @@ function consultarTemas (cb) {
 }
 
 function consultarFilmes (index, cb) {
-  arr.tema = temas[indice]
+  arr.tema = 'lancamentos'
   let option = {
     url: `http://filmeseseriesonline.net/filmes/${arr.tema}/page/${index}/`,
     method: 'GET'
@@ -66,14 +67,26 @@ function consultarFilmes (index, cb) {
     const $ = cheerio.load(body)
     for (let i = 0; i < $('.filmes').eq(0).find('.item').length; i++) {
       // let titulo = $('.filmes').eq(0).find('.item').eq(i).find('.titulo').eq(0).find('a').eq(0).text().trim().toLowerCase().replace(/á/g, 'a').replace(/é/g, 'e').replace(/í/g, 'i').replace(/ó/g, 'o').replace(/ú/g, 'u').replace(/ã/g, 'a').replace(/õ/g, 'o').replace(/à/g, 'a').replace(/è/g, 'e').replace(/ì/g, 'i').replace(/ò/g, 'o').replace(/ù/g, 'u').replace(/â/g, 'a').replace(/ê/g, 'e').replace(/î/g, 'i').replace(/ô/g, 'o').replace(/û/g, 'u').replace(/’/g, '').replace(/ç/g, 'c').replace(/ - /g, '-')
-      let nome = $('.filmes').eq(0).find('.item').eq(i).find('.titulo').eq(0).find('a').eq(0).text().trim()
+      // let nome = $('.filmes').eq(0).find('.item').eq(i).find('.titulo').eq(0).find('a').eq(0).text().trim()
       let titulo = $('.filmes').eq(0).find('.item').eq(i).find('.titulo').eq(0).find('a').eq(0).attr('href').replace('http://filmeseseriesonline.net/', '').replace('/', '').trim()
 
       consultarFilme(titulo, (err, filme) => {
         filme.imagem = $('.filmes').eq(0).find('.item').eq(i).find('.imagem').eq(0).find('img').eq(0).attr('src').trim()
         // console.log(filme)
-        arr.filmes.push(filme)
-        console.log(arr.filmes.length)
+        async.waterfall([
+          function (callback) {
+            arr.filme = filme
+            console.log(arr.filme.nome)
+            callback(null, 'one')
+          },
+          function (arg1, callback) {
+            db.add(arr, (err, result) => {
+              callback(null, `${arr.filme.nome} foi adicionado!`)
+            })
+          }
+        ], function (err, result) {
+          console.log(result)
+        })
       })
 
       // arr.filmes.push({
@@ -86,11 +99,8 @@ function consultarFilmes (index, cb) {
         return consultarFilmes(index + 1)
       }
     }
-    indice++
-    console.log(arr.filmes.length)
-    db.add(arr, (err, result) => {
-      console.log('aaaa')
-    })
+    // console.log(arr.filmes.length)
+    // fs.writeFileSync(`./arquivos/${arr.tema}.js`, arr.filmes)
   })
 }
 
@@ -111,10 +121,9 @@ function consultarFilme (nomeFilme, cb) {
     method: 'GET'
   }
   request(option, (err, response, body) => {
-    console.log(nomeFilme)
     const $ = cheerio.load(body)
     let url = $('.embeds-servidores').eq(0).find('iframe').eq(0).attr('src')
-    let id = url.substring(url.indexOf('openload='), url.indexOf('&')).replace('openload=', '')
+    let id = url === undefined ? url = $('.embed-servidores').eq(0).find('a').attr('href') : url.substring(url.indexOf('openload='), url.indexOf('&')).replace('openload=', '')
     let filme = {
       nome: $('.content').eq(0).find('h2').eq(0).text().trim(),
       sinopse: $('.content').eq(0).find('p').eq(1).text().replace('Filme Online Mad Max', '').trim(),

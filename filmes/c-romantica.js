@@ -1,0 +1,175 @@
+module.exports = [{
+  'titulo': 'meu-primeiro-casamento-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-FYpi-OLfaRw/UfQW0VRiiEI/AAAAAAAAgCI/AwEEfkflITc/s1600/Assistir+online+Meu+Primeiro+Casamento+(My+First+Wedding)+-+Dublado.jpg'
+}, {
+  'titulo': 'o-fabuloso-destino-de-amelie-poulain-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-r_P_muBg6Lc/WQULTozPFeI/AAAAAAAAAXc/XY5-Q6e33FUX-wMaPtN_4a4TpyDTGnYtgCLcB/s1600/4DmQk090Ytk50J6fR7EhhrgmEhw.jpg'
+}, {
+  'titulo': 'nosso-tipo-de-mulher-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-7JqJl-7NKnI/V0Xwkr_wiHI/AAAAAAAAALU/VGWOPhiC3iwMG5sFpYN8UIVR-TRwJKWfgCKgB/s1600/nosso-tipo-de-mulher_cartaz_220x283.jpg'
+}, {
+  'titulo': 'a-mala-e-os-errantes-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-yB1qENCg_Z4/WP1fl1YMNPI/AAAAAAAAAVM/wmYXr54moUcXB1kkHTxXLweA3frnMQ_mACLcB/s1600/rIURj8v.png'
+}, {
+  'titulo': 'coracao-do-artico-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-vzR0KSPe4bo/WPVPyIh7MaI/AAAAAAAAAN0/yH28A_HgC6oBCelXmksaD5EZzp31XZgfACLcB/s1600/2yy3350.jpg'
+}, {
+  'titulo': 'nossos-amantes-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-SB9Al6hWR0k/V1b8mLwJkTI/AAAAAAAATqc/5azedtEKEmgK_pg4ellAGgOxUO2p2iN6QCLcB/s1600/nuestros_amantes-766567574-large.jpg'
+}, {
+  'titulo': 'amor-sob-medida-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://image.tmdb.org/t/p/w185/nQJjyAGG1J3VvpAdAeioiSqNyOt.jpg'
+}, {
+  'titulo': 'minhas-adoraveis-ex-namoradas-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-PPbI2uBCW4I/UyRmjKsHMfI/AAAAAAAAAyE/9GKaLoID2uQ/s1600/1246915537_minhasadoraveisexnamoradasposter01.jpg'
+}, {
+  'titulo': 'resultados-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ4MjEzMzQ1Ml5BMl5BanBnXkFtZTgwODUyNTQzNTE@._V1_SY1000_CR0,0,674,1000_AL_.jpg'
+}, {
+  'titulo': 'a-verdade-nua-e-crua-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/_ZiM13AZp5jU/SzgYIcYt50I/AAAAAAAAAco/Xylb_KB32xc/s400/poster-a-verdade-nua-e-crua.jpg'
+}, {
+  'titulo': 'simplesmente-complicado-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-EKiFvy7cqq4/T56VqXKgcZI/AAAAAAAAES0/ijFgkMAjP_w/s1600/70124574-765222.jpg'
+}, {
+  'titulo': 'a-verdade-sobre-o-amor-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ3NTc3MDg3OF5BMl5BanBnXkFtZTcwMzUwNzYxNA@@._V1_UY268_CR4,0,182,268_AL_.jpg'
+}, {
+  'titulo': 'um-presente-para-helen-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-Va6azYUd6fg/WIQLfhW1fkI/AAAAAAAADH0/IPMZhZFQNZMeYdURFTgIy_UqegsOkLyqgCLcB/s1600/UxJ6qvI.jpg'
+}, {
+  'titulo': 'nove-meses-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-vkIMo4Eqys8/UisBYQF0PLI/AAAAAAAAiEY/nH_-W_kDrhw/s1600/nove-meses.jpg'
+}, {
+  'titulo': 'como-perder-um-homem-em-10-dias-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-htLg7rYf5-0/WIP-_iLYp4I/AAAAAAAADHI/igLOZMxFoX45BZevTaDhxUagh-RJ3AJRQCLcB/s320/q94nQEHzjkWd1fkTHya8mwvggVw.jpg'
+}, {
+  'titulo': '30-dias-para-o-amor-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-DzUpWGbjdB4/UcSDwtgErlI/AAAAAAAACxY/sxtoih8CArk/s1600/30+dias+para+o+amor+filmes+torrent.jpg'
+}, {
+  'titulo': 'o-bebe-de-bridget-jones-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-EWoNcPJTojA/WCT-ga3aWQI/AAAAAAAAbnU/LdEFV_S0UEgrrWcHWPx0_jaJShPrPTnpACLcB/s1600/bebedebridgetjones_2.jpg'
+}, {
+  'titulo': 'o-bebe-de-bridget-jones-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-EWoNcPJTojA/WCT-ga3aWQI/AAAAAAAAbnU/LdEFV_S0UEgrrWcHWPx0_jaJShPrPTnpACLcB/s1600/bebedebridgetjones_2.jpg'
+}, {
+  'titulo': 'um-casamento-em-noite-de-natal-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-og2XeP_tbR4/UokuVVwsv2I/AAAAAAAAQ-4/RWhda4w03C8/s1600/Um+Casamento+em+Noite+de+Natal+(A+Christmas+Wedding).jpg'
+}, {
+  'titulo': 'uma-noite-mais-que-louca-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-Sxu1pHOvTho/TlG96EHQ58I/AAAAAAAAAos/zaTWUVFMvnk/take-me-home-tonight.jpg'
+}, {
+  'titulo': 'embriagado-de-amor-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-s0xznINxfvE/UOWyptRf8zI/AAAAAAAAE2Y/cHH7nQugXk8/s1600/Embriagado.de.Amor.jpg'
+}, {
+  'titulo': 'apenas-duas-noites-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-EBPDhq89ygw/V50wVuHbKuI/AAAAAAAABzg/h6Z-1eyuZ_4KYL3w1TuMMhK8OcZjWO2EQCLcB/s1600/Apenas-Duas-Noites.jpg'
+}, {
+  'titulo': 'sob-o-mesmo-ceu-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-ps_eQguNrlg/V5uU1xrhHKI/AAAAAAAABys/p3LczieXLx0sORFamHcYLsNylcVUrphQQCLcB/s1600/sob-o-mesmo-ceu.jpeg'
+}, {
+  'titulo': 'separacoes-nacional',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-A-Yy6PUnppU/V4PRpuvLSeI/AAAAAAAABq8/iu2hKyVaCIsRhjhIC1imu-585N8dJvsWACLcB/s1600/Separa%25C3%25A7%25C3%25B5es.jpg'
+}, {
+  'titulo': 'naomi-ely-e-a-lista-do-nao-beijo-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-V3Ve6kSssSQ/V3vZ-zq1-jI/AAAAAAAABio/7XV2NMMFwWYlrW2fMTixSXGnSghCJ6otwCLcB/s1600/Naomi-e-Ely.jpg'
+}, {
+  'titulo': 'arthur-um-milionario-sedutor-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-MVUjoFYce6E/V3Lv1UWmOFI/AAAAAAAABZ0/md44uMRMp9sOdHYHpzvzbLPiQftLGFQnQCLcB/s1600/Arthur-Um-Milion%25C3%25A1rio-Sedutor.jpg'
+}, {
+  'titulo': 'pequeno-dicionario-amoroso-nacional',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-pS15wpgHUmo/V2ScoDSxDlI/AAAAAAAABLg/WtoY2628G_M5_CRWO8ZX9aadj-Fb0UiDACLcB/s1600/Pequeno-Dicion%25C3%25A1rio-Amoroso.jpg'
+}, {
+  'titulo': 'podecrer-nacional',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-7qhcuhXU-rM/V2ScFirfPqI/AAAAAAAABLY/2PpkLHEYUnkxFPrMLQ8VbLHtG58BYmo_ACLcB/s1600/Podecrer.jpg'
+}, {
+  'titulo': 'casamento-grego-2-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-AIdtdM5d0Ok/V2Me42SLT4I/AAAAAAAABJ0/PKb38o3puzgOj6o2aNxzgu987fCV6uzvgCLcB/s1600/Casamento-Grego-2.jpg'
+}, {
+  'titulo': 'harry-e-sally-feitos-um-para-o-outro-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-PXwGK2YMC6E/V17v_bTc6FI/AAAAAAAABGk/V_LUJ9og9w0ntybStqtYlxjkV4T5fhkRgCLcB/s1600/Harry-e-Sally.jpg'
+}, {
+  'titulo': 'jerry-maguire-a-grande-virada-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/--StZecLB_jA/V17nwQ-mSkI/AAAAAAAABFc/MtLJHhOCw5AUvJTjqMAumCmGO1WBmptGQCLcB/s1600/Jerry-Maguire.jpg'
+}, {
+  'titulo': 'apaixonados-o-filme-nacional',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-C2lhL6LXNTY/V1c3A428OiI/AAAAAAAABDc/YWk47_7ioqofNcZ8yIdjNigaP1ZgzbH0QCLcB/s1600/Apaixonados.jpg'
+}, {
+  'titulo': 'wimbledon-o-jogo-do-amor-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-3vlMv46bDRI/V1c0-IwlwVI/AAAAAAAABDA/iJ3XlDizGEobm8hmgRlr5lCN58bPLArQgCLcB/s1600/Wimbledon.jpg'
+}, {
+  'titulo': 'encontros-e-desencontros-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-HPfe_Mm5bCo/V0ixkwUvkJI/AAAAAAAAI1A/FvohLCGTVSMQbJwe3OIA9mNW0DyinbJdQCLcB/s1600/001.jpg&w=166&h=250'
+}, {
+  'titulo': 'a-eterna-namorada-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-J279lBll9Jo/V0d_X_HwzjI/AAAAAAAAIz0/h7eRk_VMluQNKyXiIIBoGxFvJ868UYi4ACLcB/s1600/001.jpg&w=166&h=250'
+}, {
+  'titulo': 'a-agenda-secreta-do-meu-namorado-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-exfOKwu15vE/V0M6ywTRTJI/AAAAAAAAA04/kAosk0czFm0eNbA-CDQbH-hGy40XK-jyACLcB/s1600/A-Agenda-Secreta-do-Meu-Namorado.jpg'
+}, {
+  'titulo': 'pequeno-dicionario-amoroso-2-nacional',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-c-XfOxKzk0c/VrGFjQNuzBI/AAAAAAAAAvQ/nxfY6uvgwcw/s320/Pequeno%2BDicion%25C3%25A1rio%2BAmoroso%2B2%2B%25282015%2529.jpg'
+}, {
+  'titulo': 'salve-me-quem-puder-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-DcIrjqwt05I/Vz3mi2R_CgI/AAAAAAAAAvk/-_thflTNOB4uMXCRYT5ii0BGL0v38YniQCLcB/s1600/Salve.me_.Quem_.Puder_.DVDRIP.Xvid_.Dublado.jpg'
+}, {
+  'titulo': 'o-inimigo-x-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-pSahvd7p_GM/Vz3j3oeRQQI/AAAAAAAAAvI/P4Thk6CubtEAAAnpxS9O0kZVE7aAFjKdQCLcB/s1600/Inimigo-x-1940.jpg'
+}, {
+  'titulo': 'o-solteirao-cobicado-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-RyrluJ19Olg/VpWUHGICImI/AAAAAAAAQdA/b6RcZT8bXBs/s1600/o_solteir%25C3%25A3o_cobi%25C3%25A7ado%255B1947%255D.jpg'
+}, {
+  'titulo': 'um-salto-para-a-felicidade-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/_NyJk4sJHB00/Set0aILJSjI/AAAAAAAAA-s/Nar408A5-7Y/s1600/posterg.jpg'
+}, {
+  'titulo': 'pegar-e-largar-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://lh6.googleusercontent.com/-Ljc1D-iT9OM/TYJTCQNuMyI/AAAAAAAAAgQ/lXCREdTBLr4/s1600/catch_and_release_dvd__large_.jpg'
+}, {
+  'titulo': 'triunfo-do-amor-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-_90mSfJNPS4/Vy9S7cxjJdI/AAAAAAAAAmY/BgRMXFxzJ5cBylp_gUuW2yYmJcqvuKThACLcB/s1600/Triunfo-Do-Amor.jpg'
+}, {
+  'titulo': 'o-amor-e-melhor-a-dois-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-gw28UJ0b-O4/VZ524Xut6yI/AAAAAAAADT4/Leat2wNtUcU/s1600/amour-deux.jpg'
+}, {
+  'titulo': 'meu-ex-e-noivo-da-minha-amiga-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://lh3.googleusercontent.com/-OhW0GCI66WM/Vi4RQJ1_UYI/AAAAAAAAWhY/wxea3YX539w/s350-Ic42/10.jpg'
+}, {
+  'titulo': 'quando-a-vaca-vai-pro-brejo-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/_trsu7E-bbrE/SnmNP65mIgI/AAAAAAAARFg/4oK1YdFkV-w/s250/1888219_4.jpg'
+}, {
+  'titulo': 'cade-os-morgan-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/__CgQBhWuAX8/S7aebds-WLI/AAAAAAAADNQ/YpnjaciYfPg/s1600/1262141892_did_you_hear_about_the_morgans_ver2.jpg'
+}, {
+  'titulo': 'ensina-me-o-amor-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-ojqUMvoBV2Y/VwbYO8NcLRI/AAAAAAAAIfo/YgAkIB4aX1wVWchHglODsSUYBYo5GlLQw/s320/ensina-me%2Bo%2Bamor.jpg'
+}, {
+  'titulo': 'monty-python-santo-circo-voador-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-Rvnz1CcuLGk/Vuxr0X1jtdI/AAAAAAAAH-k/sP2bcYcBLTAXka06OL0QS0ptwcjV_v23Q/s320/flying.jpg'
+}, {
+  'titulo': 'o-prazer-da-sua-companhia-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-8qM7Jwg7Dxk/Vt841su1tSI/AAAAAAAAHIo/bX4M4eSVbbc/s1600/001.jpg&w=166&h=250'
+}, {
+  'titulo': 'confusoes-amorosas-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-gHAcjzlb5c4/VtTrUMhml0I/AAAAAAAAHdA/1SYuoxDPzVA/s320/confus%25C3%25B5es.jpg'
+}, {
+  'titulo': 'amor-em-jogo-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/_7kmgcoF2WBI/SOliHq-mdXI/AAAAAAAAAFk/8NGtXGaU7hE/s250/amor-em-jogo-poster02.jpg'
+}, {
+  'titulo': 'e-se-fosse-verdade-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-Xe4BMjqid88/UEIUsDuRrAI/AAAAAAAASJU/W5ZmbWetbUs/s1600/capa.jpg'
+}, {
+  'titulo': 'os-delirios-de-consumo-de-becky-bloom-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-w4hg_BWrscI/VszUYaf80vI/AAAAAAAAHTA/MPzLpr_TdNo/s320/delirios.jpg'
+}, {
+  'titulo': 'sr-cupido-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-ywBG5TRjvag/T9VifDhi9SI/AAAAAAAAFGs/ZbpDhxUqaPE/s280/Sr-Cupido.jpg'
+}, {
+  'titulo': 'o-amor-custa-caro-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-PglrGYVyRQc/VsIpYfr_fsI/AAAAAAAAHHU/yKc8R7UgR9I/s320/amor%2Bcaro.jpg'
+}, {
+  'titulo': 'a-menina-do-chale',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://image.tmdb.org/t/p/w396/64AQrBEKJVSIRaocOCtkMqExToz.jpg'
+}, {
+  'titulo': 'meu-namorado-do-futuro',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-afXl1SBUjig/UFuiiOOz_oI/AAAAAAAAI7I/VBNT-SIULMw/s250/15.jpg'
+}]

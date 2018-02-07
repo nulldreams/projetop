@@ -1,0 +1,2992 @@
+module.exports = [{
+  'titulo': 'braven-2018-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-ny5awAgIwoc/WnR_PJPp4uI/AAAAAAAACjc/iMPCZFm5aLc_BibhfyMRYGrMyfMiQGyfQCLcBGAs/s1600/fwO3NEB.jpg'
+}, {
+  'titulo': 'plano-b-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-WQT1jgYkxr8/WR8PYFvdksI/AAAAAAAAjYg/qIxmAijZVa4dbUXnSJOZB23A2IOkLFz6QCLcB/s1600/FB_IMG_1495206358779.jpg'
+}, {
+  'titulo': 'contagem-regressiva-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-nZys7zTeLg4/Wnc7Wwc_GhI/AAAAAAAACrM/15BOFIexg98GsM86TRnL50msooXpx_33ACLcBGAs/s1600/635933056406098371-Screen-shot-2016-03-11-at-6.38.56-AM.jpg'
+}, {
+  'titulo': 'o-duelista-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-jmUEmlpMaPE/WnakRqorbsI/AAAAAAAACqs/fJKZhwXACRAyKm5w_minwKuuUBztKBrEACLcBGAs/s1600/nWiBwTnHY55448tscsiqS8LTmmI.jpg'
+}, {
+  'titulo': 'wolf-warriors-2-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-225ekgw14eM/Wa2pCudwMKI/AAAAAAAAUTs/LgD8mNAVzi0lY5EprMh09rjL_TSnrgGCgCEwYBhgL/s1600/Wolf%2BWarrior%2B2%2BCharacter%2B4.jpg'
+}, {
+  'titulo': 'overdrive-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-zmESA4MbB4k/WfDGVm78vOI/AAAAAAAAUyg/vXmtJxvTkjE4LjTtrxVyT0h6rmvOKtHugCLcBGAs/s1600/overdrive-poster.jpg'
+}, {
+  'titulo': 'depois-daquela-montanha-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-JkBOHHGYJvU/WfjPxyVMslI/AAAAAAAAd30/Ut76FNu2JbMpWY30MC_RD7pTc1Z13-bhgCLcBGAs/s1600/depoisdaquelamontanha_2.jpg'
+}, {
+  'titulo': 'star-wars-os-ultimos-jedi-2017-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-idoduaHOxSU/WdwxnkO6SgI/AAAAAAACuXg/FpvNh446mTcYMJQuw1lV-G91MZlcMVcQQCLcBGAs/s1600/DLvF7e3X4AIiZTM.jpg'
+}, {
+  'titulo': 'batman-gotham-by-gaslight-2018-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-sILwHpC-Gw4/WmjayXdVDFI/AAAAAAAACgk/D8AIPBC8iy0b6C6gmXYmaC-3XiHXkSAqgCLcBGAs/s1600/c967349b03511c47f0789ee2ee5653ec.jpg'
+}, {
+  'titulo': 'gintama-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-s4DbJQl9UjI/WiiF7NeL8wI/AAAAAAAABPE/ro7NOOcSZCwRcMgzU-JZ1Ay2ExR5sIo7gCLcBGAs/s1600/Gintama%2BMovie%2BPoster.jpg'
+}, {
+  'titulo': 'thor-ragnarok-2017-dublado-hd-1',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-0XXt_0-04WA/WQCo_DJo1hI/AAAAAAACrCk/AbOWbeREJcsCbAT2FTCDiTEAtUy3tKoPACLcB/s1600/Thor-Ragnar%25C3%25B6k.jpg'
+}, {
+  'titulo': 'jogada-divina-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-VEFw7MMHQTU/VaqDKYudSDI/AAAAAAAAaII/WClTkGlfwQs/s1600/capa.png'
+}, {
+  'titulo': 'o-amanhecer-do-quarto-reich-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-Pq3y414xiVE/V_P-vNmEQ7I/AAAAAAAAHoQ/SsxtjdPbXXMx1-m6km4dDoPpZvl1TA_ngCLcB/s1600/Beyond%2BValkyrie%2BDawn%2BOf%2BThe%2BFourth%2BReich%2B-%2BO%2BAmanhecer%2Bdo%2BQuarto%2BReich.jpg'
+}, {
+  'titulo': 'jogada-divina-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-VEFw7MMHQTU/VaqDKYudSDI/AAAAAAAAaII/WClTkGlfwQs/s1600/capa.png'
+}, {
+  'titulo': '12-rounds-3-cacada-mortal-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-zbcnrgkhTmw/VuORJnex97I/AAAAAAAAthI/IqMfkm1s7XwWGFQ7i8zKz0WPg7wFPWpig/s1600/images.jpg'
+}, {
+  'titulo': 'star-wars-os-ultimos-jedi-2017-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-idoduaHOxSU/WdwxnkO6SgI/AAAAAAACuXg/FpvNh446mTcYMJQuw1lV-G91MZlcMVcQQCLcBGAs/s1600/DLvF7e3X4AIiZTM.jpg'
+}, {
+  'titulo': 'batman-gotham-by-gaslight-2018-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-sILwHpC-Gw4/WmjayXdVDFI/AAAAAAAACgk/D8AIPBC8iy0b6C6gmXYmaC-3XiHXkSAqgCLcBGAs/s1600/c967349b03511c47f0789ee2ee5653ec.jpg'
+}, {
+  'titulo': 'sniper-operacoes-especiais-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-goz1QXm5kfQ/WLqav7yBkVI/AAAAAAAACbE/ATu08TXaI_wdAT9L9Ntz2a7UpJE2CCjAQCLcB/s1600/images.jpg'
+}, {
+  'titulo': 'thor-ragnarok-2017-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-0XXt_0-04WA/WQCo_DJo1hI/AAAAAAACrCk/AbOWbeREJcsCbAT2FTCDiTEAtUy3tKoPACLcB/s1600/Thor-Ragnar%25C3%25B6k.jpg'
+}, {
+  'titulo': 'tempestade-planeta-em-furia-2017-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-e-9G5Si2Ndk/WezFrQrRqaI/AAAAAAAABcI/mZUzL-yFlrQLVGKJVa1cCZRTLesmxKXZgCLcBGAs/s1600/073591.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg'
+}, {
+  'titulo': 'o-assassino-o-primeiro-alvo-2017-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-_zWDAkLQK5o/WcTPSWs3UPI/AAAAAAAABJA/wxVDYThZjD0We_DGjYX_fP1aQSiTEX4EwCLcBGAs/s1600/o-assassino-o-primeiro-alvo-.jpg'
+}, {
+  'titulo': 'acts-of-violence-2018-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-DzKWQ0Xcwno/WkO6de2cFoI/AAAAAAADzx4/7vlV0J7Nm_4cogP89WLrjzKZJ7_cI1CFwCLcBGAs/s1600/MV5BMjM3NzI1NDMyNl5BMl5BanBnXkFtZTgwNzUyMDgzNDM%2540._V1_SY1000_CR0%252C0%252C674%252C1000_AL_.jpg'
+}, {
+  'titulo': 'chronicles-of-the-ghostly-tribe-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-i7glJ_P9NAA/ViSXI3VL9II/AAAAAAAAAH4/luVC3a4sC1A/s1600/Chronicles%2Bof%2Bthe%2BGhostly%2BTribe%2B2015.jpg'
+}, {
+  'titulo': 'cacador-de-demonios-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-LW6VrmmihkM/V_RRtF-x0II/AAAAAAAAdog/Qa5TSD21t3YbBun-go1G8ygDRawzypV-QCLcB/s400/Don%2527t%2BKill%2BIt.jpg'
+}, {
+  'titulo': 'tokyo-ghoul-filme-legendado-hd-1',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-hYEeTfEIszs/Wkj2VPGMMTI/AAAAAAAACQk/s4AzasFf3pMHIU416B2BZi4p48mKhuY1gCLcBGAs/s1600/TG_movie_book_cover.png'
+}, {
+  'titulo': 'espada-do-imortal-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-jWrnxXb3JqQ/Wlc2zcNTreI/AAAAAAAACXw/L4FWQUpzJ9Uv-rB55pPLt2yckd54mo9ygCLcBGAs/s1600/1f4406c626452d9743005052979872ec.jpg'
+}, {
+  'titulo': 'scooby-doo-batman-os-bravos-e-destemidos-2018-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-O-gmszDPA7s/WlahmKKVP3I/AAAAAAAACXA/-fXJi85KiE0AkRdVXvYZCiGs2GEI9gjSQCLcBGAs/s1600/batman.jpg'
+}, {
+  'titulo': 'gangster-land-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-xtmb72id48Y/WiE1OjQFjjI/AAAAAAAABQM/vk1beiFLNPwGl8adPc0NvFYIOSbOqe12ACLcBGAs/s1600/poster_opt%2B%25282%2529.jpg'
+}, {
+  'titulo': 'memorias-de-um-assassino-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/_Dk310Rh9gTU/SXBLbqRvyhI/AAAAAAAAAHM/ptTXNWs16UE/s400/MemoriesOf-Murder-Poster3.jpg'
+}, {
+  'titulo': 'memorias-de-um-assassino-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/_Dk310Rh9gTU/SXBLbqRvyhI/AAAAAAAAAHM/ptTXNWs16UE/s400/MemoriesOf-Murder-Poster3.jpg'
+}, {
+  'titulo': 'a-inundacao-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-C7WC7u5vdEk/Wk-8gJrmqCI/AAAAAAAAVXI/oddlqwI_N4YySUZYCGIlPA8EBjwATQd_gCLcBGAs/s1600/oceans-rising-movie-cover-md.jpg'
+}, {
+  'titulo': 'zona-fria-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-kOvVirKMomI/WlFfMgapXGI/AAAAAAAACV0/7gt6IGQWLp47czGnjCDbyQOAGphYx_LRACLcBGAs/s1600/MV5BY2I3NWMwZGEtYmU0Ni00MTAyLTlkMzMtYTE4Y2I0ZGNhZTE4XkEyXkFqcGdeQXVyNTM3MDMyMDQ%2540._V1_UY268_CR9%252C0%252C182%252C268_AL_.jpg'
+}, {
+  'titulo': 'zona-fria-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-kOvVirKMomI/WlFfMgapXGI/AAAAAAAACV0/7gt6IGQWLp47czGnjCDbyQOAGphYx_LRACLcBGAs/s1600/MV5BY2I3NWMwZGEtYmU0Ni00MTAyLTlkMzMtYTE4Y2I0ZGNhZTE4XkEyXkFqcGdeQXVyNTM3MDMyMDQ%2540._V1_UY268_CR9%252C0%252C182%252C268_AL_.jpg'
+}, {
+  'titulo': 'origem-do-dragao-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-d-txWlc6jv0/We9f6CqG55I/AAAAAAABB6s/ALs4Fyk2ojwf68Wb14FOpEPasheFDz0ywCLcBGAs/s1600/origem.jpg'
+}, {
+  'titulo': 'jumanji-bem-vindo-selva-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-wHO6FT53fzI/WkfSFxTH4QI/AAAAAAAACQA/ccvypRVh3Sgsg_dzYcTtTCvYIkSUpKIIQCLcBGAs/s1600/jumanji_welcome_to_the_jungle_ver5.jpg'
+}, {
+  'titulo': 'deus-da-guerra-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-qgGgqQBLlIE/V-El_nhW-1I/AAAAAAAAe1o/EnTwgSbVM2kS3Fqj_xOL7O1vT2v2ZMVzwCLcB/s1600/142718.80412965_1000X1000.jpg'
+}, {
+  'titulo': 'jumanji-bem-vindo-selva-2017-dublado-hd-3',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-wHO6FT53fzI/WkfSFxTH4QI/AAAAAAAACQA/ccvypRVh3Sgsg_dzYcTtTCvYIkSUpKIIQCLcBGAs/s1600/jumanji_welcome_to_the_jungle_ver5.jpg'
+}, {
+  'titulo': 'cacada-brutal-2017-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-shUjToS_REY/WT6z5B63TgI/AAAAAAAAZyo/4H4tjuqRqJYeefqN7FspoZHrVOqd81URwCLcB/s1600/MV5BNDE1YjU5YzYtYTdmYi00NjkzLThiZTItMTQ5NzMxZTNiMzdiXkEyXkFqcGdeQXVyMjM4NTM5NDY%2540._V1_SY1000_SX675_AL_.jpg'
+}, {
+  'titulo': 'assassinos-multiplos-2017-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-UrGtdGeIlJI/Wc1BUf0qh9I/AAAAAAABPOw/cTJOaJneFBA5x0MeM5IKPuE033eFLvRtgCLcBGAs/s1600/act%2Bof%2Bvengeance.jpg'
+}, {
+  'titulo': 'troca-fatal-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-TzuqXLPOV8M/Wj2RdO9-g1I/AAAAAAAACKg/_bJ0Yg_DSFUfyuMExd_ZXp5BD5zMztLhwCLcBGAs/s1600/MV5BMjA0ZDM2ZWYtM2VkZS00ZDQzLTk0NzUtOWViNWY3MjI3MTY2XkEyXkFqcGdeQXVyMTA0MjI3OTk%2540._V1_UY1200_CR90%252C0%252C630%252C1200_AL_.jpg'
+}, {
+  'titulo': 'o-assalto-2017-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-BKJD8G52f8c/Wj2QCBmxRKI/AAAAAAAACKU/Uvt18fmXmtAB5-60j1AZBoLlX-qavVdygCLcBGAs/s1600/OfficialBlueLinePoster.jpg'
+}, {
+  'titulo': 'liga-da-justica-2017-dublado-hd-5',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-S1gOqE4pKQM/WhFZYmremrI/AAAAAAAABsc/M85yBjsF1Qkh8ABRW4JU8oUzpPxPNJ3dACLcBGAs/s1600/Liga%2Bda%2BJusti%25C3%25A7a%2BPoster.jpg'
+}, {
+  'titulo': 'em-ritmo-de-fuga-2017-legendado-hd-13',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-aMPKVXzoRQs/WWzQS2_ROXI/AAAAAAAASio/PEdIkgokX7YJtUS8u_D3zSaN7gc0HIjjgCLcBGAs/s1600/Em%2BRitmo%2Bde%2BFuga%2BBaby%2BDriver%2BCartaz%2BPoster%2BBrasil.jpg'
+}, {
+  'titulo': 'assistir-homem-aranha-de-volta-ao-lar-dublado-hd-5',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://image.tmdb.org/t/p/w185/9C8NPGOpDUDPRVe5gSrAayQhPkL.jpg'
+}, {
+  'titulo': 'liga-da-justica-2017-legendado-hd-5',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-S1gOqE4pKQM/WhFZYmremrI/AAAAAAAABsc/M85yBjsF1Qkh8ABRW4JU8oUzpPxPNJ3dACLcBGAs/s1600/Liga%2Bda%2BJusti%25C3%25A7a%2BPoster.jpg'
+}, {
+  'titulo': 'bright-2017-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-S6qfgpWfUt4/WjzfOMmMquI/AAAAAAAACJQ/5OTqUoCI1Rc4xmHhm0VIvaZmPgm6CQtlgCLcBGAs/s1600/BrightPoster.jpeg'
+}, {
+  'titulo': 'em-ritmo-de-fuga-2017-dublado-hd-19',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-aMPKVXzoRQs/WWzQS2_ROXI/AAAAAAAASio/PEdIkgokX7YJtUS8u_D3zSaN7gc0HIjjgCLcBGAs/s1600/Em%2BRitmo%2Bde%2BFuga%2BBaby%2BDriver%2BCartaz%2BPoster%2BBrasil.jpg'
+}, {
+  'titulo': 'bright-2017-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-S6qfgpWfUt4/WjzfOMmMquI/AAAAAAAACJQ/5OTqUoCI1Rc4xmHhm0VIvaZmPgm6CQtlgCLcBGAs/s1600/BrightPoster.jpeg'
+}, {
+  'titulo': 'assistir-homem-aranha-de-volta-ao-lar-legendado-hd-9',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-vOeCdmGsANg/WXa6iTKafQI/AAAAAAAAKoM/CqYPUVeyxD0onTXkjjvTxYXKuO_UbgiMACLcBGAs/s320/gyergyhy.jpg'
+}, {
+  'titulo': 'assistir-mulher-maravilha-dublado-online-hd-24',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-U-1NKSrqgmg/WaU_ztd6j4I/AAAAAAAAAvQ/u-pxpqd-h4QG8aGWSjRueENP2KsWyGRLACLcBGAs/s1600/6ca49a946b0b04f5d6c721993308ef33.jpg'
+}, {
+  'titulo': 'pokemon-o-filme-eu-escolho-voce-2017-dublado-hd',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-fqr8xeNGzaU/WiaIlWPVV8I/AAAAAAAAB-o/iXgoE0pfPSQZyBTW5KDhVv5BZTQeOyFcgCLcBGAs/s1600/85787l.jpg'
+}, {
+  'titulo': 'lego-ninjago-o-filme-2017-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-iRB-ii_OhzQ/Wc5xAqxuJJI/AAAAAAAABOA/h0UFg0oatMUOIJZLJRQsmhH1vYVW_mHlQCLcBGAs/s1600/lego-ninjago-o-filme-poster-teaser_cymc.jpg'
+}, {
+  'titulo': 'dia-de-trabalho-mortal-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-X6erOY8Cdsk/WYUkZN2zfFI/AAAAAAAADbc/j4aAFgGCLi4847PbCWcaNYNHzNSfGHJUgCLcBGAs/s1600/The%2BBelko%2BExperiment.jpg'
+}, {
+  'titulo': 'beyond-skyline-2017-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-jN2YDAGc8CA/Wg4UtZwHSqI/AAAAAAAAtfg/w-VT7878SO09cZmMRgrPEv0cRKQqgyH7wCLcBGAs/s1600/beyond_skyline_ver3_xxlg.jpg'
+}, {
+  'titulo': 'the-adventurers-2017-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-ZcrZvJzZV0Q/WZE7Gq67jdI/AAAAAAAAMXY/bU_0Is2ou0MWdEALzLeiUveJq1VMFoQcgCLcBGAs/s1600/406x600.jpg'
+}, {
+  'titulo': 'o-estrangeiro-2017-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-0mGk36xxE5w/Wd_rL6Eu3pI/AAAAAAAABKk/pghM4c-FJSYsjZ21xa060wx3PKYSqMl6gCLcBGAs/s1600/O%2Bestrangeiro%2B1.jpg'
+}, {
+  'titulo': 'o-fim-do-dia-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-9UsfOrbvE6A/V-glz_GMQDI/AAAAAAAA7bc/Q7V49isnNPUtOdyipf0IJsN-c6kzXJGggCLcB/s1600/daylight.jpg'
+}, {
+  'titulo': 'the-rendezvous-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-sAU8yulwmOg/Vz3sy5AbZEI/AAAAAAAAUEs/YxL2_MSwrFsPN56CQmXQRMkENGMSysl0ACLcB/s1600/The-Rendezvous.png'
+}, {
+  'titulo': 'kingsman-o-circulo-dourado-2017-dublado-hd',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-FxMYyCprifQ/Wc55SPZy-II/AAAAAAAABOo/VqzkHaa1RIwdlAAL2hQEYu6yM116MbvjwCLcBGAs/s1600/252116.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg'
+}, {
+  'titulo': '222-encontro-marcado-2017-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-3I1XN5saQKs/WZeV-d2wYDI/AAAAAAAAFjE/3nIa80ldsSsJvoUDWC--36Ul5CKDjhONQCLcBGAs/s1600/poster-222-encontro-marcado-EM-ALTA.jpg'
+}, {
+  'titulo': 'unnatural-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-Uct2ua30cxg/WjGr5dXj2ZI/AAAAAAAACDs/LFoVA4Y1utsyMrVY6jt_gBcwBc7quG-QACLcBGAs/s1600/unnatural-308250579-large.jpg'
+}, {
+  'titulo': 'depois-daquela-montanha-2017-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-JkBOHHGYJvU/WfjPxyVMslI/AAAAAAAAd30/Ut76FNu2JbMpWY30MC_RD7pTc1Z13-bhgCLcBGAs/s1600/depoisdaquelamontanha_2.jpg'
+}, {
+  'titulo': 'diamond-cartel-2017-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-0cov9NNiUec/Wb2p1uCFcmI/AAAAAAAAQDg/V0RGtvcL8yAV7RgQfSkWs4MOR6o_FWXjQCLcBGAs/s1600/DVD%2BCover.jpg'
+}, {
+  'titulo': 'resposta-armada-2017-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-5Bxfm0Af0gU/WVaNfFUhX_I/AAAAAAABKrY/GIx0ubXOr40v04AQMPC-3z40WhuaijGYgCLcBGAs/s1600/armed%2Bresponse.jpg'
+}, {
+  'titulo': 'os-guardioes-2017-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-hP-UlpTShs8/WbVbEpMoU0I/AAAAAAAAA9Y/Qk_oZEZN9H8aloi4UBavRjATUGSFsVwLwCLcBGAs/s1600/os-guardioes-critica-00.jpg'
+}, {
+  'titulo': 'pokemon-o-filme-eu-escolho-voce-2017-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-fqr8xeNGzaU/WiaIlWPVV8I/AAAAAAAAB-o/iXgoE0pfPSQZyBTW5KDhVv5BZTQeOyFcgCLcBGAs/s1600/85787l.jpg'
+}, {
+  'titulo': 'o-sequestro-2017-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-LmNAZ2J6mXI/WcvjH5D5OaI/AAAAAAAAdfc/LRzR08zJ05gQRv2cy1aSjlDQ0r0OfV1eACLcBGAs/s1600/19759-cartaz.jpg'
+}, {
+  'titulo': 'lego-ninjago-o-filme-2017-dublado-hd',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-iRB-ii_OhzQ/Wc5xAqxuJJI/AAAAAAAABOA/h0UFg0oatMUOIJZLJRQsmhH1vYVW_mHlQCLcBGAs/s1600/lego-ninjago-o-filme-poster-teaser_cymc.jpg'
+}, {
+  'titulo': 'kingsman-o-circulo-dourado-2017-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-pbJiONz713I/Wc-y7FzbYBI/AAAAAAAAMAQ/KqXCML8ompwOcHaBdntwTTnE2r7O3bN-wCLcBGAs/s1600/KINGSMAN-O-CIRCULO-DOURADO.jpg'
+}, {
+  'titulo': 'kickboxer-retaliacao-2017-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-gWkdZLB5q0g/Why38tUmH9I/AAAAAAAAMw8/i3tFQEYzqTwie9bFnXy25_Ji7_Kny4MvQCLcBGAs/s320/0843807.jpg'
+}, {
+  'titulo': 'atomica-2017-dublado-hd',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-BJW9hiZt1CQ/WT6f3zSftVI/AAAAAAAAMEI/3LFcmxzhjgwknzPZUP_VVuYLMF4jQCOdACLcB/s1600/atm05.jpg'
+}, {
+  'titulo': 'a-batalha-na-montanha-do-tigre-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://i.imgur.com/oecgqcU.jpg'
+}, {
+  'titulo': 'tempestade-planeta-em-furia-2017-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-qf9efO0bUWQ/WedyObMuhXI/AAAAAAAACFI/PQj84W76Hsg7B8BSmWUAiJxJ0THz8IMJwCLcBGAs/s1600/1825648.jpg'
+}, {
+  'titulo': 'valerian-e-cidade-dos-mil-planetas-2017-dublado-hd-6',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-E-3_315MiKc/WQNgQrTOyhI/AAAAAAAA8jU/TXCChe71_UABHsGntcUbjp-b64cif6EpwCLcB/s1600/valerian.jpg'
+}, {
+  'titulo': 'dupla-explosiva-2017-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-7ep9ay8lT3s/WaiTAhUNPaI/AAAAAAAAAy0/BfuH2HDqBHAwT1sWqyjUOU1Uw7duGbGdgCLcBGAs/s1600/351355.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg'
+}, {
+  'titulo': 'o-assassino-o-primeiro-alvo-2017-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-S8zVouU1i2E/WcXQwJyXAWI/AAAAAAAAPxM/Tc4C_M9WtjQ1ApmgyAZPXLGdGOCEZXVNgCLcBGAs/s1600/O-Assassino-O-Primeiro-Alvo.jpg'
+}, {
+  'titulo': 'the-humanity-bureau-2017-legendado-hd-1',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-NP-1zmXyTAE/WhRQZwj7bWI/AAAAAAAABws/sob3w8W3DLEh8h5c_nR8YRu2P9dPMkEbQCLcBGAs/s1600/MV5BNGQ2ZTk2MTctYWQ5Yi00YWI4LTkzOGQtMDlmODA1ODQyZTk0XkEyXkFqcGdeQXVyNzIyODcxNjE%2540._V1_UY268_CR14%252C0%252C182%252C268_AL_.jpg'
+}, {
+  'titulo': 'drone-wars-legendado-hd',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-4qmSV0xxS5A/WQ2NtKFmrKI/AAAAAAAAAc4/0c9eQBdR2j0frbdCKi5UmppmXwQDp40cACLcB/s1600/big_33220.jpg'
+}, {
+  'titulo': 'mayhem-2017-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-z7OMby6bvYE/WhLKeNZW5CI/AAAAAAAABt0/2C0cc9dNkjcLLxdVVLIOULGhMY-3rOVCgCLcBGAs/s1600/large_mayhem_ver3_xlg.jpg'
+}, {
+  'titulo': 'god-of-war-2017-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-qgGgqQBLlIE/V-El_nhW-1I/AAAAAAAAe1o/EnTwgSbVM2kS3Fqj_xOL7O1vT2v2ZMVzwCLcB/s1600/142718.80412965_1000X1000.jpg'
+}, {
+  'titulo': 'beta-test-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-GgUfMyXuEmI/V6GiXrLWRxI/AAAAAAAAPIU/la2cteOfELk7F7EQk3zaOv2-o61SSv9-wCLcB/s1600/BetaTest2016EnglishMovieDownload.jpg'
+}, {
+  'titulo': 'desastre-da-terra-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-LRQEv_t-Feo/WCpiFzxlcRI/AAAAAAAAD_w/Qa6vwL1gqwo0eyh7LcR0ZPLy-bfRMWvQQCEw/s1600/earthtastrophe.jpg'
+}, {
+  'titulo': 'a-lamina-do-imortal-2017-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-xBO18G0J19Y/WffSBrukUuI/AAAAAAAA1BQ/98ONhHA2GmYLVYwRaKrUIzmnrYjc8OtVACLcBGAs/s400/blade.jpg'
+}, {
+  'titulo': 'mecanica-das-sombras-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-bvi3-6MiPrw/WW3-Q_LPuKI/AAAAAAAAJas/mBob3tDeDs8eHm1zneDVTJ5yP7eqmoiDQCLcBGAs/s1600/scribe.jpg'
+}, {
+  'titulo': 'mecanica-das-sombras-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-bvi3-6MiPrw/WW3-Q_LPuKI/AAAAAAAAJas/mBob3tDeDs8eHm1zneDVTJ5yP7eqmoiDQCLcBGAs/s1600/scribe.jpg'
+}, {
+  'titulo': 'revolucao-virtual-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-IYN10skY_Uc/V4FQi72-DSI/AAAAAAAALH8/cevp4UcOwPUUDSqT3Tqmo4wPgSN2WdX0wCLcB/s1600/VirtualRevolutionL_.jpg'
+}, {
+  'titulo': 'alien-convergence-2017-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-2yBEs58U7f0/Wgn5eSwihjI/AAAAAAAABoE/-HHFCWU7tpUNnq4id2n4OnKCCmG4fkwNACLcBGAs/s1600/alien-convergence-2017-movie-poster.jpg'
+}, {
+  'titulo': 'all-about-the-money-2017-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-teOiXPGIvwg/WgilLeyXjZI/AAAAAAAABno/75Xhmd8ZWNo9UmPqGwMDtNqutOSkmoxyACLcBGAs/s1600/MV5BNmZmYzg2OWMtMmE4OC00MTkwLTgwNjktYzE0ZDc1Zjk3OWNlXkEyXkFqcGdeQXVyMTk3NzQ0MQ%2540%2540._V1_SY1000_SX675_AL_.jpg'
+}, {
+  'titulo': 'bon-cop-bad-cop-2-2017-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-FVkBSrlt1Js/WgcQyspRxpI/AAAAAAAABnM/9oje87aAR6Q66z1B-KMduBwm66cOWyPOACLcBGAs/s1600/bon-cop-bad-cop-2-poster.jpg'
+}, {
+  'titulo': 'origem-do-dragao-2017-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-d-txWlc6jv0/We9f6CqG55I/AAAAAAABB6s/ALs4Fyk2ojwf68Wb14FOpEPasheFDz0ywCLcBGAs/s1600/origem.jpg'
+}, {
+  'titulo': 'dupla-explosiva-2017-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-7ep9ay8lT3s/WaiTAhUNPaI/AAAAAAAAAy0/BfuH2HDqBHAwT1sWqyjUOU1Uw7duGbGdgCLcBGAs/s1600/351355.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg'
+}, {
+  'titulo': 'valerian-e-cidade-dos-mil-planetas-2017-legendado-hd-10',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-E-3_315MiKc/WQNgQrTOyhI/AAAAAAAA8jU/TXCChe71_UABHsGntcUbjp-b64cif6EpwCLcB/s1600/valerian.jpg'
+}, {
+  'titulo': 'gun-shy-2017-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-pKVEYk5cnWU/WgJz71FrwRI/AAAAAAAABlU/TJgivWF4J3wnKwD9_zbTcoXwRQ5CLgsqgCLcBGAs/s1600/MV5BNDQwNTk2MDk1NV5BMl5BanBnXkFtZTgwMzgwOTUxMzI%2540._V1_SY1000_CR0%252C0%252C674%252C1000_AL_.jpg'
+}, {
+  'titulo': 'vovo-disfarcado-2017-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/--3KNqE2rW2o/WgIcD_NDHyI/AAAAAAAABks/TKaEFrKghMkzLdsMbpzVrktA-wNQo6q-wCLcBGAs/s1600/movieposter.jpg'
+}, {
+  'titulo': '6-dias-2017-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-7j8l5R7Wzbo/WZ5Iil_douI/AAAAAAAAApE/Dp8Q7nauDI4KHg2uQepI00MA8FthtWzMQCLcBGAs/s1600/P_HO00004692.jpg'
+}, {
+  'titulo': 'loucos-e-perigosos-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-Fe-_8ikcig4/WW-qf6icssI/AAAAAAAAKiA/ZRMIjprignME1JjpL8M5iy5sg8-U4mElACLcBGAs/s320/DEDDR.jpg'
+}, {
+  'titulo': 'atomica-2017-legendado-hd-2',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-BJW9hiZt1CQ/WT6f3zSftVI/AAAAAAAAMEI/3LFcmxzhjgwknzPZUP_VVuYLMF4jQCOdACLcB/s1600/atm05.jpg'
+}, {
+  'titulo': 'parasyte-part-2-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-IuKP3RnFmHY/Vqf5V_lHfRI/AAAAAAAAFwE/tGXiNH6xpoY/s1600/Parasyte%2B-%2BPart%2B2.jpg'
+}, {
+  'titulo': 'tombstone-justice-is-coming-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://images-na.ssl-images-amazon.com/images/I/51UdG6rzHkL.jpg'
+}, {
+  'titulo': 'tombstone-justica-esta-chegando-dublado-hd',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://images-na.ssl-images-amazon.com/images/I/51UdG6rzHkL.jpg'
+}, {
+  'titulo': 'acts-of-vengeance-2017-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-8eNFoxKVJbI/WdDyq6CXW-I/AAAAAAAAFOI/IlSMYAQS-y8S32hIRLRn7oYiSPR1lJZbwCLcBGAs/s1600/Acts_Of_Vengeance_2017_Movie_Trailer_VideoUnlimit.jpg'
+}, {
+  'titulo': 'feito-na-america-2017-legendado-hd',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-IYaSPwiCooM/WbnSf1Z5JQI/AAAAAAAABDg/KEYJ06rS2jg54CrkB5CDyOeKYDykaUUYgCLcBGAs/s1600/FNA_Poster.jpg'
+}, {
+  'titulo': 'memoir-of-murder-2017-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-xQZD9VfUF9I/WbH8xLjeh9I/AAAAAAAAi10/TnmI3oUsne4wC4yUwFNCzX1qDDsbpI7HwCLcBGAs/s1600/MemoirofaMurderer.jpg'
+}, {
+  'titulo': 'sem-controle-2017-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-6g5kjRUsLto/WQkBMC2YEVI/AAAAAAAA2AU/l935pJu9_mYuMZI40Z7UuZKrmMLxeLdKACLcB/s1600/the-shadow-effect-poster.webp'
+}, {
+  'titulo': 'day-release-tercer-grado-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-mfWEFB7SVxQ/Vmi2CQcBfEI/AAAAAAAAaAg/y4-ZnmkGJSs/s1600/Tercer_grado-970397841-large.jpg'
+}, {
+  'titulo': 'ataque-bushwick-2017-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-z-nXCUjdlGU/WeJ3R3g2cmI/AAAAAAAAIKQ/JP6VHm6F7YIao5JacZjM8JBZmQCWVZF6ACLcBGAs/s1600/ataque-a-bushwick-2017.jpg'
+}, {
+  'titulo': 'no-limite-2017-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-p0XkWHIP5Mc/WQTE0zOhADI/AAAAAAAAhdk/bPrTfp1eG6czovSFe-w8gGb6zOX0MOFsgCLcB/s1600/overdrive_poster_goldposter_com_2.jpg%25400o_0l_800w_80q.jpg'
+}, {
+  'titulo': 'jungle-2017-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-wCmXFIyYgYI/We4l2r6yjAI/AAAAAAAABck/pScjBBgPM8ozyvIKHVvhYQIMXsoQYT70gCLcBGAs/s1600/Jungle2017poster.jpg'
+}, {
+  'titulo': 'a-vila-2017-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-k2WnMb_vN-U/WRPcS0r8uwI/AAAAAAAAjIs/arDxHxVnDTcdKB1CQRr2Ku4sdB7IRaK1QCLcB/s1600/downloadfile.jpg'
+}, {
+  'titulo': 'wheelman-2017-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-breZW-HwXk8/WeochmlHQ4I/AAAAAAAABaU/xtgjSDiPb9cgzUVPTF2LPku-JMysxD3FQCLcBGAs/s1600/0502981.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg'
+}, {
+  'titulo': 'stratton-forcas-especiais-2017-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-3knT3XMmOEY/WVVfS_XW6dI/AAAAAAAAG24/qOQYolbCPQsgB1nuWrD1Bc70gMt2bP8MgCLcBGAs/s1600/STRATTON_POSTER_70X100CM.jpg'
+}, {
+  'titulo': 'feito-na-america-2017-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-IYaSPwiCooM/WbnSf1Z5JQI/AAAAAAAABDg/KEYJ06rS2jg54CrkB5CDyOeKYDykaUUYgCLcBGAs/s1600/FNA_Poster.jpg'
+}, {
+  'titulo': 'taxi-driver-taeksi-woonjunsa-legendado-hd-1',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-ijv67qouO60/WeAmq34cOYI/AAAAAAAABWA/Qp7JWmtUF1sNt-bpLyTTxiSr9ATdkRF3ACLcBGAs/s1600/MV5BMTA5ZGE4ZTQtYjVjOS00MTllLTkwZWEtYzQ5NzljMWJkYWE4XkEyXkFqcGdeQXVyMTk0NTY2ODQ%2540._V1_UX182_CR0%252C0%252C182%252C268_AL_.jpg'
+}, {
+  'titulo': 'the-man-with-the-iron-heart-2017-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-OY9Tc7wjGso/WPWF4eXoxUI/AAAAAAABgq4/2YpHV600yEYwBTyhjyshY636C84HwxfMQCPcB/s1600/image.jpeg'
+}, {
+  'titulo': 'planeta-dos-macacos-a-guerra-2017-legendado-hd',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-pa5vAiJ3Xrk/WY2tiVYtyMI/AAAAAAAATlA/pe13PkOfeckddZ3JWw-grQJGTxRvR-imgCLcBGAs/s1600/war_for_the_planet_of_the_apes_ver7.jpg'
+}, {
+  'titulo': 'ficcao-cientifica-volume-1-a-filha-de-osiris-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-rqpCLNENOP4/WaRB_EOn0iI/AAAAAAAANcs/sRAbOKKI2o4ELtp7yhJgam9G9QmYUWFngCLcBGAs/s1600/Science%2BFiction%2BVolume%2BOne%2B-%2BThe%2BOsiris%2BChild.jpg'
+}, {
+  'titulo': 'sniper-ultimate-kill-2017-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-PkCBdM8HoKU/WdgHMWvPL3I/AAAAAAAAqkk/bpmXCBn_biIQR4jyh2q3wG29p4I6FKEBACLcBGAs/s1600/1_C3NryPA.jpg'
+}, {
+  'titulo': 'trenk-o-cavaleiro-trapalhao-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-bwWTQyyVleY/WdfpWiJZ2rI/AAAAAAAAH6E/N80SFXN-GdQMwHL_QtL6Uo5lzB_TYG7JwCLcBGAs/s1600/trenk-o-cavaleiro-trapalhao-2017.jpg'
+}, {
+  'titulo': 'zombies-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-nB3kvtligGc/WdZAiDlNE4I/AAAAAAAABSs/MQvUZ_5cwrIdiavuAO_GaiyFl-n4vZKzQCLcBGAs/s1600/Zombies.jpg'
+}, {
+  'titulo': 'bruxarias-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-1hVma2XeGBA/WdOV7BRNDmI/AAAAAAAABRo/97RmhPtfOs4iDcCHJQwLCRe9wLgXixgrwCLcBGAs/s1600/20170619-bruxarias-papo-de-cinema-cartaz.jpg'
+}, {
+  'titulo': 'sky-on-fire-chongtian-huo-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-WNNLGG831NQ/WEUL59E2_mI/AAAAAAAAQqE/dALlIPuA9bAkb5XipPReL_aCSSRYmdSRACLcB/s1600/sky%2Bon%2Bfire.jpg'
+}, {
+  'titulo': 'mune-o-guardiao-da-lua-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-Vqf4wJJx-20/WdIKVDSZzlI/AAAAAAAABRM/h8ZiYXQ5Lzkx_JLmVot4a8XXAGSCY_JxQCLcBGAs/s1600/MUNE_web.jpg'
+}, {
+  'titulo': 'killing-gunther-2017-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-6c5Kf1qIf7U/Wah-YXSXCeI/AAAAAAAA2WI/nK-XF9vc20ANE3hJX5DwAHQgLVF7h9UBgCLcBGAs/s1600/killing-gunther-poster.jpg'
+}, {
+  'titulo': 'my-pet-dinosaur-2017-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-neCA2JV83A8/WbLIKFSMGZI/AAAAAAAAb1M/d_-6Okp_v501yFwgp32QT3DHCTu0cFy3ACLcBGAs/s1600/7PpqSMJjibR5.jpg'
+}, {
+  'titulo': 'armed-response-2017-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-5Bxfm0Af0gU/WVaNfFUhX_I/AAAAAAABKrY/GIx0ubXOr40v04AQMPC-3z40WhuaijGYgCLcBGAs/s1600/armed%2Bresponse.jpg'
+}, {
+  'titulo': 'uma-agente-muito-louca-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-HtlvkdOTZQk/WTijWnxnN5I/AAAAAAAAPMo/3W8oWguAL1wztI19mLw-Fh4y1E4-swJRgCLcB/s1600/Uma-Agente-Muito-Louca-RAID-Dingue.jpg'
+}, {
+  'titulo': 'meu-malvado-favorito-3-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-zjgUbiSx5iQ/WVqXF4bH2OI/AAAAAAAAKP4/k1kz4u24g6AkqNUTCD3ZJH4_OOhc03UGACLcBGAs/s320/images.jpg'
+}, {
+  'titulo': 'le-convoi-fast-convoy-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-VyhtP80qGQ0/WcWfNr9BrjI/AAAAAAAABKc/5rWGS57ArjU5enI28FVJhmKT62T8tPrzACLcBGAs/s1600/u8I9fA6bO8qNe9ZsE3EZkgC7x7Q.jpg'
+}, {
+  'titulo': 'piratas-do-caribe-vinganca-de-salazar-dublado-hd',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-7_2VxkgYsQ0/WTXabM0sdQI/AAAAAAAAJus/qBkNKu9rjZwOIKE2Tm-z8CCZIyD6mQavACLcB/s320/gfdgfgddgfghgh.jpg'
+}, {
+  'titulo': 'assistir-transformers-5-o-ultimo-cavaleiro-dublado-hd-6',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-uku7IVKEpUU/WXNQ4wg41cI/AAAAAAAAKmM/22zU2Qqk4RgcKO0y-hUvhZgm0mbgBiPigCLcBGAs/s320/huhuhuhuhu.jpg'
+}, {
+  'titulo': 'free-fire-o-tiroteio-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-hmGIpza8ciM/WUgy5vPqP1I/AAAAAAAAAKY/tLZ5VY02o-At5h9i3PKWu9_FSUcuF5vigCLcBGAs/s1600/RX4m9oS.jpg'
+}, {
+  'titulo': 'colossal-2017-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-j8_ZQ4G2dUw/WbwG0fJDNaI/AAAAAAAABAg/nXmKLt-lMK0ppBBnV5me7EwmXU6oDp_6ACLcBGAs/s1600/17835202_1443708042357412_6059105259721984796_o.jpg'
+}, {
+  'titulo': 'mumia-2017-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-sNNVduv3faQ/WT4Bt8hEiPI/AAAAAAAAJ2s/IVdi7R8chqkmH73rKuiBc8PaPyGOBrMigCLcB/s320/596203-272x400.jpg'
+}, {
+  'titulo': 'darkland-underverden-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-mhKLW3mEGcE/WbSUwVeqNrI/AAAAAAAAA8c/-ZK7nV3Fl5IPnh3Q-_jnHkY1EGnissnvACLcBGAs/s1600/MV5BMWQ4NTBhMWItNmNmNi00M2I1LWEzZWUtZWRmYTA2MzE1MjcxXkEyXkFqcGdeQXVyMzcwNjA5Mzg%2540._V1_UY1200_CR90%252C0%252C630%252C1200_AL_.jpg'
+}, {
+  'titulo': 'seguranca-em-risco-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-C9oHzpDi-Ag/WZeBzoI2xfI/AAAAAAAAAj0/rpFlk8XF0DkOsToJCxxtf46xuFsk5PzmgCLcBGAs/s1600/Security-movie-BluRay-cover.jpg'
+}, {
+  'titulo': 'assistir-transformers-5-o-ultimo-cavaleiro-legendado-hd-9',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-_y1C5ij-d9U/WVqJYZ4f1DI/AAAAAAAAKPk/sVGeAkdggZQ_Ktit4s3wqlfuySH1vzWuQCLcBGAs/s320/DB5m0ctUIAAtAB1.jpg'
+}, {
+  'titulo': 'piratas-do-caribe-vinganca-de-salazar-legendado-hd',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-7_2VxkgYsQ0/WTXabM0sdQI/AAAAAAAAJus/qBkNKu9rjZwOIKE2Tm-z8CCZIyD6mQavACLcB/s320/gfdgfgddgfghgh.jpg'
+}, {
+  'titulo': 'imperio-dos-tubaroes-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-lPd0XnngohQ/WZRDiNMk7uI/AAAAAAAAAio/Cu8ur4Uj7Z8-q0ue-mG-xvY84DGRRdXWQCLcBGAs/s1600/6DZ6TWmcqUtiLq1TtuEJktfTVhY.jpg'
+}, {
+  'titulo': 'bushwick-2017-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-dWIlRMaWFHY/WWqiAEs7cnI/AAAAAAAAsDQ/LPA8eRWb9wMDdTNp8-JG0lmjKT2dW1NDgCLcBGAs/s1600/bushwick_ver4_xlg.jpg'
+}, {
+  'titulo': 'viagem-das-loucas-snatched-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-83W84Qg91u8/WaxbbKdSM8I/AAAAAAAAA2s/c2ixE0QO58sRdvMP2C6EVOoTJFeDan_6wCLcBGAs/s1600/4a34f72077251386d0f757b90c6f5f48.jpg'
+}, {
+  'titulo': 'as-aventuras-do-capitao-cueca-o-filme-legendado-hd',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-OuIxmHgTYis/WaxEdfNBC6I/AAAAAAAAA2Q/6pfNP02pAzs6MKjascXlIcMi2XWyDFG6QCLcBGAs/s1600/Captain_Underpants_The_First_Epic_Movie_poster.jpg'
+}, {
+  'titulo': 'the-northlander-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-zmscM2M0S4o/Waw8Ki1buSI/AAAAAAAAA10/RSfaoAKFXSo1eEstaPnLVuCpq8KIFDyRACLcBGAs/s1600/The-Northlander.jpg'
+}, {
+  'titulo': 'the-fourth-phase-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-gSYsraBCDps/Wawar-BZiMI/AAAAAAAAA1Y/nYJvyu9KebYF1IoQFB64SwYwiZCAWzEuQCLcBGAs/s1600/MV5BOGVhNjUwYTItYmI2NS00ZGI1LWE5ZDQtMWVjMTIyODAzMDI4XkEyXkFqcGdeQXVyMjQ3NzUxOTM%2540._V1_UY268_CR3%252C0%252C182%252C268_AL_.jpg'
+}, {
+  'titulo': 'viagem-das-loucas-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-JRSE9KRH2xE/WaqsIwIZlpI/AAAAAAAAAzs/0AK_oo97orAIp7ligegg7qmT7w3Wahl_wCLcBGAs/s1600/dc43022de0497e0b6bb61a7b8b092184.jpg'
+}, {
+  'titulo': 'rapidos-e-perigosos-2-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-J1UpC2kuab8/WanS40tqStI/AAAAAAAAAzQ/y9FLCP4avr4lZj6xYG9W5WVqfW5Cuec-wCLcBGAs/s1600/borning_2_nordic-37655412-.jpg'
+}, {
+  'titulo': 'the-monster-project-2017-legendado-hd',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-YUtYZRVFiqI/WaffZ1d6_GI/AAAAAAAAAxg/r_J_S9tS1uUVF8DO64ufBvzkGDBl2MCnQCLcBGAs/s1600/the-monster-project-2017-horror-movie-new-poster.jpg'
+}, {
+  'titulo': 'mumia-2017-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-kl_MpnRRunw/WWVsMmszfcI/AAAAAAAAKaU/gPvIlxHnfs0pekfYg03VVL7MezNtteZ8ACLcBGAs/s320/441062.jpg'
+}, {
+  'titulo': 'first-kill-2017-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-shUjToS_REY/WT6z5B63TgI/AAAAAAAAZyo/4H4tjuqRqJYeefqN7FspoZHrVOqd81URwCLcB/s1600/MV5BNDE1YjU5YzYtYTdmYi00NjkzLThiZTItMTQ5NzMxZTNiMzdiXkEyXkFqcGdeQXVyMjM4NTM5NDY%2540._V1_SY1000_SX675_AL_.jpg'
+}, {
+  'titulo': 'rogue-warrior-robot-fighter-2017-legendado-4k',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-llMvK3RshBY/WB28GgkUa2I/AAAAAAAAIJU/m_qDkD9n9dkBJO_Be4cJiyZRXqEZxzNBACLcB/s1600/one.png'
+}, {
+  'titulo': 'assistir-mulher-maravilha-legendado-gratis',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-VbRhxZmTEYU/WTwDyxCzdwI/AAAAAAAAJ00/iKalvfSozzE60HELA1orihnRRnbs7MnZwCLcB/s320/c-38a4sxkaavykz.jpg'
+}, {
+  'titulo': 'ficcao-cientifica-volume-1-a-filha-de-osiris-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-zNbnioUdBxM/WaRtZCGYrKI/AAAAAAAAAtw/hX5SvWxyVqEB6OcAIlXNrgFjVzvOx2btwCLcBGAs/s1600/013fee9e1b17ff85da439f975d36a282.jpg'
+}, {
+  'titulo': 'conspiracao-terrorista-unlocked-2017-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-Xox57Y8cPwQ/WaKeBm9ip3I/AAAAAAAAAs0/pS8At8H9PGoSWl3JYiVdPlvErIWYSt4bgCLcBGAs/s1600/Unlocked-Thai-poster.jpg'
+}, {
+  'titulo': '6-days-2017-legendado-hd',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-7j8l5R7Wzbo/WZ5Iil_douI/AAAAAAAAApE/Dp8Q7nauDI4KHg2uQepI00MA8FthtWzMQCLcBGAs/s1600/P_HO00004692.jpg'
+}, {
+  'titulo': 'operation-dunkirk-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-QHu4S8BSwkU/WRs2grbvp3I/AAAAAAAAJqw/iOl-NOlsbGY1vWBZh-6YLfoFl_inUHkYwCLcB/s1600/Operation-Dunkirk-movie-poster.jpg'
+}, {
+  'titulo': 'batman-e-arlequina-pancadas-e-risadas-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-xAfSpolhM0I/WZtcIzGtCwI/AAAAAAAAAl4/-x4GUPE4ECYrOkhq1WACn7XBay4oLgqygCLcBGAs/s1600/Batman_and_Harley_Quinn_movie_poster.jpeg'
+}, {
+  'titulo': 'assistir-baywatch-dublado-hd-7',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://s-media-cache-ak0.pinimg.com/236x/c0/f4/12/c0f4120901673ceac19e96a43e2216c2.jpg'
+}, {
+  'titulo': 'batman-e-arlequina-pancadas-e-risadas-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-xAfSpolhM0I/WZtcIzGtCwI/AAAAAAAAAl4/-x4GUPE4ECYrOkhq1WACn7XBay4oLgqygCLcBGAs/s1600/Batman_and_Harley_Quinn_movie_poster.jpeg'
+}, {
+  'titulo': 'assalto-ao-shopping-security-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-C9oHzpDi-Ag/WZeBzoI2xfI/AAAAAAAAAj0/rpFlk8XF0DkOsToJCxxtf46xuFsk5PzmgCLcBGAs/s1600/Security-movie-BluRay-cover.jpg'
+}, {
+  'titulo': 'busca-sem-limites-2017-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-OWWrZhLEzqc/WK6Ve-0UGFI/AAAAAAAAks0/0qF8jiniyjoUW4j-H1sLyfbno3mFxSEcACPcB/s1600/COLL%2BA3.jpg'
+}, {
+  'titulo': 'boyka-o-imbativel-4-2017-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-ZP0Jk7YbNAs/WPpjICMtsnI/AAAAAAAACEU/vxlKRSlTO0kNOqVHLCr9_x7L2zKT2KpwgCLcB/s1600/bokya-torrent.jpg'
+}, {
+  'titulo': 'deadpool-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-IgiuCgwQ1R8/Vy-VkivIPCI/AAAAAAAALOk/-XxNUcwX-CMZYfm_YkJTkxBYafSjMczNgCLcB/s1600/Deadpool%2B-%2Bsatelitevertebral.blogspot.com%2B%252812%2529.jpg'
+}, {
+  'titulo': 'baywatch-s-o-s-malibu-legendado-hd-6',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-6YL-2GCHIA8/WVZinrd6OrI/AAAAAAAAKMI/bJKbqrn0csodUj7dnBIvYpf2Q1vPfNA1ACLcBGAs/s320/bw.jpg'
+}, {
+  'titulo': 'deixados-para-tras-2-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/_e6byNktkKV4/TEGh9YDEDsI/AAAAAAAAAIA/XZUuB_iDyWY/w1200-h630-p-k-no-nu/DEIXADOS+PARA+TR%C3%81S+2+COMANDO+TRIBULA%C3%87%C3%83O.jpg'
+}, {
+  'titulo': 'deixados-para-tras-1-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-Lmm22Mxq1xU/UvMTKTMf1sI/AAAAAAAAAXw/HXj7xcn6MLg/s1600/deixados+para+tr%25C3%25A1s.jpg'
+}, {
+  'titulo': 'coracoes-de-ferro-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-Xe-nhcmiE1U/VNzhr9An68I/AAAAAAAAG7I/1aJ37zTB0RU/s1600/fury%2Bposter.jpg'
+}, {
+  'titulo': 'furia-de-titas-2-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-qiBKeZBzDIM/VZJQL0vugYI/AAAAAAAAQVA/DJVYSI9Ojbw/s1600/fudetit2.jpg'
+}, {
+  'titulo': 'furia-de-titas-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/_W5jtq0y8vwA/S_vi7jaOczI/AAAAAAAACig/MgK53t-JNDI/s1600/P%C3%B4ster-filme-F%C3%BAria-de-Tit%C3%A3s.jpg'
+}, {
+  'titulo': 'o-hobbit-batalha-dos-cinco-exercitos-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-qtLjOYjEu5o/VI98RbLTptI/AAAAAAAAAaY/TzqVJc6zCfQ/s1600/hobbit.jpg'
+}, {
+  'titulo': 'ninja-assassino-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/_DF0xj-MJdBs/S7uyV1f6fcI/AAAAAAAAAmk/_D1unH6qqQc/s1600/ninjaassassinposter.jpg'
+}, {
+  'titulo': 'as-bem-armadas-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-wA-qmRrmL8I/UlwEyIIyG2I/AAAAAAAABJg/dyt-tXECgGs/s1600/Untitled-5d.jpg'
+}, {
+  'titulo': 'death-note-iluminando-um-novo-mundo-legendado-hd-4',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-NyP7KPtOIow/UnIxY01shzI/AAAAAAAASJo/1I7owKuhbVY/s1600/death+note+poster+light+yagami.jpg'
+}, {
+  'titulo': 'black-site-delta-2017-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/--7negSH538Q/WTZy6A9cVkI/AAAAAAAAEzY/q0liaVBDlwMrfPjCDdzSSY23n8NiOo-CgCLcB/s640/0411c9ac-89a8-4ad8-a476-989284573e57.jpg'
+}, {
+  'titulo': 's-w-a-t-operacao-escorpiao-2017-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-IqVU1P6Tzh8/WXipMN4VCLI/AAAAAAAAENw/IGzPnnnrJZACjcAnTSBiGZpx7NVrS6uGgCLcBGAs/s1600/S.W.A.T.Under_Siege_torrent-2017_filme_bluray.jpg'
+}, {
+  'titulo': 'the-game-changer-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-zqfYayjRG0Q/WY5tmC3OomI/AAAAAAAAAhc/f5xCl47CmsMlbere0r6hScGBrfnfRxheACLcBGAs/s1600/0gSKywh.jpg'
+}, {
+  'titulo': 'mr-right-o-cara-certo-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-_KUC_yJNfFM/WUNW5_H2ybI/AAAAAAAACgc/qDJF3IU3X00qf7GiauHcREbzB0euc9lKwCLcBGAs/s1600/Mr.%2BRight%2B2016.jpg'
+}, {
+  'titulo': 'o-santo-2017-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/--D2k8xhBY88/WWcPqmWlBqI/AAAAAAAEBUs/RNIrM-tGNr8n26-Zj2Di-uxq2gnbCELwACLcBGAs/s1600/The%2BSaint%2B2017%2Bwith%2BAdam%2BRayner.jpg'
+}, {
+  'titulo': 'guardioes-da-galaxia-vol-2-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-u4FluNECQzo/WQUMSVX6RoI/AAAAAAAAAXk/vgCwG6-uC0AdxPZNX0D0-lceIAI1P88CQCLcB/s1600/ezSpIN2bUnVnhqZDTk5RTQA33VR.jpg'
+}, {
+  'titulo': 'o-diario-vigilante-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-bJCbBm53ORY/V4VNMrDd4oI/AAAAAAAABu0/Fc-ClzQL3cEV_4nlk_AXOLpF6H2rsQY6wCLcB/s1600/vigilante-diaries-2016.png'
+}, {
+  'titulo': 'agent-2017-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-klK6lXzH_bU/WYsII91PL_I/AAAAAAAAAe8/wq1VAaKzGxYWJXwINwFYpcXX8U-v70H1QCLcBGAs/s1600/movieposter.jpg'
+}, {
+  'titulo': 'the-prison-2017-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-HiDpIKBp-i4/WYsEx8TxMNI/AAAAAAAAAec/IuZafKRggs8wPet4viKN5EgeoHT7EitAACLcBGAs/s1600/d50a9f3f757417cf66aec37f0ffe8103--prison.jpg'
+}, {
+  'titulo': 'guardioes-da-galaxia-vol-2-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-u4FluNECQzo/WQUMSVX6RoI/AAAAAAAAAXk/vgCwG6-uC0AdxPZNX0D0-lceIAI1P88CQCLcB/s1600/ezSpIN2bUnVnhqZDTk5RTQA33VR.jpg'
+}, {
+  'titulo': 'piratas-do-caribe-3-no-fim-do-mundo-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://image.tmdb.org/t/p/w185/6aI48Ni38DnyOXQCgVdRTzxuiTB.jpg'
+}, {
+  'titulo': 'assistir-o-ataque-dos-vermes-malditos-linhas-de-sangue-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-8jFzm-K5KlQ/V82qv94P8oI/AAAAAAAACD4/XMWotoDoUKwVA7aAOev76cOlsTfCbMliACLcB/s1600/96xIcUk5cBjmb3OulbaRzhWau23.jpg'
+}, {
+  'titulo': 'ssistir-o-ataque-dos-vermes-malditos-4-o-comeco-da-lenda-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-urSoU2JbWH4/V82s_Ku_JLI/AAAAAAAACEE/SZHKhF8ZKg82Lh41RGjO-UvYd3Fd2BeKwCLcB/s320/lcKHMLsKjgsOuGn8xTUZXxr0sLW.jpg'
+}, {
+  'titulo': 'planeta-dos-macacos-guerra-2017-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-mH5NrcPm-LQ/WYUIn_YuPmI/AAAAAAAAAco/mcqwdzqVcM4zjg8P4-erZp9jqeS9fj21ACLcBGAs/s1600/IMG_20170401_120545.jpg'
+}, {
+  'titulo': 'terra-formars-missao-em-marte-legendado-hd',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-Y0GutzQAFWM/WFMkZBS7IDI/AAAAAAAAw94/qVEjqGBq5IITxBo_5n6JV35sl-1CyS3UwCLcB/s1600/595648.jpg'
+}, {
+  'titulo': 'inferno-selvagem-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-9OmWnkhwm0A/V_vlRVXLIQI/AAAAAAAACmA/j7Sa2kBWZg0QbfM6T0QsA1sA8QebApDOwCLcB/s320/73PIBghkVzKRGAjZOBMtAJIXoae.jpg'
+}, {
+  'titulo': 'o-ataque-dos-vermes-malditos-2-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-YU12P0xjgv0/V824mb-b7MI/AAAAAAAACEg/go0_K4R45qQKbpZJ20uHFe88npeadfPGACLcB/s320/icRsONukPXzn8K8VOSmaBxJn8y3.jpg'
+}, {
+  'titulo': 'assistir-o-ataque-dos-vermes-malditos-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-ZpQT3HcbXig/V83H-neE_bI/AAAAAAAACEw/4lTO5Tiugx4fSbFZRooRXCaj-KvhkjWFwCLcB/s320/7GF0L8fkMckB8UcfIQN7Sv1Y9Vy.jpg'
+}, {
+  'titulo': 'o-ataque-dos-vermes-malditos-3-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-eVKObgiRuGE/V82vCglLuAI/AAAAAAAACEQ/EIt4N0G81fcKlT1B2yrCudJIoItKfTaBQCLcB/s320/cC9z8aQMtuxdTfvRzM9MHGCo8A1.jpg'
+}, {
+  'titulo': 'sleight-legendado-hd',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-Ar88mp2h2S0/WYJXcWuToQI/AAAAAAAAAbA/aFwgiJIlOiIZGB73cGmasHGvnvhTy6PbACLcBGAs/s1600/Sleight-new-poster.jpg'
+}, {
+  'titulo': 'velozes-e-furiosos-8-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-lbGvYclyX3A/WLW1iQA9PUI/AAAAAAAAVWI/qgXagt1cMM4hOtcMtfnOaXZUvd3bX3MBwCLcB/s640/velozesfuriosos%2Breal%2Bworld%2Bfatos.jpg'
+}, {
+  'titulo': 'o-senhor-dos-aneis-sociedade-do-anel-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-8DGkG7ROSx0/UB_9R9Pa4WI/AAAAAAAAIxk/XX_-Kqt2fsg/s1600/sociedade+do+anel.jpg'
+}, {
+  'titulo': 'o-senhor-dos-aneis-as-duas-torres-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-YyuB1j23i5E/Tqm3Wo0dYWI/AAAAAAAAAPU/zdehhvf48BI/s1600/o%2Bsenhor%2Bdos%2Baneis_as%2Bduas%2Btorres.jpg'
+}, {
+  'titulo': 'rocky-um-lutador-1976-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-HUoaEneBiUM/UKsFPO7H4TI/AAAAAAAADFE/fxRQLI-VFJA/s1600/Rocky_1976.jpg'
+}, {
+  'titulo': 'o-senhor-dos-aneis-o-retorno-do-rei-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-xxPIvoZpm14/V1WLl-Wdi3I/AAAAAAAAGjo/fywtYF7JUEYjCxPvVLcN-bMueLavsNSDgCLcB/s1600/o-senhor-dos-aneis-o-retorno-do-rei-poster.jpg'
+}, {
+  'titulo': 'o-exterminador-do-futuro-2-o-julgamento-final-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-B65m9AbnlXQ/Vv6G71hzgNI/AAAAAAAAS2E/ISiXPFveR8ckTC4_8cH-AdwVuH8jKzrdA/s1600/O-Exterminador-do-Futuro-2.jpg'
+}, {
+  'titulo': 'indiana-jones-e-os-cacadores-da-arca-perdida-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-j8EoQVFj7TM/Tns1pEuPd8I/AAAAAAAAAHQ/OmxS0DDUiEI/s1600/Indiana%2BJones%2Be%2Bos%2BCa%25C3%25A7adores%2Bda%2BArca%2BPerdida.jpg'
+}, {
+  'titulo': 'gladiador',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/_2-Jw9Sl1rwE/TITySh0xkBI/AAAAAAAAAbE/AqIxNePLWWk/s500/gladiador[1].jpg'
+}, {
+  'titulo': 'impacto-profundo-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-n2cUAuj0tfM/V38xtSEEDuI/AAAAAAAADu0/VaeQEtziSScmx9mxOYNlCDoyId9lRcUAwCLcB/s320/000%252C1.jpg'
+}, {
+  'titulo': 'top-gun-ases-indomaveis-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-WcJyOtejzRE/TepncBY1-uI/AAAAAAAAADE/Cp35Cdiy6M0/s1600/fotocapac.jpg'
+}, {
+  'titulo': 'a-rocha-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-7dDCxGO_4KA/Uodxx674-kI/AAAAAAAAF4s/t1uyyjVscL4/s1600/A+Rocha.jpg'
+}, {
+  'titulo': 'v-de-vinganca-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-ZVNsuPHVtJ8/UcU-uPeFeqI/AAAAAAAABYM/8DHGGCX8xxA/s1600/V+de+vingan%C3%A7a.jpg'
+}, {
+  'titulo': 'veloz-como-o-vento-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-CQ3T16GDMWM/WXqUHmHo58I/AAAAAAAAKsQ/zxcE84932HcXC7-Sjpb344lt81FBcTC9wCLcBGAs/s320/veloce_come_il_vento_ver3.jpg'
+}, {
+  'titulo': 'canguru-jack-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://image.tmdb.org/t/p/w185/9kcHqkLyciZjsrDV5QmYZ1yydld.jpg'
+}, {
+  'titulo': 'rei-arthur-lenda-da-espada-dublado-hd-3',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://image.tmdb.org/t/p/w185/4tGAP9Q00sqI9iF7GXnEOtkvonk.jpg'
+}, {
+  'titulo': 'superman-contra-elite-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://image.tmdb.org/t/p/w185/kLTMa6DvAZD8KMLZM6Mazavb2uf.jpg'
+}, {
+  'titulo': 'boyka-o-imbativel-4-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-8YxkOQLPNvs/WXdjIEl-LXI/AAAAAAAAKpc/iaL0HT2ptwAsZxYOam-RXOPfbYwlrQdWwCLcBGAs/s320/boyka-undisputed-iv.72437.jpg'
+}, {
+  'titulo': 'lenda-de-ben-hall-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-zTJcVD0jOOM/WXYhF-zbO9I/AAAAAAAAKns/3jOKtxT2Q1Q_6ge1zCIRgL2Er6hyODQ8QCLcBGAs/s320/zGIyzRB.jpg'
+}, {
+  'titulo': 'esquadrao-das-trevas-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-Gn12TOthHK4/WXNOYF6eThI/AAAAAAAAKmA/jZj-bcX6feI6tB1zRize0niQPcMTQb1dQCLcBGAs/s320/Night-Crew.jpg'
+}, {
+  'titulo': 'crimes-na-madrugada-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/--JryEin2nUU/V_WIIVIY21I/AAAAAAAA3sE/JEPjdLfGff05W1D_fksHWQyevPnQHOlDQCLcB/s1600/sleepless.jpg'
+}, {
+  'titulo': 'batman-ano-um-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://image.tmdb.org/t/p/w185/lU17bOxUohNl03gfcPEBa8h7POi.jpg'
+}, {
+  'titulo': 's-w-a-t-under-siege-2017-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-73d2t4h-dFA/WW-94JuP3kI/AAAAAAAATl4/w27y60pxXlcbeHM1aDEUd8t3mX-H78vrwCLcBGAs/s1600/S.W.A.T.-Under-Siege-2017-movie-poster.jpg'
+}, {
+  'titulo': 'o-atirador-2017-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-DbCw5hPPAOk/WXDN3qbziOI/AAAAAAAAKjM/GMaxnvPAfPETp-LMJrOvPwZlRmTMxsipACLcBGAs/s320/1473471264484132.gif.png'
+}, {
+  'titulo': 'loucos-e-perigosos-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-Fe-_8ikcig4/WW-qf6icssI/AAAAAAAAKiA/ZRMIjprignME1JjpL8M5iy5sg8-U4mElACLcBGAs/s320/DEDDR.jpg'
+}, {
+  'titulo': 'jogo-dos-solteiros-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-relHbnO6kxE/WWzoqy-tEwI/AAAAAAAAKfg/a1KYOXZJtBEXXko__FUtgxJO2RR91M_NwCLcBGAs/s320/1486919323_bachelor-games.jpg'
+}, {
+  'titulo': '88-assassina-silenciosa-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-pSGrciB6CKc/WW0tkVc9zfI/AAAAAAAAKgE/gfd0-lrDvn85PNV8dKFXczz8nJFJpnzfQCLcBGAs/s320/88.jpg'
+}, {
+  'titulo': 'asura-the-city-of-madness-legendado-hd',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-YrvGGLM8THM/WWz9ZaA01iI/AAAAAAAAKfs/KMsODCcvzwAgjJ5eZDkqB5mgPBLS-VjTQCLcBGAs/s320/9116F5Qqp5L._SY445_.jpg'
+}, {
+  'titulo': 'o-resgate-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://image.tmdb.org/t/p/w185/wYJl9VeSjxxWzffaI9skzYSPRqH.jpg'
+}, {
+  'titulo': 'esporte-sangrento-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://image.tmdb.org/t/p/w185/b7SpbzA0o4UL7pywetcGLBUb5vE.jpg'
+}, {
+  'titulo': 'tom-clancys-ghost-recon-wildlands-guerra-dentro-do-cartel-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://image.tmdb.org/t/p/w185/xUgLzZECwOLM6Xv9IMec6wLrXZC.jpg'
+}, {
+  'titulo': 'fora-da-trilha-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-ZeingUL3Cmw/WWjAGXId80I/AAAAAAAAKb0/GoMQ1YsswOoT4ET6Kghz1e1h-2xUnPUTACLcBGAs/s320/Fora.da.Trilha.jpg'
+}, {
+  'titulo': 'fora-da-trilha-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-ZeingUL3Cmw/WWjAGXId80I/AAAAAAAAKb0/GoMQ1YsswOoT4ET6Kghz1e1h-2xUnPUTACLcBGAs/s320/Fora.da.Trilha.jpg'
+}, {
+  'titulo': 'atirador-de-elite-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://image.tmdb.org/t/p/w185/xgor22p5WyieYB5Kr2XXhpazrEL.jpg'
+}, {
+  'titulo': 'jamaica-abaixo-de-zero-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://image.tmdb.org/t/p/w185/eHyftnTtxPvHe1uZbX3SsaAXyAb.jpg'
+}, {
+  'titulo': 'get-the-girl-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-kX4VCX9FN08/WWGiLdFPBMI/AAAAAAAAKWI/2fD7AwwUIeIn7pEubO41VL2QaoM7PK9FQCLcBGAs/s320/get-the-girl-poster.jpg'
+}, {
+  'titulo': 'matar-ou-morrer-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://image.tmdb.org/t/p/w185/7JjkyMjeOZSPwBBxqw9N5rea3i5.jpg'
+}, {
+  'titulo': 'alta-velocidade-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-pcBZzK41P4Y/WWS-g6q86UI/AAAAAAAAKYM/TERen9TmR_4MqDeHpcdaoZzvlFb3HkFnACLcBGAs/s320/4vXKBlk.jpg'
+}, {
+  'titulo': 'la-mecanique-de-lombre-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-GVmN_q6XARo/WWTFZ1ZgW5I/AAAAAAAAKYo/YMxnXOXyHvI9JhDgcOfmXH_AjHBQU4jhwCLcBGAs/s320/la-mecanique-de-lombre_affiche.jpg'
+}, {
+  'titulo': 'extorsao-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://images-na.ssl-images-amazon.com/images/M/MV5BYTE4MzA4NWEtNTI2NC00MzFlLWIzMTMtMzQzMDVkYjhlZmU0XkEyXkFqcGdeQXVyOTE2MTYxOQ@@._V1_UX182_CR0,0,182,268_AL_.jpg'
+}, {
+  'titulo': 'extraordinary-mission-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://megafilmes.org/wp-content/uploads/2017/07/MV5BZDQ4OTY0MjctZWM3Ni00ZjdkLWE0NWMtNmVmYWIzYTgzNTJhXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_SY1000_CR006811000_AL_-214x300.jpg'
+}, {
+  'titulo': 'furia-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://megafilmes.org/wp-content/uploads/2017/07/FuriaFoot-214x300.jpg'
+}, {
+  'titulo': 'railroad-tigers-legendado-hd-1',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://megafilmes.org/wp-content/uploads/2017/07/MV5BMTkzNDUxNTk3MF5BMl5BanBnXkFtZTgwODYwMzE4MDI@._V1_SY1000_CR006741000_AL_-214x300.jpg'
+}, {
+  'titulo': 'ameaca-ao-presidente-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://megafilmes.org/wp-content/uploads/2017/07/MV5BODUzNDYzNzcxOV5BMl5BanBnXkFtZTgwMTQ0ODIyMDI@._V1_-214x300.jpg'
+}, {
+  'titulo': 'okja-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://image.tmdb.org/t/p/w185/dqLNJ34hueGWjIF20L0HJhOSKxE.jpg'
+}, {
+  'titulo': 'assistir-chips-o-filme-dublado-hd',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://image.tmdb.org/t/p/w640/yCDIJgWoEH2e5nPH0UJHQZOKVeY.jpg'
+}, {
+  'titulo': 'vinganca-2017-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-0A0rZF98qLU/WVetIyzZ-WI/AAAAAAAAKM0/hLG_8TFykh401-_1rHrlOU_4Uinjmg8zgCLcBGAs/s320/gi_16.jpg'
+}, {
+  'titulo': 'batman-vs-superman-a-origem-da-justica-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-ouhT5D-pfH4/VTodEarnlrI/AAAAAAAANak/jNDXT_2xQmw/s1600/BAT%2BCAPA.jpg'
+}, {
+  'titulo': 'era-da-escuridao-the-age-of-shadows-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-H-d-kAr3gVg/WV_IKwQFhOI/AAAAAAAAKU0/SGSCg_rmyN0xdDLV1jQq1Fg6ibgVEGJrgCLcBGAs/s320/26650_1_20170509101310.jpg'
+}, {
+  'titulo': 'coracao-de-dragao-4-batalha-pelo-coracao-de-fogo-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://megafilmes.org/wp-content/uploads/2017/07/MV5BMTgyODc5MGMtYTI4MS00ZTM2LTk0ODYtODQ2ZjIxNTM5MDBmXkEyXkFqcGdeQXVyNDUxNjc5NjY@._V1_-214x300.jpg'
+}, {
+  'titulo': 'velozes-e-furiosos-8-legendado-online',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-lbGvYclyX3A/WLW1iQA9PUI/AAAAAAAAVWI/qgXagt1cMM4hOtcMtfnOaXZUvd3bX3MBwCLcB/s640/velozesfuriosos%2Breal%2Bworld%2Bfatos.jpg'
+}, {
+  'titulo': 'assistir-john-wick-um-novo-dia-para-matar-dublado-hd',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-MWCyUGkTnhk/WKc2Y4ue06I/AAAAAAAAP7M/zamumB_fEXsupTVRdeYvgli825JD6ME7gCLcB/s400/john_wick_chapter_two_ver2.jpg'
+}, {
+  'titulo': 'a-grande-muralha-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-NaRiJqY9Vg8/WKts2PnYfMI/AAAAAAAACgs/t958IggB5vUIAe0B6r7DTCJoe119sqbQQCLcB/s400/the-great-wall-grande-muralha-movie-filme-poster.jpg'
+}, {
+  'titulo': 'kong-a-ilha-da-caveira-dublado-hd-9',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/--t6FSWGUlz4/WC3G_IwGUII/AAAAAAAAO04/QHxhgTvYSzI9YFm3sodedW8eef-Ws4xkwCLcB/s1600/kong-skull-island-poster.jpg'
+}, {
+  'titulo': 'power-rangers-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-D41ZfFjBeDw/WJoS4eRylPI/AAAAAAAA_YU/7i_DwEcPtrEB9f7de-7QHunE1YmRcizmwCK4B/s400/PHD9FOceVTvLHH_1_l.jpg'
+}, {
+  'titulo': 'o-ano-mais-violento-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://megafilmes.org/wp-content/uploads/2017/07/553919-214x300.jpg'
+}, {
+  'titulo': 'o-ultimo-golpe-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://megafilmes.org/wp-content/uploads/2017/07/54545451-214x300.jpg'
+}, {
+  'titulo': 'um-fusca-em-monte-carlo-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-nKIh24MW9JI/WVxXHvqitpI/AAAAAAAAKRY/jSyvBdaT-MAg67imzoQLt0lbavB914QDgCLcBGAs/s320/fusca3.jpg'
+}, {
+  'titulo': 'a-peregrinacao-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-2yVEc1hxJNw/WV0fwh-8rTI/AAAAAAAAKRk/OtZ_myxorv0SeFGfr3ahh9CjPv1dCmRNgCLcBGAs/s320/cx142621.jpg'
+}, {
+  'titulo': 'z-cidade-perdida-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-Uf0MLKE3LCA/WVvbPsVBreI/AAAAAAAAKQ0/10oOPIYPAnoEmF5iUMa7q5KZ5V8y-DAggCLcBGAs/s320/The-Lost-City-of-Z_-286x400.jpg'
+}, {
+  'titulo': 'seita-mortal-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-bgz4Q4fiHN8/WUKmFZ81iMI/AAAAAAAAJ6U/jlS2o1-xBAkU49aspU0de7aOqe1zotrYwCLcBGAs/s320/Seita-Mortal-2011-3.jpg'
+}, {
+  'titulo': 'outra-face-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://image.tmdb.org/t/p/w185/jVTVn9p41FH88TJCxthHMazLpiY.jpg'
+}, {
+  'titulo': 'trovao-negro-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://image.tmdb.org/t/p/w185/oCCMGlZp1GbpmIpuRLF5BoRCNLk.jpg'
+}, {
+  'titulo': 'vinganca-2017-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-0A0rZF98qLU/WVetIyzZ-WI/AAAAAAAAKM0/hLG_8TFykh401-_1rHrlOU_4Uinjmg8zgCLcBGAs/s320/gi_16.jpg'
+}, {
+  'titulo': 'let-me-make-you-martyr-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-HH0makzgcEg/WVekbKKC8JI/AAAAAAAAKMg/IeWV5EGkhsI2JyEOIZrEM2tt3tB-nCiUQCLcBGAs/s320/4260034635753.jpg'
+}, {
+  'titulo': 'aeon-flux-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-SfxkymHsQI4/WUZR5zSTS4I/AAAAAAAAJ9g/8f9e0KyPulghR3MevFh93e0mquI_DAXtQCLcBGAs/s320/20200819.jpg'
+}, {
+  'titulo': 'counterpunch-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://image.tmdb.org/t/p/w185/sWLFyG2dQFvXixywYApdvfKSlzR.jpg'
+}, {
+  'titulo': 'nascido-para-correr-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://image.tmdb.org/t/p/w185/9Mhoxhwnx8buiDqahOIJRTD4I4c.jpg'
+}, {
+  'titulo': 'okja-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://image.tmdb.org/t/p/w185/dqLNJ34hueGWjIF20L0HJhOSKxE.jpg'
+}, {
+  'titulo': 'master-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://image.tmdb.org/t/p/w185/ni6AWadeI8c1Ta4ER8FLMPSm1Fr.jpg'
+}, {
+  'titulo': 'free-fire-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-7xUcWvvloo8/WUgIqMKKXlI/AAAAAAAAJ-A/7nsFIrbAprs7guP-83XZUhhKApJOFfoOwCLcBGAs/s320/Free-Fire_-280x400.jpg'
+}, {
+  'titulo': 'kill-ratio-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-C4CfhviCOj0/WUvGcifDP0I/AAAAAAAAKBc/6mTfncYxw40IxBIOZOtJv4763aytz2sswCLcBGAs/s320/6000196699712.jpg'
+}, {
+  'titulo': '16-extremos-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-06d51GrbdSs/WVJxXAYTGgI/AAAAAAAAKHc/hjC_-5njJ4cQihU6XbPDWFwpF8R_4ObywCLcBGAs/s320/Dhuruvangal_Pathinaaru_Poster.jpg'
+}, {
+  'titulo': 'viktor-em-busca-de-vinganca-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://image.tmdb.org/t/p/w185/tZA3k9IGgzE7kJgaQnwm6SeQ73u.jpg'
+}, {
+  'titulo': 'senha-swordfish-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://image.tmdb.org/t/p/w185/sRQoMqCHedMqHTTEu4r3xPyJUDg.jpg'
+}, {
+  'titulo': 'nicky-e-o-feitico-do-dragao-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://image.tmdb.org/t/p/w185/2FGssQSiTZgTvD3JxYDKUjAO6x0.jpg'
+}, {
+  'titulo': 'assistir-chips-o-filme-legendado-hd',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://image.tmdb.org/t/p/w640/yCDIJgWoEH2e5nPH0UJHQZOKVeY.jpg'
+}, {
+  'titulo': 'resident-evil-vinganca-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://upload.wikimedia.org/wikipedia/en/b/ba/Resident_Evil_Vendetta_poster.jpeg'
+}, {
+  'titulo': 'o-demonio-da-rua-willow-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-OgcGQnBXwkU/WPtJoBDE-DI/AAAAAAAAQs0/0wjeAB6Ely88z4ViePRyR32na58d1kFQwCLcB/s1600/From.a.House_.on_.Willow.Street.2016.jpg'
+}, {
+  'titulo': 'jawbone-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-vOGhERp3FMo/WUGovYj6Q7I/AAAAAAAAJ50/U4V-7WveG3Ek2cq1M9I89PsO91x6tE4vwCLcBGAs/s320/9167Vy5r4CL._SY679_.jpg'
+}, {
+  'titulo': 'altitude-2017-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://image.tmdb.org/t/p/w185/iGNq8xjOz2Lt1QQ3xcMwRhoiFwU.jpg'
+}, {
+  'titulo': 'o-justiceiro-2004-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://image.tmdb.org/t/p/w185/kOfqW9D040bCREFCjGyYemdQhRj.jpg'
+}, {
+  'titulo': 'cacada-ao-outubro-vermelho-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://image.tmdb.org/t/p/w185/hbtJs2vsRxE28P6wukjsEpHssgb.jpg'
+}, {
+  'titulo': 'he-man-e-os-mestres-do-universo-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://image.tmdb.org/t/p/w185/zRu7sRrO18iUCQMcXrFDj8GRZTW.jpg'
+}, {
+  'titulo': 'stargate-chave-para-o-futuro-da-humanidade-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://image.tmdb.org/t/p/w185/wKz6b936E4FV7RWGlZChhgHLgnB.jpg'
+}, {
+  'titulo': 'lila-eve-unidas-pela-vinganca-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-y_fmBk1qAV0/WT1PE1McpxI/AAAAAAAAJ1c/MqI1ceBuwzYYV65P5ZkQPJWY358TWpcoQCLcB/s320/MaXX0gC.png'
+}, {
+  'titulo': 'atirador-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://image.tmdb.org/t/p/w185/rvXJBil1eWJYiEOS9yNgxTakNMD.jpg'
+}, {
+  'titulo': 'o-reino-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://image.tmdb.org/t/p/w185/4SGAqn2gDea63HZFUR5bNvrzyW1.jpg'
+}, {
+  'titulo': 'batman-sem-limites-instintos-animais-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-z0jf2AX_M54/WT39HWjswnI/AAAAAAAAJ2g/X9Twzm7JIlMzQoyTZq9y6J-7JnZf8lDLgCLcB/s320/batman-sem-limites-instintos-animais-1469546561-width392-quality50.jpeg'
+}, {
+  'titulo': '7-segundos-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://image.tmdb.org/t/p/w185/7JXwJ0O7XP3sSQ1LhmiLHOdYyPN.jpg'
+}, {
+  'titulo': '1941-uma-guerra-muito-louca-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-BWEmw8nJTPU/WTqYuDC8XvI/AAAAAAAAJzs/LcNZCRIgB9wvtI6lwi6xpSTu1F6DWXu_QCLcB/s320/cover.jpg'
+}, {
+  'titulo': 'assalto-ao-carro-blindado-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-TZqnJyMr8cg/WTqccUqQ1UI/AAAAAAAAJ0E/1LHE_Jps9eo0WEcUrQxMokEvpVmVYOq5wCLcB/s320/Assalto-ao-Carro-Blindado-Torrent.jpg'
+}, {
+  'titulo': 'furia-cega-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-6UfyZf6zogg/WTlmJefMhpI/AAAAAAAAJzA/VYvqylbEuigQKQK9MqQMsCcb0z43mbgNQCLcB/s320/apontadl_img_destacada173.jpg'
+}, {
+  'titulo': 'rampage-president-down-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://image.tmdb.org/t/p/w185/vSw97KTyxUQWCyGvnrc7t73L15l.jpg'
+}, {
+  'titulo': 'lady-bloodfight-legendado-online',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://image.tmdb.org/t/p/w185/5f1JsXhdh0gBuKh6stwIdze1gNq.jpg'
+}, {
+  'titulo': 'tropas-estelares-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://image.tmdb.org/t/p/w185/arEuDF6Fr6DRr1HEJCEfwPTCIMm.jpg'
+}, {
+  'titulo': 'casa-dos-mortos-2-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-bn0FjF5kwMU/WTDEyKUBrfI/AAAAAAAAJqA/TA22oiXq6aE0v74QKGQzCIgiz_BXHi-7QCLcB/s320/acasadosmortos2.jpg'
+}, {
+  'titulo': 'impacto-fulminante-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-pcCGUsCAFBo/WTGnQRKqAjI/AAAAAAAAJrE/REHXPpwxXDE64Dp2rzc6kilBEdvIqa4ugCLcB/s320/20124658.jpg'
+}, {
+  'titulo': 'cade-minha-entrega-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://image.tmdb.org/t/p/w185/rVr7StoyBNxEQ1p1UzZ9REvSUNR.jpg'
+}, {
+  'titulo': 'cold-zone-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://image.tmdb.org/t/p/w185/7Ui6eAQxk7BPvqBC4FTcK884cwf.jpg'
+}, {
+  'titulo': 'aguia-da-legiao-perdida-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-LgB3RMntEkw/WTcY5ztJA8I/AAAAAAAAJv4/eyHsSRA4kEAxDPBSm0YCKhQk79faX66RgCLcB/s320/A-%25C3%2581guia-da-Legi%25C3%25A3o-Perdida.jpg'
+}, {
+  'titulo': 'alemao-nacional',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://hdfilmesonlinegratis.net/wp-content/uploads/2014/03/alemao.jpg'
+}, {
+  'titulo': 'headshot-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-h_z7SFyAjVM/WQVCmbs2BtI/AAAAAAAAAaQ/fJy4-TBrswkU4VH3kmyu349BCQnOHTupQCLcB/s1600/tqi716cPpZgQX5cNH2hEYP7rVY9.jpg'
+}, {
+  'titulo': 'darkman-vinganca-sem-rosto-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://image.tmdb.org/t/p/w185/Y8Eek53moaLe3tStyBeRybPzIj.jpg'
+}, {
+  'titulo': 'darkman-2-o-retorno-de-durant-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-JG_yA-zYYII/WS8h7jZc1yI/AAAAAAAAJnE/WWfRjThIfMo07o8bfYCu9VUN_jOsUR82gCLcB/s320/gghhyytt.jpg'
+}, {
+  'titulo': 'darkman-3-enfrentando-morte-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-PeYf5thwok0/WS8gGDDVAVI/AAAAAAAAJm4/IA7zjc4uUbUuoRg2XsxqsoQdWvrMwO7GACLcB/s320/yyytttt.jpg'
+}, {
+  'titulo': 'os-reis-da-rua-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://image.tmdb.org/t/p/w185/2OmXVmVCmh5juQ6PZpnX5wN5DfE.jpg'
+}, {
+  'titulo': 'legado-viking-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-vTy1O9OgkOA/WS2U1xKlYgI/AAAAAAAAJjk/cYw7E1mQDM8DowMgcr65a-J4wRWBIWK1gCLcB/s320/FFDRRR.jpg'
+}, {
+  'titulo': 'mclaren-o-homem-por-tras-do-volante-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-qrdVzArfIww/WS98y4CJwYI/AAAAAAAAJok/GuaHQv8agfo0r6FsHtwaC2YiwPMms9akACLcB/s320/91KgJ8%252BmuLL._SL1500_.jpg'
+}, {
+  'titulo': 'desejo-de-matar-3-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-0JuFy4WRdjk/UEzcw5RLE8I/AAAAAAAAL9Y/7HHxE9T5VJY/s1600/deathwish3.jpg'
+}, {
+  'titulo': 'kung-fu-yoga-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-QV5gaY5AiU8/WS3XVCr8npI/AAAAAAAAJks/pDyECeMsFGM_stm2d4IPM8zJ90Rg5qP-wCLcB/s320/vgvvv.jpg'
+}, {
+  'titulo': 'o-cacador-de-zumbis-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-2jv23EGljZc/U2FC0iKYxWI/AAAAAAAAOh0/pD7iRcIGu_g/s1600/dvd_o_ca_ador_de_zumbis.jpg'
+}, {
+  'titulo': 'hora-das-consequencias-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-vrH7Ejx859A/WSzandI64BI/AAAAAAAAJjU/OuboMI9c5jMkbp_WwIjn4mX9lH-cTazygCLcB/s320/wVojt6e.jpg'
+}, {
+  'titulo': 'trama-internacional-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-6_fzL6BRH1M/WSrbSSNFqtI/AAAAAAAAJfE/hF7UYYmxxpcHGGoxmvg8y2WLEQG-qcz2ACLcB/s320/trama2binternacional2btem2bpapel.jpg'
+}, {
+  'titulo': 'batman-o-misterio-da-mulher-morcego-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-IbaL3r0cL00/T6v3N-j9oyI/AAAAAAAAAIg/o8reSElVtPM/s1600/batman20.jpg'
+}, {
+  'titulo': 'vixen-o-filme-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-waXn6yInjVM/WSuGprvmd1I/AAAAAAAAJgA/eHjQtAWjrgAkkiXcDvpNS1_z73h58kQ2gCLcB/s320/00459794.png'
+}, {
+  'titulo': 'the-shadow-effect-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-E7HRQBAno68/WQkMDnhWxQI/AAAAAAAAEj8/gm9l8IS5v2soZNvHYVTsk4oxfdjEoUyrgCLcB/s1600/lesson.jpg'
+}, {
+  'titulo': 'rota-de-fuga-2014-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-EqOlyH9dOMc/UldUDNqW73I/AAAAAAAAQDw/6PUD6ow9MTA/s1600/Rota-de-Fuga.jpg'
+}, {
+  'titulo': 'dangal-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-1rjWnPXs1Uc/WSnlfnc7SzI/AAAAAAAAJe0/ImFB7o7tHnEZqrKmqt23e_LErnrSBtt4gCLcB/s320/dangal_ver2.jpg'
+}, {
+  'titulo': 'hulk-onde-os-monstros-habitam-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://image.tmdb.org/t/p/w185/n0lKjBzzmGC3CA2elAZXhDiPBBT.jpg'
+}, {
+  'titulo': 'o-filho-do-batman-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-ZTO7WZT_NEs/U1Ho2UC-OpI/AAAAAAAAAag/jrviilbYpT8/s1600/Son_of_Batman.jpg'
+}, {
+  'titulo': 'off-piste-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-DrCLX4zZO3Y/WSOO5zzjrHI/AAAAAAAAlNI/dQ9oRAQ8MqcFxRxh4JdyqUy_c2V61ppIgCLcB/s1600/B49AKab.jpg'
+}, {
+  'titulo': 'o-troco-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://dtmmr.files.wordpress.com/2013/04/payback_poster.jpg?w=241&h=374'
+}, {
+  'titulo': 'duro-de-matar-2-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-RrbM17c6R5Y/USVshe9TvNI/AAAAAAAAQp8/1CuzUaY57Fc/s320/duro-de-matar-2.jpg'
+}, {
+  'titulo': 'marcados-pelo-odio-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-Qs6Lc9xMAhg/WP-KzqYht_I/AAAAAAAAIGw/cOjPwXvfR5kae3OBF5QfPbKBrcmbBMSVgCLcB/s1600/marcados%2Bpelo%2B%25C3%25B3dio.jpg'
+}, {
+  'titulo': 'o-vingador-da-iugoslavia-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-HHs0SLYBvH4/WQnKnV3m0WI/AAAAAAAIZcM/MrY8d3BfvqISCYCSV4IotUTymcJA3AlGgCLcB/s320/MV5BYTYxZGNlOGQtYjhjOS00NjI3LTliYzgtZTRiNWZlN2NlZjA0XkEyXkFqcGdeQXVyOTg4MDYyNw%2540%2540__V1_SY1000_CR0%252C0%252C666%252C1000_AL_.jpg'
+}, {
+  'titulo': 'nao-ultrapasse-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-n79JEWCLbVI/WR8QRja5zDI/AAAAAAAAJUE/3JaTrCB-pdYdfvQEu0D-PdGTxZlV1daWACLcB/s320/treee.jpg'
+}, {
+  'titulo': 'nap-ultrapasse-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-n79JEWCLbVI/WR8QRja5zDI/AAAAAAAAJUE/3JaTrCB-pdYdfvQEu0D-PdGTxZlV1daWACLcB/s320/treee.jpg'
+}, {
+  'titulo': 'austin-powers-em-o-homem-do-membro-de-ouro-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-ePyxfd_AisM/Vz4i1uO9QUI/AAAAAAAAC1g/IsC2PW6n880nJdwshEKxJ1kAFRdYuqTNgCLcB/s320/austin.jpg'
+}, {
+  'titulo': 'cyborg-x-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-KngUv-9h6Sc/V8mHrRjGg8I/AAAAAAAAGd8/RRYiP1qZVQEJo8U5MN3H3dVygDG41R26wCLcB/s1600/cyborgx-ukdvd.jpg'
+}, {
+  'titulo': '48-horas-parte-2-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-M2Mo6iUfhwo/UkSGvlXgOoI/AAAAAAAACbo/n9-vi4A7rfw/s1600/48+Horas+-+Parte+2.jpg'
+}, {
+  'titulo': '48-horas-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-KCmagUXy89s/UkSFhvjTuoI/AAAAAAAACbc/TtqeAi5fTZg/s1600/48+Horas.jpg'
+}, {
+  'titulo': 'o-mestre-das-armas-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-0yMCu3X9j5I/Vcz-2FqrQ3I/AAAAAAAAA5U/CmhSiqzFOdw/s1600/o-mestre-das-armas-blu-ray.jpg'
+}, {
+  'titulo': 'inimigos-de-sangue-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-OjPVDP7fP7M/UOr44X5AORI/AAAAAAAA3wM/2wvxZeYCV60/s1600/welcome-to-the-punch-poster.jpg'
+}, {
+  'titulo': 'viking-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-u_zXSHOdhR0/WIuqxbb8pfI/AAAAAAAAAGU/kg1DMDW8RQIhacOI62zLxCDAPF3X74pngCLcB/s1600/kinopoisk.ru-Viking-2828543.jpg'
+}, {
+  'titulo': 'os-guerreiros-do-bronx-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-g1Yf3hvVw1I/VnxjQL_dxuI/AAAAAAAAECQ/3wh-EreZkL4/s1600/1990%2B-%2BOs%2BGuerreiros%2Bdo%2BBronx.JPG'
+}, {
+  'titulo': 'risco-total-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-v1v-PtdFyYo/UCkGudbHBMI/AAAAAAAAg8k/Eb9vay_0FxM/s1600/Risco.Total.DVDRIP.Xvid.Dublado__23835_zoom.JPG'
+}, {
+  'titulo': 'a-ultima-luta-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-vahyQK-USSY/URXCZyAnc_I/AAAAAAAAUq0/1Wl2eNxFq0c/s1600/filme+a+ultima+luta.jpg'
+}, {
+  'titulo': 'agent-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-tYc9Oa71zpU/WOftle9ydcI/AAAAAAAAAs0/fQ-JiwUMCTIQoGSog6Z8E8ax2JpAzcM-gCLcB/s320/MV5BN2VlNzllMDAtNzY4NS00ODkwLTg0ODktOTAxNmJlMjgzZWM1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTcyNTM5NDA%2540._V1_SY1000_CR0%252C0%252C666%252C1000_AL_.jpg'
+}, {
+  'titulo': 'war-on-everyone-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-Rg6j1n2LLfc/WKxbndmS1iI/AAAAAAAACb0/zTurOZtbrlE7zOwockKYF2QDOSSIKfO-ACLcB/s1600/images.jpg'
+}, {
+  'titulo': 'entrevista-com-hitman-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-lgM2zsNjeOs/UiKEVN5Dg6I/AAAAAAAAAx8/gSQZ2VNsNJ4/s1600/capa.jpg'
+}, {
+  'titulo': 'forca-tatica-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-W-BpAaR2sV0/WRXm9K2wMaI/AAAAAAAAAdQ/y6zO5P-v1IITd27AmqXDuN1C59-Knbq0ACLcB/s1600/y6HkPtXzvM9IRn0K2uLanSWUVSF.jpg'
+}, {
+  'titulo': 'trespass-against-us-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-CEw4WOx3YSw/WKuY6rWXKzI/AAAAAAAACZ0/DkUI-ni6SHIjwSTWMN6R6veft7gzT4Z0ACLcB/s1600/images.jpg'
+}, {
+  'titulo': 'dirty-harry-perseguidor-implacavel-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-15o00EtJR7A/V6JIj7X0ctI/AAAAAAAASO4/2qygutF7Qh4bH0tHMfb4tzHyiQLiIULhACLcB/s1600/dirty_harry_gr.jpg'
+}, {
+  'titulo': 'a-cacada-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-GaEIb2ahzIk/VxzBoNHzB9I/AAAAAAAAWLE/JJlSAPyyOlA7GVLdauO9I3ifFtQtYHIXgCLcB/s1600/acacada.jpg'
+}, {
+  'titulo': 'stake-land-anoitecer-violento-2-legendado-hd',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-72HNjw-6x4o/UIx04hJT7_I/AAAAAAAAHEA/CJxsljRAUyw/s1600/stake_land_poster01.jpg'
+}, {
+  'titulo': 'stake-land-anoitecer-violento-2-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-72HNjw-6x4o/UIx04hJT7_I/AAAAAAAAHEA/CJxsljRAUyw/s1600/stake_land_poster01.jpg'
+}, {
+  'titulo': 'flash-gordon-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-Ra2hidQiba4/WLGeoUKR02I/AAAAAAAAbyo/hIFLhZm86kkH664ABcHjNDww7CmopinXwCLcB/s320/flash-gordon-1980-us-dvd.jpg'
+}, {
+  'titulo': 'the-hunters-prayer-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://kod-hd.com/wp-content/uploads/2017/05/The-Hunters-Prayer-2017.jpg'
+}, {
+  'titulo': 'stratton-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-C8VVsQ4u-zM/V8MROmPCZEI/AAAAAAAAR1o/5qmbFPetNC4PS6sfiDyvDLGwZiqFLkScgCLcB/s1600/stratton_xlg.png'
+}, {
+  'titulo': 'colossal-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://cdn2-www.comingsoon.net/assets/uploads/gallery/colossal/colossal-poster2.jpg'
+}, {
+  'titulo': 'young-guns-ii-jovens-demais-para-morrer-dublado-hd',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-haUv3FhaumA/U5Ly1txZNkI/AAAAAAAAp-U/aQ5sAwmhHFA/s1600/5.png'
+}, {
+  'titulo': 'young-guns-os-jovens-pistoleiros-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://image.tmdb.org/t/p/w185/3U102u3egzEFV5krE5hf7grJS9d.jpg'
+}, {
+  'titulo': 'beowulf-o-guerreiro-das-sombras-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-7Xzq9jkeeUw/Uu90szC3cdI/AAAAAAAAMbM/03A1N-VpFh8/s1600/capa.jpg'
+}, {
+  'titulo': 'vale-da-luta-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-kBkvAOtlTKI/WJ3pyyjR2QI/AAAAAAAA0Eo/z5E0-EYYeqAeWz-PC2jL8no9o_mOVPKvACLcB/s320/Vale%2Bda%2BLuta.jpg'
+}, {
+  'titulo': 'ascensao-e-queda-de-um-imperio-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-cUHNcVLxg5w/ULoVcuys6VI/AAAAAAAABWg/tmQcIA33Cww/s1600/Roma.JPG'
+}, {
+  'titulo': 'sombras-da-lei-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-HvjFiobINOc/Uou32IH7h6I/AAAAAAAAGEw/FzksbZuWeZQ/s1600/Sombras+da+Lei.jpg'
+}, {
+  'titulo': 'a-idade-das-sombras-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-v-nDk1i1OAc/V9MNwgnqTXI/AAAAAAAAetE/F4gw11OFQ4IFA589uCfR9IbDglYj1jlegCLcB/s1600/the-age-of-shadows%25282%2529.jpg'
+}, {
+  'titulo': 'os-vinte-e-oito-herois-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-KtDlWWLkg3M/WJX0OPfEKYI/AAAAAAAAfLI/5RUl7hgM1nkhANVfv_85MbeJ4qOrCSFzQCLcB/s1600/MV5BMTM3NDliOWMtOTU4MC00ZjFlLWJlZmItMTkwOTQ2YTI5M2VhXkEyXkFqcGdeQXVyNjg1NDU4NDM%2540._V1_SY1000_SX700_AL_.jpg'
+}, {
+  'titulo': 'machete-mata-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-nbtQrREKGEc/UadndC0SYRI/AAAAAAABJrA/xmtCRKpWzAs/s1600/machete+kills+poster.jpg'
+}, {
+  'titulo': 'machete-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/_DF0xj-MJdBs/TKplEluXCII/AAAAAAAAAxQ/fbkTvdYWVl4/s1600/machete-poster1.jpg'
+}, {
+  'titulo': 'legiao-de-herois-2017-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-yeBgk8y7g8U/WQTnGhFOD7I/AAAAAAAAL8k/0Bwl38ataZczWmN9JlSoiwNPnfcbxKBawCLcB/s1600/1.jpg'
+}, {
+  'titulo': 'fim-da-linha-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-MSnzMOZiF6A/V7Th2QOqB2I/AAAAAAAA5Lk/fEz2zGI78FUqXmnXrE8sBCrt9m-Pr-tVgCLcB/s1600/end%2Bof%2Ba%2Bgun.jpg'
+}, {
+  'titulo': 'identidade-trocada-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-KJ8dwz-2WNI/VZ_9IWOp_VI/AAAAAAAAA2E/PHV-JU7oaBg/s1600/321414.jpg-r_640_600-b_1_D6D6D6-f_jpg-q_x-xxyxx.jpg'
+}, {
+  'titulo': 'power-rangers-2017-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-D41ZfFjBeDw/WJoS4eRylPI/AAAAAAAA_YU/7i_DwEcPtrEB9f7de-7QHunE1YmRcizmwCK4B/s400/PHD9FOceVTvLHH_1_l.jpg'
+}, {
+  'titulo': 'soldados-de-gelo-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-BAKBu12rLB4/Uv7t7Cg7nKI/AAAAAAAAlpY/Gee0YaI4KUo/s1600/ice.soldiers.jpg'
+}, {
+  'titulo': 'o-mestre-da-espada-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-HFxoRX4dHgU/WQeoCMXdF5I/AAAAAAAAAcU/nODKXOBqFnQa9i0OkDtQyCpsb0ZQgUDOQCLcB/s1600/lAtSZdv.jpg'
+}, {
+  'titulo': 'guilhotina-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-V5b2qrTcWM4/WQeUK9hKQnI/AAAAAAAAAbg/RGQw2dDUgxgAtjYi1tDp3fXBhMOOd0N3gCLcB/s1600/rqLFVHDjBZnidchDS9LzPE1fyPH.jpg'
+}, {
+  'titulo': 'o-guerreiro-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-hcMJ2LzyqWM/WQd9fDbnzoI/AAAAAAAAAas/6spl00nqRFMxCyvrWcviz4V_VW_B_SGwACLcB/s1600/htrhryhrh.jpg'
+}, {
+  'titulo': 'headshot-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-h_z7SFyAjVM/WQVCmbs2BtI/AAAAAAAAAaQ/fJy4-TBrswkU4VH3kmyu349BCQnOHTupQCLcB/s1600/tqi716cPpZgQX5cNH2hEYP7rVY9.jpg'
+}, {
+  'titulo': 'juiz-arqueiro-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-9_tvOPCKF2Y/WQU8DuBHTOI/AAAAAAAAAZo/b17jwYPapKMKjHVggReIc5Pa1tvGzPJBgCLcB/s1600/Ms9o16a.jpg'
+}, {
+  'titulo': 'zathura-uma-aventura-espacial-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-wounBQnrzfE/WQU4RaDwoYI/AAAAAAAAAZM/joRDf34SVsAtIcQJOTHS7rdckxSb0VlcwCLcB/s1600/ioZimp8isdlDXFYLUZ8gNNFJHcS.jpg'
+}, {
+  'titulo': 'o-retorno-de-hercules-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/--pozrEpyy0c/WQU2LSkjfII/AAAAAAAAAZA/O4lfbtZCvDUIsxfITcrdi01x49lvutvOgCLcB/s1600/Cmn5HOu.png'
+}, {
+  'titulo': 'cavalos-domados-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-YCnt8LR54O4/WQUy-uYMk_I/AAAAAAAAAYo/zObJ00_uaE4tprb6aHvdIcicW0BSH9RpQCLcB/s1600/auPjA6OU0WVyIqQzdPNr4nUD0bv.jpg'
+}, {
+  'titulo': 'sword-master-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-M4wFlrUrfKk/WQUIdUBGzQI/AAAAAAAAAXQ/5TzBY7uy2NUWKz9FbwieVNA_Xfa9d8i0ACLcB/s1600/9zLyweKtBZzbHciuRVfCnLvXLa3.jpg'
+}, {
+  'titulo': 'o-principe-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-cLBD-SB-sPc/WQUA38pkveI/AAAAAAAAAW4/kYay5mHhLngdXSE-LtDnyNnet52Z9ktcACPcB/s1600/ldOkwLXljodv0BHhxnu9xgYsNnh.jpg'
+}, {
+  'titulo': 'dragonwolf-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-3fba0JVbywk/WQT8y5qOkjI/AAAAAAAAAWc/faQSRCUccagKILwAcP7jzd-pfviZGACbwCLcB/s1600/Dragonwolf%2BCover.jpg'
+}, {
+  'titulo': 'terreno-proibido-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-S2LKzFVut44/WQTiy4Ozb6I/AAAAAAAAAWA/1rv3GoXhaJIIzVNjap51vDFB7mQf0OVqwCLcB/s1600/wrGmoes5UHTNji3lusozGZgINN1.jpg'
+}, {
+  'titulo': 'origin-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://image.tmdb.org/t/p/w185/4M7DYDpNsZFU7NFGtYJnZpRgX3z.jpg'
+}, {
+  'titulo': 'cao-selvagem-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-X4j9Vd8o1Os/WIosfQyTLlI/AAAAAAAAg5U/QBP7LWY3Ib81LIex5Pusew42hyJi4nXgACLcB/s1600/PicsArt_01-26-11.47.59.jpg'
+}, {
+  'titulo': 'epidemia-1995-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-i1rNkXQYDok/VAF872GazlI/AAAAAAAAJeY/qvpyWRrTc_4/s1600/epid.jpg'
+}, {
+  'titulo': 'mythica-4-the-iron-crown-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-K3I6c8pqkTs/VmGgtxyuJMI/AAAAAAAAywg/oVHNCK-Hhy0/s1600/Mythica%2B3.jpg'
+}, {
+  'titulo': 'portal-dos-guerreiros-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-Av8KYbtiI8Y/WMsJCZT_OWI/AAAAAAAADxU/jn4mu6SVeHMnKECHND9TbToB6B2M-Kw3gCLcB/s320/1489700138787999.JPG'
+}, {
+  'titulo': 'padre-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-H04NIDkGJDY/TeFGKgRYpFI/AAAAAAAAAUo/jArmveeUQa4/s1600/filme+padre+2011.jpg'
+}, {
+  'titulo': 'a-vigilante-do-amanha-ghost-in-the-shell-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-RaVIrRBkDmI/WKFrXqhKMMI/AAAAAAAADvY/u8THRvtmBxEnSe9cOBFt7pQdVrMGoxd_gCLcB/s320/ghost_in_the_shell_VideoUnlimit_2017.jpg'
+}, {
+  'titulo': 'anjos-da-lei-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-2sVOsoyJDtM/VHFhRwRh2FI/AAAAAAAADhE/e8Alo-6eKqI/s1600/anjos%2Bda%2Blei.jpg'
+}, {
+  'titulo': 'anjos-da-lei-2-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-0EKyYqpDLaA/VbgIyZfqMkI/AAAAAAAABlg/nPZzG5BpopE/s1600/Anjos%2Bda%2BLei%2B2%2BPoster%2BFilme%2BLuiz%2BLucas%2BTrajano%2Bde%2BMenezes%2BPortal%2Bdo%2BUltra.jpg'
+}, {
+  'titulo': 'sem-dor-sem-ganho-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-H-GSPTmqC00/UMKSRm6OXWI/AAAAAAAA1eA/Wura0OvYiIw/s1600/pain-and-gain-poster.jpg'
+}, {
+  'titulo': 'guardioes-da-galaxia-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-V8jyvoMKyg4/VGbcENIxhNI/AAAAAAAAAtU/QtJVurTo0Ik/s1600/Guardioes-da-Galaxia-poster-Drax.jpg'
+}, {
+  'titulo': 'o-ultimo-desafio-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-AyDWdM0oRO8/WPv7B-vbPvI/AAAAAAAAAUo/svVpIZMQmMwN5QULECkIADIivpjpWVO7gCLcB/s1600/8UDlJN4DgFLMYO3lXrZiDIYOPBe.jpg'
+}, {
+  'titulo': 'agente-do-futuro-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-YJJSmbvVd8w/WPvyccIbsSI/AAAAAAAAATo/9KGI6_2V78oAMzh2YbrtjaWgdQKB7F9WQCLcB/s1600/51PasRR8snG1HQB5l9JFc8kAKzE.jpg'
+}, {
+  'titulo': 'o-novato-2017-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-WT7efIynLcM/WPvkgSV-iYI/AAAAAAAAASo/ZLAP-iYRs50UG2OGgK51htDkfJPBg5AngCLcB/s1600/v11AUctKUEza4mxchpb0ne36Ow0.jpg'
+}, {
+  'titulo': 'o-homem-sem-sombra-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-9FLj4Wyeszw/WBDQDdS6gOI/AAAAAAAACQI/UI6bKPjSr749ljyaSlpxQeD-SriikdziACLcB/s1600/Jack%2B-%2BO%2BCa%25C3%25A7ador%2Bde%2BGigantes.jpg'
+}, {
+  'titulo': 'corram-que-o-agente-voltou-dublado-2',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/_Gxxf8zFsnUk/TImdgTuwXWI/AAAAAAAAAXQ/8S9cXw_-gXY/s320/kgbnmflkjhbvvbnfdmc.jpg'
+}, {
+  'titulo': 'battleship-a-batalha-dos-mares-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-DB-fSejwo4o/T7MSOjP4R1I/AAAAAAAABAY/LM0-rGOARe8/s1600/battleship_a_batalha_dos_mares.jpg'
+}, {
+  'titulo': 'pandemia-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-WEN1zHgLqeY/VrjAK-PxZwI/AAAAAAAACk8/1l84QdyNtFk/s1600/Pandemic-poster_familygeekbrasil.jpg'
+}, {
+  'titulo': 'o-homem-sem-sombra-2-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-ng9Sfl332no/WPe-3PCuybI/AAAAAAAAASQ/nR7bV_tai6cuTzxTkIzjAZ1kqKE2q5wIwCLcB/s1600/zQc6hQy4eFog70KVC9CEaG69Gzm.jpg'
+}, {
+  'titulo': 'legiao-do-mal-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-3jnqVTYwPVE/WPa52t8wdtI/AAAAAAAAAQE/o2Z3zEgVsnEpcxFdwkskhNqHUjn-4FI9ACLcB/s1600/fULJsEy.jpg'
+}, {
+  'titulo': 'belas-e-perseguidas-dublado-online',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-Go6y3sIB0lQ/WPa5Ebzy2yI/AAAAAAAAAP8/AYMwnne2gyoyTDDP1tvyWLAjag5soRsHwCLcB/s1600/a9nAtRmPF0mML2x1J1QNBdZSaw0.jpg'
+}, {
+  'titulo': 'vizinhos-imediatos-de-3o-grau-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-D4GjSQGryUU/WPa3Wx-jt8I/AAAAAAAAAPs/4TC7DG5GbN8REz31d8ffLDIDL90o6ZahACLcB/s1600/5bpazFd8ZgvK0NElzft0sL1TE1s.jpg'
+}, {
+  'titulo': 'o-ultimo-dos-moicanos-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-3pHp9hJbh3c/WPa1u6KV-SI/AAAAAAAAAPk/X1CGwQ_E7FoXgBXLswH5z_YT6tRw9vanACLcB/s1600/z5Xb6pSGsJaeRueWupWWlclVKaN.jpg'
+}, {
+  'titulo': 'o-ataque-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-UziWrZ2xqMg/WPVRFpaIGTI/AAAAAAAAAOA/tpuSN1v8A6YzZlyG6zW-EftLrbzqhsuLQCLcB/s1600/Poster.png'
+}, {
+  'titulo': 'garoto-prodigio-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-molKSZ_Wv4U/T-eHpQgJylI/AAAAAAAAAF4/MXjWTu4_87Q/s1600/Boy+Wonder+Poster.jpg'
+}, {
+  'titulo': 'sequestro-no-espaco-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-tGO9bcUV96U/VFKqEMY0uKI/AAAAAAAAAWU/NhNq6hQCeoA/s1600/kBi9lOF.jpg'
+}, {
+  'titulo': 'o-ultimo-guerreiro-das-estrelas-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-Py3P_j8FzWo/UCu6ZkBRvqI/AAAAAAAALtQ/arUZxYiPWUg/s1600/The+Last+Starfighter+%281984%29+4.jpg'
+}, {
+  'titulo': 'the-assignment-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-93n44MC54II/WLHm6GjN_UI/AAAAAAAAAEg/yo0jFFUviFAntd5H4MOXpLqdFw3YYpsuQCEw/s320/MichelleRodriguezTomboyReTheAssignment%2B%25282%2529.jpg'
+}, {
+  'titulo': 'street-fighter-resurrection-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-X4vnEcF7Qbc/VwQV4IsVngI/AAAAAAAAbqw/rZQ-pYSUcw4jPh5mO_wWjV7FimPOhsZyg/s1600/latest-1.jpg'
+}, {
+  'titulo': 'perdido-em-hong-kong-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-WqrDPs5i-e0/Vo5ynupLdFI/AAAAAAAAAaU/AMPubVCsrDo/s320/Lostinhongkong.jpg'
+}, {
+  'titulo': 'superman-brainiac-ataca-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://image.tmdb.org/t/p/w185/fDAFSP1bBrBFMhq8CDYDcnE22fr.jpg'
+}, {
+  'titulo': 'batman-lego-o-filme-super-herois-se-unem-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://image.tmdb.org/t/p/w185/78Hqhqm1u1qampaBngYwwPwp3s6.jpg'
+}, {
+  'titulo': 'busca-explosiva-5-campo-de-batalha-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://image.tmdb.org/t/p/w185/9dbZqft6gS34f4qVncU6APBAKWU.jpg'
+}, {
+  'titulo': 'o-nucleo-missao-ao-centro-da-terra-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/_aX7VSRMlQI4/S1euTVOs_BI/AAAAAAAABPQ/AHnYxaUiGdo/s320/O+N%C3%BAcleo+-+Miss%C3%A3o+ao+Centro+da+Terra.jpg'
+}, {
+  'titulo': 'parasites-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-KjSSK-QxAQk/WHhOeeFgQNI/AAAAAAAANfg/b_FK7PPmBrEKNV0fo4f1H-qLzD_ZRLNRwCLcB/s1600/Parasites%2Bposter.jpg'
+}, {
+  'titulo': 'assistir-sleepless-nos-limites-da-lei-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/--JryEin2nUU/V_WIIVIY21I/AAAAAAAA3sE/JEPjdLfGff05W1D_fksHWQyevPnQHOlDQCLcB/s1600/sleepless.jpg'
+}, {
+  'titulo': 'maximum-ride-projeto-angel-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-JcgnRhre9AQ/V-HGPo6DTpI/AAAAAAAACUE/mOTdm6dXWisIk-o9Ch1EPHmLJJZ4Q0IVQCLcB/s320/8j9MhnsdM8MB9wXjDWYRCIyR8i7.jpg'
+}, {
+  'titulo': 'a-vigilante-do-amanha-ghost-in-the-shell-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-RaVIrRBkDmI/WKFrXqhKMMI/AAAAAAAADvY/u8THRvtmBxEnSe9cOBFt7pQdVrMGoxd_gCLcB/s320/ghost_in_the_shell_VideoUnlimit_2017.jpg'
+}, {
+  'titulo': 'joao-e-maria-cacadores-de-bruxas-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-5WQAAAT4GPY/UZpHUKe6e6I/AAAAAAAAIQE/_MK1Y3CEmck/s1600/hansel.jpg'
+}, {
+  'titulo': 'o-predador-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-aE8yyaV9CAE/VyNBEWZmXgI/AAAAAAAACBc/Kl8uReZgHR42dXWKMsaCCtWkCHZ6UkmsgCLcB/s1600/predador-capa.jpg'
+}, {
+  'titulo': 'capitao-america-o-primeiro-vingador-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-t3CALMEL80U/UyYbsQpDg2I/AAAAAAAADHE/pp86iajpMng/s1600/Captain-America-The-First-Avenger-Final-Poster.jpg'
+}, {
+  'titulo': 'homem-aranha-2-dublado-2',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-YSxgSW_pmzw/UscFUkiGBCI/AAAAAAAACq0/Xrot4LW40WI/s1600/O-Espetacular-Homem-Aranha-2-03Jan2014.jpg'
+}, {
+  'titulo': 'quarteto-fantastico-4-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://images-na.ssl-images-amazon.com/images/M/MV5BMTk0OTMyMDA0OF5BMl5BanBnXkFtZTgwMzY5NTkzNTE@._V1_UY1200_CR90,0,630,1200_AL_.jpg'
+}, {
+  'titulo': 'homem-formiga-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-_N97rZuqbnE/VMttThYDdrI/AAAAAAAAKfY/_WoLxzU_cfU/s1600/ANTMANPRE2015001_DC11_00001.jpg'
+}, {
+  'titulo': 'vingadores-era-de-ultron-dublado-hd',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-UKYrlf7gxhU/VfEgNKry5QI/AAAAAAAAA3E/iO1ywVmUZsw/s1600/International-Avengers-Age-of-Ultron-Poster-700x989.jpg'
+}, {
+  'titulo': 'risco-maximo-2017-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-pEiGu9IE4Gs/WEyCGlSQbkI/AAAAAAAAFgY/kTlMTmd5u-ARuLWdkILwtUr16UtJ-cILgCLcB/s400/Eliminators_PosterArt.jpg'
+}, {
+  'titulo': 'perseguicao-radical-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-y0ynHtIX7lE/WN1p2vLDjWI/AAAAAAAAK2A/ajrhXILiK_0MnoKixNe-pjXPe_7x5mKdACLcB/s320/1.jpg'
+}, {
+  'titulo': 'homem-aranha-3-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-g7rmo41OtBA/U6ohUq8DVzI/AAAAAAAAEGc/f1t9Enh0Pac/s1600/Spider-Man_3,_International_Poster.jpg'
+}, {
+  'titulo': 'lanterna-verde-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-EkNPqNpO_Es/Tk7drbf7saI/AAAAAAAAFUA/wStaAO1THro/s1600/poster-tropa-dos-lanternas-verdes-2.jpg'
+}, {
+  'titulo': 'missao-impossivel-nacao-secreta-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-1ozYyt4PSUk/VgxrSxeJ6KI/AAAAAAAACyg/-osEmTpC5Vs/s1600/missao%2Bimpossive5_poster.jpg'
+}, {
+  'titulo': 'missao-impossivel-nacao-secreta-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-1ozYyt4PSUk/VgxrSxeJ6KI/AAAAAAAACyg/-osEmTpC5Vs/s1600/missao%2Bimpossive5_poster.jpg'
+}, {
+  'titulo': 'assistir-hitman-agente-47-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-0Zo7T92rqmo/VjCa2LnFhWI/AAAAAAAABWU/LAQw6xTmGxc/s1600/20150701-hitman-sequel-agent-47-poster-615x912.jpg'
+}, {
+  'titulo': 'territorio-sem-lei-mercury-plains-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-Z-Ht06LTsuY/V3CRctzPvXI/AAAAAAAAANo/g7lmWjczTGsNhhm1xJ3wlD5m1Q7gLLiHACLcB/s1600/MERCURY.jpg'
+}, {
+  'titulo': 'hanna-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-b4VP5T08yd4/TgwIT4HFW9I/AAAAAAAABM8/0OP9QSqEiQA/s1600/hanna.jpg'
+}, {
+  'titulo': 'dia-dos-mortos-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-rriXLVKftu4/Tepu6TLN_MI/AAAAAAAACis/wyHnwu0OOZ0/w1200-h630-p-k-nu/dayofthedead_poster.jpg'
+}, {
+  'titulo': 'cacador-do-espaco-aventura-na-zona-proibida-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-s31dlYPyiwk/UEI_3j3wJOI/AAAAAAAAAEY/fYPNWpkjHOM/s1600/spacehunter_poster_01.jpg'
+}, {
+  'titulo': 'a-grande-muralha-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-NaRiJqY9Vg8/WKts2PnYfMI/AAAAAAAACgs/t958IggB5vUIAe0B6r7DTCJoe119sqbQQCLcB/s400/the-great-wall-grande-muralha-movie-filme-poster.jpg'
+}, {
+  'titulo': 'assistir-john-wick-um-novo-dia-para-matar-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-MWCyUGkTnhk/WKc2Y4ue06I/AAAAAAAAP7M/zamumB_fEXsupTVRdeYvgli825JD6ME7gCLcB/s400/john_wick_chapter_two_ver2.jpg'
+}, {
+  'titulo': 'resgate-suicida-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-GAhs42JMtTk/WJlrXuTQVUI/AAAAAAAAglo/i_7dnAmlgZUwiu2ylLl5q9YU-C2oyD3SQCLcB/s1600/BeyondRedemption.jpg'
+}, {
+  'titulo': 'resgate-suicida-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-GAhs42JMtTk/WJlrXuTQVUI/AAAAAAAAglo/i_7dnAmlgZUwiu2ylLl5q9YU-C2oyD3SQCLcB/s1600/BeyondRedemption.jpg'
+}, {
+  'titulo': 'serenity-a-luta-pelo-amanha-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/--jv8kbF8Wg8/UBWo9usxqeI/AAAAAAAABW4/fsH7HYeHNxM/s1600/serenity_poster.jpg'
+}, {
+  'titulo': 'resident-evil-6-o-capitulo-final-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-MfelJdsOFig/U4iXwqxFXDI/AAAAAAAAAeQ/dX8e5yRaWa4/s1600/residentevil-armageddon.jpg'
+}, {
+  'titulo': 'o-grande-roubo-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-KjAn5nYOudg/WG-O7Z3TBpI/AAAAAAAAgiU/QEveGBrP9Acamw3TXgswDaWwzezhcpkGwCLcB/s1600/51740_1_large.jpg'
+}, {
+  'titulo': 'redencao-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-VUOoOBfOr64/UU-b3rFUNYI/AAAAAAAAFvE/poiPEiRaq38/s1600/reden%C3%A7%C3%A3o.jpg'
+}, {
+  'titulo': 'silencio-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-SaFUa_AtOQk/WG6OYG8fhEI/AAAAAAAARqs/Hk6LTPwDmG8hfxL-V5vzGlIUoyB7anEBwCLcB/s1600/Silence_%25282016_film%2529.png'
+}, {
+  'titulo': 'operacao-mekong-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-FKJCiUFJJYQ/WIV8M4pKWgI/AAAAAAAAA6I/rCXNpsT8ppELWj8jJiK0H2O1Rns5LYvwgCLcB/s1600/operation-chromite.64505.jpg'
+}, {
+  'titulo': 'logan-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-ZhXmIwS6CWo/WLXrB1wm9mI/AAAAAAABpsU/XoD1cciaAsUACwQqzq-BeXmZAGioW68YACLcB/s1600/logan1.jpg'
+}, {
+  'titulo': 'monster-trucks-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-L-8y0u6ufxQ/WLHSmmiKgzI/AAAAAAAAEZo/7U3cgpZfoQcsT33Hb3Dv9z9xrmsWiSP8ACLcB/s320/Monster-Trucks-filme-poster.jpg'
+}, {
+  'titulo': 'logan-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-ZhXmIwS6CWo/WLXrB1wm9mI/AAAAAAABpsU/XoD1cciaAsUACwQqzq-BeXmZAGioW68YACLcB/s1600/logan1.jpg'
+}, {
+  'titulo': 'chamada-de-emergencia-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-viMR5MGy80I/UdZ4mAog_pI/AAAAAAAAFwY/zTM20sTRPvo/s420/Chamada-de-Emerg%C3%AAncia-2013-3.jpg'
+}, {
+  'titulo': 'nada-a-perder-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-DqcfoaUCtII/UXmiYsrOcOI/AAAAAAAAAuo/Kic5RmCFEJs/s1600/Nada.a.Perder.DVDRIP.Xvid.Dublado.JPG'
+}, {
+  'titulo': 'justica-cega-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://image.tmdb.org/t/p/w185/d6MFkgAbLcIBzsojyqxcSzmO15m.jpg'
+}, {
+  'titulo': 'em-nome-da-lei-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-zKJcCdZ4eiQ/Vcw7XP1dtTI/AAAAAAAAAGg/s2AiWO4ynjE/s1600/large_policestorylockdown.jpg'
+}, {
+  'titulo': 'assassino-a-preco-fixo-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://image.tmdb.org/t/p/w185/vuuFU58wBoxoGodD6YO8qMYz9Bu.jpg'
+}, {
+  'titulo': 'garoto-7-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://image.tmdb.org/t/p/w185/7EM851kcz5fpewrWEPXTroaaYXb.jpg'
+}, {
+  'titulo': 'kill-command-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-pdSIDtU647M/V0N8mFEc7yI/AAAAAAAAA2c/nJYDNOKhVewa18CSvLyvQZXI7PToeXkkwCLcB/s640/jeBZ.jpg'
+}, {
+  'titulo': 'lego-batman-o-filme-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-YspsmMyhH_I/WAJ5HwRdcSI/AAAAAAAABYE/Aqdbco4fn8kGjImZA4Q4f5xfV2msvo8kACLcB/s1600/MV5BMTkwMjcwNzE1MV5BMl5BanBnXkFtZTgwNzE2MTE0ODE%2540._V1_.jpg'
+}, {
+  'titulo': 'motoqueiros-selvagens-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/_Iau3R3yMIr4/RfFu2kqz-FI/AAAAAAAAATw/rNJXer2V3H4/s320/WHposter.jpg'
+}, {
+  'titulo': 'de-volta-ao-jogo-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-dn5mWaJq5dk/VH4S5m-BQTI/AAAAAAAAGsQ/EzNLJzyGa8E/s1600/john-wick.jpg'
+}, {
+  'titulo': 'familia-do-bagulho-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-h2pNVt3vzaw/UkgvY4w7BWI/AAAAAAAAHGc/RYMgY4LVTtY/s1600/21032794_20130828164937825.jpg-r_640_600-b_1_D6D6D6-f_jpg-q_x-xxyxx.jpg'
+}, {
+  'titulo': 'raze-correr-ou-morrer-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-0XbhLXGIOK8/Vckzv0G50FI/AAAAAAAAN3k/fb_FXOrFFj0/s1600/RAZE_1420154027429163SK1420154027B.jpg'
+}, {
+  'titulo': 'bodyguard-resgate-de-risco-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-llI7MEV7sW8/UwOtj67oQKI/AAAAAAAAAd8/iAYzsHFb8rU/s1600/Bodyguard.jpg'
+}, {
+  'titulo': 'lego-super-herois-liga-da-justica-vs-liga-bizarra-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-43e8i3B6jKw/VN6RbPgU-DI/AAAAAAAAGKw/gYL62FYs_Zc/s1600/Justice%2BLeague%2B1.jpg'
+}, {
+  'titulo': 'hellboy-a-espada-das-tempestades-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-IDUOibqpGUw/VsBwn4Ar32I/AAAAAAAAXxg/gilOU_jzSsQ/s1600/Hellboy%2BAnimated%2BEspada%2Bdas%2BTempestades%2B2006%2BSword%2Bof%2BStorms%2Bdesenho%2Banimado%2Bcapa.jpg'
+}, {
+  'titulo': 'ruas-de-fogo-1984-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/_W5jtq0y8vwA/TJVa_GfYytI/AAAAAAAADWk/CZuNHgHPJOE/s1600/Ruas+de+Fogo+-+streets+of+fire+-+cinema+-+music.jpg'
+}, {
+  'titulo': 'perigo-em-bangkok-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-URhBpJUfvW0/UT4Lxi818-I/AAAAAAAAAZY/E5d4tteAmL8/s1600/1.jpg'
+}, {
+  'titulo': 'os-28-homens-de-panfilov-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-cXsp3g-miow/WH0m97Bd8MI/AAAAAAAAAQ4/p_G2XRG41G8zC2Q9aKb55xlBgcBeW5KUgCLcB/s1600/2.jpg'
+}, {
+  'titulo': 'a-volta-do-juizo-final-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-NgWgwkW6Fic/WJGXhadeYrI/AAAAAAAAA1g/1XotXf5HeXAGRH17hTTxaQrf5GeN70vMwCLcB/s320/Day%2Bof%2BReckoning%2B%25282016%2529.jpg'
+}, {
+  'titulo': 'officer-downe-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-Mdr3A8C3WVs/V_d2-TX7jWI/AAAAAAAA7Tw/YLy5FZt3YXsNK0eNkSz3CRo4sm7WRq0NwCLcB/s1600/Officer%2BDowne.jpg'
+}, {
+  'titulo': 'um-novo-desafio-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-2TKDZbxMiDA/WJ8dXovek2I/AAAAAAAASJw/Xzs2fDcT5TowyLlLRvmuAC0QDAEarQM6QCLcB/s1600/cross_wars_2017.jpg'
+}, {
+  'titulo': 'esquadrao-de-elite-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-7FZ5my4FgXc/Vo8NP_YMOgI/AAAAAAAACis/KjlORNg9sWI/s1600/grang.jpg'
+}, {
+  'titulo': 'resident-evil-6-o-capitulo-final-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-MfelJdsOFig/U4iXwqxFXDI/AAAAAAAAAeQ/dX8e5yRaWa4/s1600/residentevil-armageddon.jpg'
+}, {
+  'titulo': 'o-despertar-da-lenda-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-jrXhIkaHIO4/VOdHcLlIm9I/AAAAAAAACF4/alP_Ebnx5Zs/s1600/Rise-Of-The-Legend-2014.jpg'
+}, {
+  'titulo': 'sr-seis-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-KkNKNFbzbPM/V5ZMplN1sRI/AAAAAAAADgo/2TnNJV5yPbg4qTTahIbzxM90OeRCV6bxwCLcB/s1600/Mr%2BSix%2B%25282015%2529.jpg'
+}, {
+  'titulo': 'o-quinto-elemento-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-nQ5NCD0BaA4/Vhpa3LyucNI/AAAAAAAAA8Q/q81dRpgcoW0/s320/O%2Bquinto%2Belemento.jpg'
+}, {
+  'titulo': 'o-grande-anjo-negro-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-S-LfZNYI4XA/VfN0OgZLV8I/AAAAAAAASgg/ezsig82A59I/s1600/o-grande-anjo-negro-dublado-filme-online-hd.jpg'
+}, {
+  'titulo': 'mojin-a-lenda-perdida-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-1TpNFTGENB4/VpkOR-3dXDI/AAAAAAAAA7E/t-B22sN0Bis/s640/mojinposter.jpg'
+}, {
+  'titulo': 'aliados-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-XZXb4q9slJI/V7i6CR_rWRI/AAAAAAAAFi4/1KCZy1X43f0FgMjg_sDuSxzFpQJOrhiGQCLcB/s400/aliados-allied-2016-trailer-legendad_2016-08-12_203834.jpg'
+}, {
+  'titulo': 'redline-velocidade-sem-limites-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-6k4GuJkVXN4/VFEZiIqeMGI/AAAAAAAADBE/XTrHeIPHhIA/s1600/RED%2BLINE.jpg'
+}, {
+  'titulo': 'the-call-up-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-XbXOkrEmnis/V2dr7FdOGdI/AAAAAAAAeAI/e1SluDF5jz0XvQQPKrBFHTsOKnxayS75QCLcB/s1600/CallUp.jpg'
+}, {
+  'titulo': 'iboy-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://image.tmdb.org/t/p/w185/kyrLFigcVVXHFhkPIS1MK2ewDIq.jpg'
+}, {
+  'titulo': 'academia-de-vampiros-o-beijo-das-sombras-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-cZ3hs6szVpw/UwPLVCLIT0I/AAAAAAAAB38/CSqip8YYfxc/s1600/vampire_academy_blood_sisters_ver3_xlg.jpg'
+}, {
+  'titulo': '10000-anos-depois-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-0eRTr_K0jMY/VfL5lHo0ggI/AAAAAAAAAeg/3jq9kJi_7hg/s400/10000-years-later_poster_goldposter_com_16.jpg'
+}, {
+  'titulo': 'o-assalto-perfeito-plano-principal-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://image.tmdb.org/t/p/w185/wwwRspsJrDLCidI3E0lui9NAZIp.jpg'
+}, {
+  'titulo': 'operacao-secreta-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-siJnq5qTVIE/WIPnmmTuzhI/AAAAAAAAosk/hKClROtYM9sT11sinUV1EPlfQyyUb2j1ACLcB/s320/Shi_tu_xing.jpg'
+}, {
+  'titulo': 'sucker-punch-mundo-surreal-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-I-R-oUTL1dw/TZooOFy82yI/AAAAAAAAEls/GfdiCTljSK0/s1600/Sucker-Punch-poster-January-15.jpg'
+}, {
+  'titulo': 'xxx-reativado-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-h7tRqGpYuDk/WG-RDpF75qI/AAAAAAAA3OM/wJjVs9YNGw8OqTRPnV7aIYImz0MI-vP0gCLcB/s320/xXx-Reativado.jpg'
+}, {
+  'titulo': 'isle-of-the-dead-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-04XBee8wXZc/WDUm74A2rhI/AAAAAAAADyg/65da_1jMbPsu5bU86vxy0m37BaueImkrQCLcB/s1600/Isle-of-Dead-poster.jpg'
+}, {
+  'titulo': 'stealth-ameaca-invisivel-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-hTlCxFdyhpo/VMaF_PrTQ5I/AAAAAAAAFQQ/lAPMdovbBKM/s1600/14187521681.jpg'
+}, {
+  'titulo': 'montanha-taoista-o-monge-desce-a-montanha-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-xVEvuakA13M/Vt-6sD5-l-I/AAAAAAAACFk/xMNK73Cr6L8/s640/Monk%2BComes%2BDown%2Bthe%2BMountain%2B2015%2BWATCH%2BDUAL%2BAUDIO%2BHINDI%2BWEBZLINK.jpg'
+}, {
+  'titulo': 'death-race-2050-legendado-hd',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-n1vPcSuqm4o/WHDMQZcSV-I/AAAAAAAACeQ/ncp2CBfAlKkL9vfXI6tidleFmhvvKWOFACLcB/s400/Death.Race.2050.2017.jpg'
+}, {
+  'titulo': 'codigos-de-defesa-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-IMUEiunVk6w/UYeWB3kjJnI/AAAAAAAAP6I/ww6WIsaB7wM/s1600/C%C3%B3digos+de+Defesa.jpg'
+}, {
+  'titulo': 'hancock-sem-cortes-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-r9yD1AiW0ec/VaFBiP8b9yI/AAAAAAAAA78/XDNBhP6GJz4/s1600/hancock-poster.jpg'
+}, {
+  'titulo': 'o-veterano-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-DKQNauJ-Sqs/WIP_nAYlVOI/AAAAAAAADHM/UBvxnCTGXegE696NIQU30IjSCkWAvKLUwCLcB/s320/3ngISVEJ5K1xmSQOJODLlpZ4Hpz.jpg'
+}, {
+  'titulo': 'rota-de-fuga-nacional',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-ax6HWD9UmYE/WHwV5bWFSPI/AAAAAAAAIUQ/-ngPmH0ZA2Y_wmUQ7Q-xIee0ZhuETVMpgCLcB/s320/jjjjhjyjy.jpg'
+}, {
+  'titulo': 'assassins-creed-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-FX0bwR3an2A/WF7Lkhh4oFI/AAAAAAAAOgc/SkaAwB71PMsRUhrG7UGwTliYJC2RQ-0iQCLcB/s1600/assassins%2Bcreed.jpg'
+}, {
+  'titulo': 'guerra-fria-2-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-h3sI5pG3Hk4/V4-UTAJvekI/AAAAAAAARN4/P_jsbVenppAbRTz5v_sqdeRBw5bpCmjBQCLcB/s1600/Cw2-R2-poster27x39-FA-01-709x1024.jpg'
+}, {
+  'titulo': 'o-novo-mundo-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-eBLOQT5Mv3k/VYDHkqMRbEI/AAAAAAAABpA/d5bbUhyIFP8/s1600/O%2BNovo%2BMundo.jpg'
+}, {
+  'titulo': 'plano-principal-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://image.tmdb.org/t/p/w185/wwwRspsJrDLCidI3E0lui9NAZIp.jpg'
+}, {
+  'titulo': 'collide-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-nbjh__caQlI/V1T2eBaKjlI/AAAAAAAADD4/6zeDX2GmCXMXjGG-yt7yc2Nai5bYIF8hwCLcB/s1600/Collide.jpg'
+}, {
+  'titulo': 'o-corruptor-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-B-zyNlNu2l8/V2-Wfg_4_jI/AAAAAAAAXmg/RQIL_ZjPAiI2a7b54YiBBQk5-nyQEqvAgCLcB/s1600/ocorrup.jpg'
+}, {
+  'titulo': 'o-rei-macaco-2-a-lenda-continua-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-yamG7x-bAeM/WHLLIw4PJLI/AAAAAAAADGo/6mzDKZcgxS8Zg5_iceRLhMsCgAH5P_qbACLcB/s320/The-Monkey-King-2014.jpg'
+}, {
+  'titulo': 'o-rei-macaco-2-a-lenda-continua-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-yamG7x-bAeM/WHLLIw4PJLI/AAAAAAAADGo/6mzDKZcgxS8Zg5_iceRLhMsCgAH5P_qbACLcB/s320/The-Monkey-King-2014.jpg'
+}, {
+  'titulo': 'anjos-da-noite-guerras-de-sangue-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-_sI2NUrQ6hs/WHJHpXtutxI/AAAAAAAAITA/yx0DXVbXccMHd9JtJHHH-VCTIaNgmIixgCLcB/s320/gfhntt.jpg'
+}, {
+  'titulo': 'anjos-da-noite-guerras-de-sangue-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-_sI2NUrQ6hs/WHJHpXtutxI/AAAAAAAAITA/yx0DXVbXccMHd9JtJHHH-VCTIaNgmIixgCLcB/s320/gfhntt.jpg'
+}, {
+  'titulo': 'assassins-creed-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://s-media-cache-ak0.pinimg.com/564x/98/57/50/985750edcd5a51f5e9567dcbd8e5188a.jpg'
+}, {
+  'titulo': 'os-especialistas-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://image.tmdb.org/t/p/w185/jpipxYmbYdHCSiJuRcO16KQ3kSW.jpg'
+}, {
+  'titulo': 'assistir-vizinhos-nada-secretos-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-fY4e8rR0CAI/WHDjlcy2OnI/AAAAAAAAISg/FieJht1z5vsWe9YcIH5oFvbyCcZ2ohLSACLcB/s320/ghghyhh.jpg'
+}, {
+  'titulo': 'assistir-vizinhos-nada-secretos-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-fY4e8rR0CAI/WHDjlcy2OnI/AAAAAAAAISg/FieJht1z5vsWe9YcIH5oFvbyCcZ2ohLSACLcB/s320/ghghyhh.jpg'
+}, {
+  'titulo': 'o-tigre-e-o-dragao-a-espada-do-destino-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-bvr6fHxVLHk/VtTcgDHc52I/AAAAAAAAHck/8F242tzM2Q8/s320/tigre%2Be%2Bo%2Bdrag%25C3%25A3o.jpg'
+}, {
+  'titulo': 'sharkenstein-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://image.tmdb.org/t/p/w185/iQNPbaObGZD4w9Pmy4Vssmxp9zi.jpg'
+}, {
+  'titulo': 'henrique-iv-o-grande-rei-da-franca-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/_k3QTd7GmyEE/TQSrbAU2JmI/AAAAAAAAA9I/z07m7qp_F8o/s1600/Frente_20Henrique_20IV_2072.jpg'
+}, {
+  'titulo': 'jack-reacher-sem-retorno-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-DoVS8vVPFqk/UTGeD96FxUI/AAAAAAAAFVM/6GY-7q1mkzY/s1600/Jack+Reacher+-+O+%C3%9Altimo+Tiro+-+Filme+2012+sofilmesoline+filmes+de+2012.jpg'
+}, {
+  'titulo': 'bichunmoo-a-saga-de-um-guerreiro-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-NC-qImYjYmg/WGU_WcsBaKI/AAAAAAAAIO8/kxaWn74pJXwtjAis71mPyT92cl-y4vglQCLcB/s320/GHGFHHHH.jpg'
+}, {
+  'titulo': 'mercenario-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-UGwp14YZ3gg/WGV_nVZgKhI/AAAAAAAADGM/DtML7dcZDB0J-QoccNcWkwsFirSqnw3UACLcB/s1600/media.jpg'
+}, {
+  'titulo': 'jogo-de-espioes-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-PF2ddNwe5G4/T5L3lirIv8I/AAAAAAAAHqo/HlQG_stg3yM/s640/jogo+de+espioes_1.jpg'
+}, {
+  'titulo': 'assistir-horizonte-profundo-desastre-no-golfo-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-VT6_96hNyFQ/V-VecuZNUpI/AAAAAAABrro/nXOwELUPrhopyKXjsmkvA5FqYhrSwKvhQCLcB/s1600/deepwater%2Bhorizon%2Bposter.jpg'
+}, {
+  'titulo': 'tekken-2-a-vinganca-de-kazuya-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/_7O_ZJAW3VoQ/TA81roT3btI/AAAAAAAAAFM/biIrzJV3Egs/s1600/tekken.jpg'
+}, {
+  'titulo': 'assistir-inferno-dublado-hd-11',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-2TubreMK-8M/V_-NNXvlfuI/AAAAAAAAa28/bU1fxUOxm40I9m8xpn6iaWi3Z75odfnfACLcB/s1600/Inferno.jpg'
+}, {
+  'titulo': 'sete-homens-e-um-destino-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-v6VQ_ekA65k/V-WybTZQpfI/AAAAAAAAP6U/2reH43bvqeQ1tBLDduDBVzRynmdPy7ZnwCLcB/s1600/magnificent_seven_ver2.jpg'
+}, {
+  'titulo': 'assistir-rogue-one-uma-historia-star-wars-legendado-hd-8',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-acEbbG5SEI0/WAPWQTgVZxI/AAAAAAAAHAI/Nz-gTR_MbrksvFVAUIzSMEIkKKWJdJbJACLcB/s1600/rogueone_3.jpg'
+}, {
+  'titulo': 'max-steel-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-20twMtmM27k/WFlWrqLKHHI/AAAAAAAADDE/gb5fEK0nNWo6ur2x7Z_TgFloyW0jQREGACLcB/s320/75b59b8cd7568b867697080026900e38.jpg'
+}, {
+  'titulo': 'a-batalha-pelo-imperio-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/_lVVA-1sVfHM/TNyTQVTl4cI/AAAAAAAABuE/vyTU1r7nKdE/s400/baay0sdkfv.jpg'
+}, {
+  'titulo': 'spectral-dublado-hd',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-urQJeXV7ddQ/WE23_mwKf6I/AAAAAAAADBg/cKb5SrOIGlE9OnRkq2t5JYb-0llmOIUqQCLcB/s1600/37Hyf2RNdWHEonfjPIdXJieP2kp.jpg'
+}, {
+  'titulo': 'sete-homens-e-um-destino-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-v6VQ_ekA65k/V-WybTZQpfI/AAAAAAAAP6U/2reH43bvqeQ1tBLDduDBVzRynmdPy7ZnwCLcB/s1600/magnificent_seven_ver2.jpg'
+}, {
+  'titulo': 'o-contador-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-Bsu6yl6N1L0/WBFIRK8OrvI/AAAAAAAAA7Y/69S30YiHNbAMsEIGE_U3jPWFOAUPOQeMACLcB/s1600/SjM%2BO%2BContador%2B1.jpg'
+}, {
+  'titulo': 'operacao-chromite-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-uAcUtAuXw5I/WEGhJrzIEII/AAAAAAAADAs/LsEeByKXl6Mtzs_RdHgGG0TMuB7FDWwwgCLcB/s1600/rRdPI83cKjDQfg5T4OB5UdRv3t5.jpg'
+}, {
+  'titulo': 'assistir-inferno-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-2TubreMK-8M/V_-NNXvlfuI/AAAAAAAAa28/bU1fxUOxm40I9m8xpn6iaWi3Z75odfnfACLcB/s1600/Inferno.jpg'
+}, {
+  'titulo': 'heranca-de-sangue-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-ob07KOncr8c/V8xqlfruB7I/AAAAAAAACDg/364Rrsr9MhwjcgR-BjaUzaDj3WR5-W3JwCLcB/s1600/7MlnI4d.jpg'
+}, {
+  'titulo': 'punhos-de-aco-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-EplZ6S1bYY0/V-5vkMRdeBI/AAAAAAAAHCo/51UtMi3IZBwpb4aofbZQsKOn-xglPfoRwCLcB/s1600/hands-of-stone-poster.jpg'
+}, {
+  'titulo': 'ben-hur-2016-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-t55eVPQsrS8/V7ofH70BnuI/AAAAAAAANvE/HVnWwzeLo_Ik3b9TsfbIaT2p-rE7Obx8QCLcB/s320/ben-hur-2016-poster.jpg'
+}, {
+  'titulo': 'o-contador-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-xDjZBUVrwyQ/WAVAefxInkI/AAAAAAAAJhw/_U8aZeNm7JMJ8cSAAbxqzRouTMJrdl9OgCLcB/s1600/ocontadorposter.jpg'
+}, {
+  'titulo': 'jack-reacher-sem-retorno-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-KgejjLo3nxg/WCsj7Gl5oNI/AAAAAAAAC-Y/SjvYy3BL-g4zxtHg1-qI6QPFbi-vRmH-ACLcB/s320/cl8edcDWN0WFZhILvzXvZC8RV9c.jpg'
+}, {
+  'titulo': 'horizonte-profundo-desastre-no-golfo-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-kaYFk_7eUDw/WCsi_1IaBuI/AAAAAAAAC-Q/1GAGL2ni6h8FIuUygraq9oxyUiZBedXWQCLcB/s320/20160922-horizonteprofundo_2.jpg'
+}, {
+  'titulo': 'esquadrao-suicida-2016',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://br.web.img3.acsta.net/c_215_290/pictures/16/06/22/00/19/008711.jpg'
+}, {
+  'titulo': 'assistir-doutor-estranho-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-xi6GOjvDPGg/WCsiLKHfu8I/AAAAAAAAC-I/xofE3XulJW4jzTcoFgLWG03p2uEt_o64QCLcB/s1600/jhuuuuu.jpg'
+}, {
+  'titulo': 'o-voo-do-dragao-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-nsiSFMStYYM/WCiiKD1IxOI/AAAAAAAAC9c/wRk1DsP4td8TuHjR1nN8Xh-PXfo-q2yTACLcB/s320/xh0s1ZJMbnTLLeCyyglKKh8oREe.jpg'
+}, {
+  'titulo': 'magnum-44-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-8hDaXJUxCRg/WCijBPt79dI/AAAAAAAAC9g/ZSZmzliij-w6xRKJWhC1GsKRnHnIyox3QCLcB/s320/5aJc45aGwGcNTQmZFB75Gd3j6cV.jpg'
+}, {
+  'titulo': 'batman-o-retorno-da-dupla',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-_LVtKbEFNFQ/WCTVEdugAfI/AAAAAAAAC74/hcQGmXPhPAQo4sIjWFwet4GKddRshggeQCLcB/s320/GW3IyMW5Xgl0cgCN8wu96IlNpD.jpg'
+}, {
+  'titulo': 'lego-jurassic-world-a-fuga-do-indominus-rex-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-4FBC4R-qmaE/WCOAoy8RRHI/AAAAAAAAC7g/i-gDxj0kWtwqI8jx_xxKvAnY3JSL3trvgCLcB/s1600/LEQQjwE.jpg'
+}, {
+  'titulo': 'meu-nome-e-jeeg-robot-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-ajT5tx70GKw/WBuhRX8eJcI/AAAAAAAAC6I/Iv3_sQNKnQE2In0ZujbjsEFj6frVl_kyACLcB/s320/poC4JgAnZYt1aOuUpFrsPpPZTXm.jpg'
+}, {
+  'titulo': 'demolition-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-bl3ITKz6MdY/Vw18BP78RiI/AAAAAAAAGUk/g16o7GKC6bcg_QybkI9m4G5CSs7_whV2ACLcB/s1600/getmovieposter_demolition_2.jpg'
+}, {
+  'titulo': 'a-lenda-de-beowulf-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-VBdQD0BE914/UYviTqeSinI/AAAAAAAAGgM/GMvIrPS5Zw4/s1600/Beowulf.jpg'
+}, {
+  'titulo': 'liga-da-justica-deuses-e-monstros-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-ci0eMTRSAv4/Vq_ehhltzyI/AAAAAAAAAiE/zRmC9Sc4ODw/s1600/Liga-da-Justica-Deuses-e-Monstros-Dublado-1080P.jpg'
+}, {
+  'titulo': 'atlantis-o-continente-perdido-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/_XUhoSngGXNU/TUIG4IOfgaI/AAAAAAAACCE/kcmqHEk9yPc/s1600/Atlantis_The_Lost_Empire_Portuguese-%255Bcdcovers_cc%255D-front1.jpg'
+}, {
+  'titulo': 'mulan-2-a-lenda-continua-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-2cqQ-mVGuzo/U53K1ADL2JI/AAAAAAAADmQ/AQ0xPzv5fwo/s1600/Mulan+2+(1).jpg'
+}, {
+  'titulo': 'scarface-dublado-hd',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-gCXVFSvN0hc/WAo0cyXkCqI/AAAAAAAACzQ/auDmqDaxy30pZiE7UlUtmW61f4S_z7j8wCLcB/s1600/Scarface.jpg'
+}, {
+  'titulo': 'as-cronicas-de-riddick-eclipse-mortal-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-HmHXHhIz8NI/WAeE1BTdodI/AAAAAAAACxI/aKeFFPIuiBk9aez5_i647gHmkTBGBLDtQCLcB/s320/a919GAYnUaCThiiQmscTWMLGYdk.jpg'
+}, {
+  'titulo': 'lobos-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-hTVECaZfD4Y/WATkLeSxCVI/AAAAAAAACvY/9exr70guIeUFOkOTgCV1M37qxLxyN5r2QCLcB/s320/dWT3ivs4zcTjkwEZUQ65GdphJFN.jpg'
+}, {
+  'titulo': 'encontro-explosivo-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-LcYc91vzsl4/WATjK4vh71I/AAAAAAAACvU/snZOs95onPkHLAnsOKl22HsFyfJ4DCO1wCLcB/s320/Zhz7aGTNlPYYPvSvvCo1NC0bg1.jpg'
+}, {
+  'titulo': 'o-destino-de-jupiter-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-8sheNzClUJQ/WAKRAhiDimI/AAAAAAAACt0/iSt4gplYg08oMoW2xtgV33MbmPphbtmBgCLcB/s320/vM3g3J1ctVuOF0NrIwboRdXXIe8.jpg'
+}, {
+  'titulo': 'fora-do-rumo-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-JCk0D9n7-ac/WAJRs8tshiI/AAAAAAAACtE/9Ekyi2R1Xxwdu3JLPfLcd3hq80mi5YPCgCLcB/s1600/MORaTBd.jpg'
+}, {
+  'titulo': 'soldado-universal-2-o-retorno-dublado-2',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-dIybd4CcUW8/WAEe6-7Ij-I/AAAAAAAACsU/q28yJb5aDbwkSxRFVr_40If4v0YVZyZNgCLcB/s320/8XQeE9iwHdm6Uyb7X1GOrScouzm.jpg'
+}, {
+  'titulo': 'soldado-universal-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-XV7UJuacfAE/WAEVZDZuVeI/AAAAAAAACsA/PwEz3MFN5lwfzgp3sCRyKf96Rkcsw2aRgCLcB/s320/ak1FyfOY8Szf6TzwVVEeguDeYqp.jpg'
+}, {
+  'titulo': 'soldado-universal-2-o-retorno-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-eAuQ9L7rfzI/WAEMHJDkVSI/AAAAAAAACrw/FbO-ORcZEwcjp8dSTYKctKW7f0rpf7rDACLcB/s320/8XQeE9iwHdm6Uyb7X1GOrScouzm.jpg'
+}, {
+  'titulo': 'soldado-universal-3-regeneracao-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-oXImnBmcpAg/WAEIVFJnoCI/AAAAAAAACrk/FoFoz3e15xgXsqxuNgCnsYY9bVK6HKdawCLcB/s320/gLuKyGzkVfGbLZ85zNe0vIjbUuj.jpg'
+}, {
+  'titulo': 'soldado-universal-4-juizo-final-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-5uHk7mVfF0A/WAEFivVXqWI/AAAAAAAACrY/2hcp5RMv8mw-17UVSDZNeM8PhWXHdxDuQCLcB/s320/jPVf2ELtAtiRBb34ALjcGTkpztP.jpg'
+}, {
+  'titulo': 'alien-vs-predador-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-EvgaPtdxCS4/WAECg0-BO9I/AAAAAAAACrM/NC85N_xHTQcmJ6AWJDbGK1rGUxzwd8-MACLcB/s320/alien-vc-predador-2004.jpg'
+}, {
+  'titulo': 'aliens-vs-predador-2-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-HjktoBo5auQ/WAEA1ZxfnjI/AAAAAAAACrI/PG3wMaLhVS4ZPwdrIe9lKlRXBJVCdY3MACLcB/s320/Alien-vs-Predator-2-Requiem.jpg'
+}, {
+  'titulo': 'alleycats-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-Z9Y7ul1hAh0/V__-dheYn0I/AAAAAAAACqs/8ktnriOdtuQmYGnoWJDCAAeZEEnit1gPQCLcB/s320/xZDXGzBplXzz4tUpfIXHpExa8xM.jpg'
+}, {
+  'titulo': 'd-war-guerra-dos-dragoes-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-4DaAECZlwgI/V_6Amgp6MOI/AAAAAAAACp8/MTZulghKtzELculZ-HO_xWebO8rqEMI9QCLcB/s320/5uCvlftatx5JfA08ejmpRpW9Mn0.jpg'
+}, {
+  'titulo': '2012-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-j6yIWGz9juc/V_56nyPSaDI/AAAAAAAACpY/Yu0i3c568lATwYqGjhr5qmBptpDKV8kogCLcB/s320/iCFYGFXq7G9qcXEdfzeEx6PiIvw.jpg'
+}, {
+  'titulo': 'o-medalhao-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-4nLWVPFwpIQ/V_528JkUkaI/AAAAAAAACpE/vHEZE_iHw6YNOcJUhLQ8-zrIYEZdLftgQCLcB/s320/9iJrg37ceCBeQkQHnIy97VekINb.jpg'
+}, {
+  'titulo': 'conexao-asia-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-YSDJRO4EJqo/V_1pTgUmS6I/AAAAAAAACoo/crX_CAvsZhwHMTyINUZZmt1heahmzJ5VQCLcB/s320/8z1GHkxa1Gz0hAvYtALOrowVf8b.jpg'
+}, {
+  'titulo': 'panico-na-torre-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-DOaLk44t0E0/V_1YRt37-4I/AAAAAAAACoA/TvWlbhhvVScDEFNhVoB1QhiNd-Whhk6dQCLcB/s320/2hFgZXucrLT56x2URfYNykoYfcB.jpg'
+}, {
+  'titulo': 'pequenos-espioes-4-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-IoLyO60FYrI/V_1PYUTH18I/AAAAAAAACnw/_rZ9Cb0fuU8yqxH7xM0zK3FyRTJaRakKACLcB/s320/lWfNtyXqgpdNPc1jHZbK7guJSzU.jpg'
+}, {
+  'titulo': 'guardioes-do-dia-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-fKMzzm4WlQU/V_wD4SfyAkI/AAAAAAAACnU/S8tpgmmFGd8vaB8EKnX_xzdBQ1-fri2dgCLcB/s1600/atGH4nq.jpg'
+}, {
+  'titulo': 'vinganca-de-um-assassino-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-iRCcTIXg6oM/V_vs9dPMuoI/AAAAAAAACmw/I-hTT6Zf154uPuXao1UdxCN4CBxbXsBtACLcB/s320/cnoSvdlybYGvAN3KSONpnZDjQdA.jpg'
+}, {
+  'titulo': 'the-siege-of-jadotville-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-MSRAv2M8gf0/V_rJra_8s4I/AAAAAAAAClw/sZbHAws_624al0utkYdSEr0e3EGr2wlKQCLcB/s320/hUrVDwC4naN3Heti9xkFjs3juD9.jpg'
+}, {
+  'titulo': 'george-o-rei-da-floresta-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-pfojy7ynFWo/V_keytdDxvI/AAAAAAAACkQ/SbZSFDpv4-Qj3ew3uo6bE9AL52oXH9-VwCLcB/s320/rrgII7dcV2pDC0uuFU95wTTeT6U.jpg'
+}, {
+  'titulo': 'a-ultima-legiao-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-44p481nslGk/V_keHB5E6VI/AAAAAAAACkI/HWApIOYdttALKpWoAakLdZJ1UAPUQ4MngCLcB/s320/tNufHKdzMT7yv1JQ2k3sRBFP6KR.jpg'
+}, {
+  'titulo': 'codigo-de-honra-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-G4Ox-miF2uo/V_kFH6AcgSI/AAAAAAAACjo/04Va5wf8fHkwDlEhhJELMfeHHXdcexD1gCLcB/s320/oBAEIEMjldg7LQzV0c35nv74HNY.jpg'
+}, {
+  'titulo': 'codigo-de-honra-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-G4Ox-miF2uo/V_kFH6AcgSI/AAAAAAAACjo/04Va5wf8fHkwDlEhhJELMfeHHXdcexD1gCLcB/s320/oBAEIEMjldg7LQzV0c35nv74HNY.jpg'
+}, {
+  'titulo': 'angel-of-reckoning-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-ha4xD92VzjA/V_kDRbFhLLI/AAAAAAAACjc/4hY5VuZ4TXYluuMM2rcDJYaTxC3zliTDgCLcB/s1600/dsLcrSM.jpg'
+}, {
+  'titulo': 'genios-do-crime-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-TloYiEdeEeo/V_gg2aQqjyI/AAAAAAAAChs/ztDseiVFeHw7pGon8A4WS3iyHw7QOAxMQCLcB/s320/ckvMZK6b5HeIbUywqbLDY6BUFRX.jpg'
+}, {
+  'titulo': 'o-rapaz-e-o-monstro-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-tgYwpU2qZ20/V3P24sWjd1I/AAAAAAAAQQE/t6TWbOHLcTgysYpIj30UitoCU8DKgtyyACLcB/s1600/bakemono_no_ko.jpg'
+}, {
+  'titulo': 'revolver-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-Th9xvpXzO-I/UTqnZlkanJI/AAAAAAAABmA/f2EZ80VGSYI/s1600/Revolver-cinefilmesonlinenet.jpg'
+}, {
+  'titulo': 'call-to-duty-fora-de-alcance-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-wDDTRTo6cdo/V7iu0mublgI/AAAAAAAAAE0/8uuPZWzrookZ8IpCT6JTZLojZQGlOUalQCLcB/s320/beyond%2Bthe%2Bcall%2Bof%2Bduty%2B2016.jpg'
+}, {
+  'titulo': 'call-to-duty-fora-de-alcance-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-wDDTRTo6cdo/V7iu0mublgI/AAAAAAAAAE0/8uuPZWzrookZ8IpCT6JTZLojZQGlOUalQCLcB/s320/beyond%2Bthe%2Bcall%2Bof%2Bduty%2B2016.jpg'
+}, {
+  'titulo': 'alta-fronteira-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-uQd7fQ6WIbo/VwYq2lJpKFI/AAAAAAAABf4/dx_gaeaLetsygT8RknxvuZQGQseFpqBGw/s1600/9e36e3cd59c49a7ca22e6073abdf.1000.jpg'
+}, {
+  'titulo': 'o-amanhecer-do-quarto-reich-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-b41nLIRGEAc/V-aMDc2st4I/AAAAAAAAPnM/r6ZazuZr6VYOrqEaPHVMCiE-GTVUn0mlQCLcB/s1600/BEYOND.jpg'
+}, {
+  'titulo': 'assassino-a-preco-fixo-2-a-ressurreicao-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-oN5F1YYLmZY/V7DOkAs2jlI/AAAAAAAAOo8/wYouxyjuXqAZOiJmSeXt-K3NPcim5MxkQCLcB/s320/104239.jpg-r_1280_720-f_jpg-q_x-xxyxx-205x300.jpg'
+}, {
+  'titulo': 'astro-boy-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-ZOaIgz9OYYc/V-_rLS4ua3I/AAAAAAAACdM/fh6LkHNF6zoDjcyK3ozuSRcuKqB6QT9AACLcB/s1600/astroboy_15.jpg'
+}, {
+  'titulo': 'o-ultimo-round-3-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-muBrWMbOaFE/UYRFuucmrYI/AAAAAAAABTs/9INXTLHY62Y/s1600/Boy_s_tenyu_3_Posledniy_raund_1325748409_2011.jpg'
+}, {
+  'titulo': 'a-lenda-do-zorro-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-qf8Yqh7WQgc/U8PPm6bOg0I/AAAAAAAAZ1Q/t50Zg3NrMnk/s1600/A+Lenda+do+Zorro.jpg'
+}, {
+  'titulo': 'a-hora-do-rush-3-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/_8PfNDeA3UO8/SHwt7mJJu1I/AAAAAAAAAUM/mnUqEMiuQ78/w1200-h630-p-nu/hora-do-rush-3-poster08.jpg'
+}, {
+  'titulo': 'a-hora-do-rush-2-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-GxCkapxRUjs/Uheesce3qcI/AAAAAAAAGvs/bU2kEkQMwis/s1600/A+Hora+do+Rush+2.jpg'
+}, {
+  'titulo': 'a-hora-do-rush-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-epE6iMvmRJQ/UhbbWQW5-6I/AAAAAAAAGvc/Z-ygSH_KPM4/s1600/A+Hora+do+Rush+1.jpg'
+}, {
+  'titulo': 'morte-por-encomenda-2010-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-EFgzxgPdiSQ/T1ZvH42XiuI/AAAAAAAAAOY/it0sboNQ3cE/s1600/The-Big-Bang-poster.jpg'
+}, {
+  'titulo': 'hellboy-ii-o-exercito-dourado-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/_GIchwvJ-aNk/TLH6yQhQ6rI/AAAAAAAAVeo/3Onh0EVeiSQ/s800/Hellboy+Golden+Army+poster.jpg'
+}, {
+  'titulo': 'hellboy-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-1J-JVqSjuMY/VZ-nS73chRI/AAAAAAAAArk/644YCz-xpp0/s1600/hellboy-poster.jpg'
+}, {
+  'titulo': 'legiao-de-herois-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-SoKOTnAyp10/V-sGlCdNcEI/AAAAAAAACbY/DkKIhYCdXzkpNXPWJ-jUYfQg0R0M6EH0ACLcB/s1600/Kokodaposter.jpg'
+}, {
+  'titulo': 'e-que-deus-nos-ajude-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-YrSTBZ8rSPA/UUGxICQFSGI/AAAAAAAARL8/51EXk8g5HMQ/s1600/E+que+Deus+nos+ajude.JPG'
+}, {
+  'titulo': 'forcas-especiais-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-5ceTZAc5SJo/TuNWUFYfeeI/AAAAAAAABvA/dMF3MZAmMpk/s400/225245.jpg'
+}, {
+  'titulo': 'bangkok-nocaute-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-K2-ove7HPIg/V-f-2gdNhGI/AAAAAAAACZY/epMow1ir5UEEVg02XKQfix6393ZJm3uNACLcB/s320/if40hIcYdJJ7QtVT3gYenpJ1uQL.jpg'
+}, {
+  'titulo': 'interrogation-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-mKX2EYlR-G8/V-f5ynHvRBI/AAAAAAAACYw/u0h7gota4CkIb7b07097o0AfK2sh1QaCACLcB/s320/j38QfMHw3GSqfC3UElC427ETg3N.jpg'
+}, {
+  'titulo': 'mythica-a-quest-for-heroes-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-onfq9K_9h9g/V-f27bMjoRI/AAAAAAAACYg/cPzysz0SsXMh1F0vfu0fAKuqRO_oaaLIACLcB/s320/3Wz15vPjgN3avkMMD6nkVjS4Kf7.jpg'
+}, {
+  'titulo': 'batman-sem-limites-mechas-vs-mutantes-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-3GBek-MUL8o/V-VhHVULMiI/AAAAAAAACYE/AutFjCbIi086PgtWdsfi96oMfQTsSr4awCLcB/s320/bppmdOACqo9svFfZnITZAk3nAT3.jpg'
+}, {
+  'titulo': 'olhos-de-dragao-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-Ezd1R5F3x9w/V-Ve7X4bSLI/AAAAAAAACX0/zat27jIW3pIuRagmzgaSPGJSojo6E2cBACLcB/s320/lkKkuw7Szw3WergeGs0HBxR1fE3.jpg'
+}, {
+  'titulo': 'skiptrace-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-gjFNtpPJcRg/V-VZNCpliNI/AAAAAAAACXM/20s0CJ4NXMciB1XD3x89ly0Ibkpxkv3bgCLcB/s320/aDBiscx8KLKFV01fs7ei97P0J6Q.jpg'
+}, {
+  'titulo': 'daylights-end-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-qrbMwiI4b_I/V-VYT8Itd_I/AAAAAAAACXI/_a4QlX8NSxcJJL4m4zOZBpGH_UBtA4iMQCLcB/s320/eciq2ZimLyOo6C39h0s1DAOC3WS.jpg'
+}, {
+  'titulo': '12-horas-para-sobreviver-o-ano-da-eleicao-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-a-izHFYI7jU/V38HDBpUIUI/AAAAAAAADCk/QS5EhAh72gAWGCX4o48I4m-1YBLq1dpRQCLcB/s1600/12horasparasobreviver_9.jpg'
+}, {
+  'titulo': 'maximum-ride-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-JcgnRhre9AQ/V-HGPo6DTpI/AAAAAAAACUE/mOTdm6dXWisIk-o9Ch1EPHmLJJZ4Q0IVQCLcB/s320/8j9MhnsdM8MB9wXjDWYRCIyR8i7.jpg'
+}, {
+  'titulo': 'devilman-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-VY54FACXFgM/V-GkoqjBogI/AAAAAAAACTs/sERPsouIFqwbZ3BR-B92IIm0mCEvPPb1ACLcB/s320/1GhaglBh9fGDJ9RkvfFKHNJwGZy.jpg'
+}, {
+  'titulo': 'mythica-the-darkspore-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-dYBgqrNQPSw/V-BXj_pz6eI/AAAAAAAACTQ/zfX5eDiF8hoUzy9vTBd-5YCPQ8z8b5v2gCLcB/s320/pIMl4i8qhyFOke883iZTpxe8vaH.jp'
+}, {
+  'titulo': 'tiras-em-apuros-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-MLjxCMqWpoU/T9YlxUM7Y1I/AAAAAAAAC78/G9zxYsz5g2k/s1600/380239_232637773506714_1883999766_n.jpg'
+}, {
+  'titulo': 'death-note-o-filme-legendado-hd-1',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/_ocPbJpBDOQI/TNh8hCGV1yI/AAAAAAAAADg/8t2dWnOnLa0/s1600/review-deathnote.jpg'
+}, {
+  'titulo': 'train-to-busan-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-rJsoQZH2VLs/V6hLoOkuX4I/AAAAAAAAA7I/Mv5Aj3Esr-grcDgKBBlj3zpjVgtK98GogCLcB/s1600/train%2Bto%2Bbusan%2Bposter.jpeg'
+}, {
+  'titulo': 'a-arma-perfeita-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-96dsO8qSY6s/V93fGxItBXI/AAAAAAAACSI/rVGwpVT7z7Qcab6n32-YPNEBw6JBcaLywCLcB/s320/am6eVYHSU3bORdz5Ukmc7XSiW5R.jpg'
+}, {
+  'titulo': 'um-estado-de-liberdade-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-iHzLYfj9zMI/V93d9hS8EcI/AAAAAAAACSE/-lUWz_Ja7Kgzp4pwsqcNWm_k2tEkJyVsQCLcB/s320/cr6deqioMikGthK9KdFgzMYdM8O.jpg'
+}, {
+  'titulo': 'capitao-sky-e-o-mundo-de-amanha-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-9xK9GWUVXac/VLUPXpHKZ2I/AAAAAAAAhjk/jQAwSI_3_RA/s1600/Sky%2BCaptain%2Band%2Bthe%2BWorld%2Bof%2BTomorrow%2B(2004).jpg'
+}, {
+  'titulo': 'elektra-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-ORRyPLRdhU0/UytAEkBRBOI/AAAAAAAAIlY/ktNIcGYzW-Y/s1600/Elektra.jpg'
+}, {
+  'titulo': 'corram-que-o-agente-voltou-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-uWhXeGnr1lU/VwWxlk9cBGI/AAAAAAAAHng/LEcn0ggjKTkei_LXR0rOFWoKiV0oXgczw/s320/corram-que-o-agente-voltou_t16910_eL0WK33_jpg_290x478_upscale_q90.jpg'
+}, {
+  'titulo': 'pecados-mortais-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-ss0f4W94DH8/U0oQFARsA6I/AAAAAAAAsys/0dzvkuz7FxE/s1600/capa.jpg'
+}, {
+  'titulo': 'assalto-ao-poder-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-JDc63RtF7g8/V9vtflTE74I/AAAAAAAAGXM/BnZx-2pgsJkwYbMhdjKl8EFl3sD3E68KQCLcB/s320/1.jpg'
+}, {
+  'titulo': 'os-aventureiros-do-bairro-proibido-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-hVkf5RCymGs/V9sXbFAAvHI/AAAAAAAACRc/k31V6rV388Q68aRUuJT7jTMyw4M-w_ElQCLcB/s320/vv7nvTymuYOtEwEVKfcNKLlIEbi.jpg'
+}, {
+  'titulo': 'veiculo-19-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-fwamNInYRUo/V9sT0fJnlhI/AAAAAAAACRE/lTKdj9Sa3uo-D5kfPi5bBIKzxFixaldIQCLcB/s320/xvvXDdKdgoPeQsSWfLKU7NOQA0c.jpg'
+}, {
+  'titulo': 'a-conexao-francesa-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-JJ2-Sn0-ylE/V9l-eVvL3WI/AAAAAAAACQw/ipYJUg73CVUzy0E6xQtMBOlM1EmE9QoMQCLcB/s1600/a4pmoRP.jpg'
+}, {
+  'titulo': 'a-conexao-francesa-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-JJ2-Sn0-ylE/V9l-eVvL3WI/AAAAAAAACQw/ipYJUg73CVUzy0E6xQtMBOlM1EmE9QoMQCLcB/s1600/a4pmoRP.jpg'
+}, {
+  'titulo': 'mulher-gato-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-Y3JP7H-upJ4/V9l6UZuIqSI/AAAAAAAACQc/2AVotumbK2QitzDVdu7VXT1Fq5u_EaoKACLcB/s320/14zj9xySSqwmP0Eq6CttEJn7btg.jpg'
+}, {
+  'titulo': 'a-morte-e-a-vida-de-bobby-z-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-XAlf9a4s_F8/V9luBVkBhiI/AAAAAAAACP0/wDSdlfxyXB0ynV07cXd0_iKwEKENcawOwCLcB/s320/CrwVuuaxOr4AZuMqLXsL3bQAbo.jpg'
+}, {
+  'titulo': 'terremoto-2014-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-Zd9ul_59_ts/V9hxE2y3FGI/AAAAAAAACPI/XDXGpAOgTp04ly2bGy0m2568jqW4gKxcwCLcB/s320/orOKr1k4lmLAn1FNcgJjjdhjkiB.jpg'
+}, {
+  'titulo': 'terremoto-2014-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-Zd9ul_59_ts/V9hxE2y3FGI/AAAAAAAACPI/XDXGpAOgTp04ly2bGy0m2568jqW4gKxcwCLcB/s320/orOKr1k4lmLAn1FNcgJjjdhjkiB.jpg'
+}, {
+  'titulo': 'operacao-baba-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-bDL2ia8gtjA/V9hu-hoOewI/AAAAAAAACO8/hSqIj9xanTcXGctNPokGI1YEXTPfb569gCLcB/s320/ekenQlh8cK59yOt6hRVjl4GTTM8.jpg'
+}, {
+  'titulo': 'mergulho-radical-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-12jCM3karlY/V9hrDXVaGcI/AAAAAAAACOw/WMdjQiSC4nEUW4K72GyDnAtKuXat-Bj6gCLcB/s320/vscXvTMVpzt88OExMbpJxwx2rGX.jpg'
+}, {
+  'titulo': 'o-resgate-do-soldado-ryan-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-my4NZRJp0no/V9bRDI6rQ2I/AAAAAAAACNI/GjrPi6EQZhAuKVeNKrq5PZN3hgk-PwnvgCLcB/s320/GZDCgbSm649HUAOPuZIIVo7ddA.jpg'
+}, {
+  'titulo': 'enders-game-o-jogo-do-exterminador-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-AOAS2Iap6l4/V9WVsQ38DMI/AAAAAAAACME/mC0RcLg3EhUHNG0s3o8FYOavCIDAlRxGQCLcB/s320/bTaOTlPSNP6Em5R11gFYyt0uxDH.jpg'
+}, {
+  'titulo': 'eu-robo-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-eJyKjw8jUyM/V9QpC5LAluI/AAAAAAAACJw/Dm6t1tWq1GcSP1o5fuYPByj6YcEZQdtQACLcB/s320/zaFZyOHeDzB0k9sbQ7LNUOd9RGs.jpg'
+}, {
+  'titulo': 'inimigo-do-estado-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-FhSbEkkSXIU/V9QZLOYVahI/AAAAAAAACJg/gMdQN-quAJ4qZ2fpKQEprvyBuSU_3wAkgCLcB/s320/osssIy2mWVnN3UqD3tTWXoXE5pJ.jpg'
+}, {
+  'titulo': 'r-i-p-d-agentes-do-alem-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-qyHvvvHiHow/V9NX5VhJygI/AAAAAAAACIc/5kCQ0m6kTK4-6FODA72lMXCcS8q5ts_UACLcB/s320/zNwqbrLXThC1ACfpEj0m8Ngr7q7.jpg'
+}, {
+  'titulo': 'amazonas-lendarias-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-vnALcH0kcUE/V9NQZHM-e5I/AAAAAAAACIA/YUq8vTGzL_QxA2MqYBZbzVJlgbDzar4oACLcB/s320/u7ynNdV7B2PSMSguBOZViu2rgv7.jpg'
+}, {
+  'titulo': 'os-sobreviventes-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-vBzgTBm7Hwg/V9BLzwjLArI/AAAAAAAACGc/5cCKVHnh-Hwp49NTqkDFn2FbzOtVz_gtwCLcB/s320/xgW6ZkIowhp8GZgi4U7YSIu5eGC.jpg'
+}, {
+  'titulo': 'os-sobreviventes-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-vBzgTBm7Hwg/V9BLzwjLArI/AAAAAAAACGc/5cCKVHnh-Hwp49NTqkDFn2FbzOtVz_gtwCLcB/s320/xgW6ZkIowhp8GZgi4U7YSIu5eGC.jpg'
+}, {
+  'titulo': 'kickboxer-vengeance-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-O23weRFFkMQ/V88oJojI36I/AAAAAAAACFQ/o6dmqansFWM4iyXzzHIcsW-_M8wuwSDqQCLcB/s320/fHwikdzHy8btv7Rn1eRGe9rvLVO.jpg'
+}, {
+  'titulo': 'heranca-de-sangue-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-ob07KOncr8c/V8xqlfruB7I/AAAAAAAACDg/364Rrsr9MhwjcgR-BjaUzaDj3WR5-W3JwCLcB/s1600/7MlnI4d.jpg'
+}, {
+  'titulo': 'o-hospede-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-K0O_dyBBwoo/V8xklW-dHFI/AAAAAAAACDQ/PLazhhgGF-E5ejHRLTybJDx28m5KBFWzQCLcB/s320/xxSuU7Q9ZmPjw9TNQ1WzmHVAxBI.jpg'
+}, {
+  'titulo': 'o-hospede-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-K0O_dyBBwoo/V8xklW-dHFI/AAAAAAAACDQ/PLazhhgGF-E5ejHRLTybJDx28m5KBFWzQCLcB/s320/xxSuU7Q9ZmPjw9TNQ1WzmHVAxBI.jpg'
+}, {
+  'titulo': 'drunken-monkey-o-poder-do-kung-fu-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-nn3cmjTGvNM/V8sFI_X6oaI/AAAAAAAACBg/Nh0p5Z-m8B4sCZi-OtJAIRNE-YLVAjiUwCLcB/s1600/bYzOMdPckWSUgjNrqgAvoUEBduj.jpg'
+}, {
+  'titulo': '24-horas-para-sobreviver-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-OxoShgfkvsY/V8m1rkl_2XI/AAAAAAAACAQ/TU33xpHpwwwgPFiMAMoTUGdT9YDG6vDhwCLcB/s1600/kSgzHtbt2zy2u2bDKAix6q2VBQB.jpg'
+}, {
+  'titulo': 'alvo-duplo-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-9Dq5EjL9dto/V8mwnvpaUQI/AAAAAAAAB_w/7jNNWpWZUcEWrt1pf1UAZR1xXx6deAmbQCLcB/s1600/z860OfLzOOqqfaTaZOLmWrQ6vrC.jpg'
+}, {
+  'titulo': 'bastille-day-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-uQDR5NwMlOg/VyEBnSodpBI/AAAAAAAAAgA/vgX9p1PMEC85iSVPBDx--fEaeAI47y_KwCLcB/s1600/Bastille_Day_%2528film%2529.png'
+}, {
+  'titulo': 'atras-das-linhas-inimigas-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-MWz6s7IJpMc/Ucj6N83MyAI/AAAAAAAAAg0/b7pI9xtd6Vk/s1600/atr%C3%A1s+das+linhas+inimigas.jpg'
+}, {
+  'titulo': 'batman-o-cavaleiro-das-trevas-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-CS-yRQRNUKw/V8YEoNoFuqI/AAAAAAAAB-Q/4z4xt1P7bOsKPgmLqMKeBiJPok3Fxx7IgCLcB/s1600/darkknightposter.jpg'
+}, {
+  'titulo': 'sou-espiao-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-wJvI8CiGCFM/V6zA4iPQLjI/AAAAAAAAAGA/HkvzQ69weWMn_FEd2-NgiC7e9BJEI0VUgCLcB/s200/Sou%2BEspiao.jpg'
+}, {
+  'titulo': 'esquadrao-suicida-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://br.web.img3.acsta.net/c_215_290/pictures/16/06/22/00/19/008711.jpg'
+}, {
+  'titulo': 'parker-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-5zghD1VKalE/UQSODkws8eI/AAAAAAAADqg/BE8At2Dfddc/s1600/Parker+01.jpg'
+}, {
+  'titulo': 'mais-forte-que-o-mundo-a-historia-de-jose-aldo-nacional',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-q2Z8Qd2kgVQ/V8MS1pUEZfI/AAAAAAAAB98/ebB0kP39PMw3x6ZOEmSr3Bco7k9fgqpfgCLcB/s1600/maisfortequeomundo.jpg'
+}, {
+  'titulo': 'countdown-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-w2DKJkzamW0/V6RV3wmL7RI/AAAAAAAABL8/ZF9VBA2RHR8oqXCGUFBtbjn-Wm7JocwOQCLcB/s320/Countdown%2B%25282016%2529%2BWorldfree4u%2B%25E2%2580%2593%2B275MB%2B720P%2BBRRip%2BEnglish%2BESubs%2B%25E2%2580%2593%2BHEVC.jpg'
+}, {
+  'titulo': 'o-alvo-2-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-NFJXQYF_YQw/V79KfYGviiI/AAAAAAAAACo/dIUDKRCYmxUrsDXLcYdHnnLSHNcEJecLgCLcB/s1600/o%2Balvo%2B2.jpg'
+}, {
+  'titulo': 'o-alvo-2-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-NFJXQYF_YQw/V79KfYGviiI/AAAAAAAAACo/dIUDKRCYmxUrsDXLcYdHnnLSHNcEJecLgCLcB/s1600/o%2Balvo%2B2.jpg'
+}, {
+  'titulo': 'redencao-2013-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-lzFAa1LrDvc/UkGU3b58SoI/AAAAAAAAQnA/pylk6Fs6qVk/s1600/Redemption.jpg'
+}, {
+  'titulo': 'encurralados-2015-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-ve3fgPOmC9A/VcZWEEgDM5I/AAAAAAAAvbY/tL8k2d2ZSew/s1600/002.jpg'
+}, {
+  'titulo': 'a-volta-ao-mundo-em-80-dias-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-1dZqep000I8/VtUR0P-x_6I/AAAAAAAAD5o/-PHCIDqWwAw/s1600/volta-ao-mundo-em-80-dias-2004-poster06.jpg'
+}, {
+  'titulo': 'tubaroes-de-gelo-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-bBJrjGvHivQ/V79fsRMy9XI/AAAAAAAAB9U/yoOvWqGA-8ApBDdDhAdWMUvzEXzhQONvwCLcB/s1600/%25C3%25ADndice.jpeg'
+}, {
+  'titulo': 'a-lenda-de-tarzan-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-frvTKrPbQaI/V5OfCgUjWwI/AAAAAAAACbo/xWig_Avb5UUJDALfntXp7fGfM4Rlwk-AACLcB/s1600/tarzan.jpg'
+}, {
+  'titulo': 'assistir-independence-day-o-ressurgimento-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-MJd0DxMc1sw/V3P6SAqu6GI/AAAAAAAABao/WMi1actC_UUj5BocdCe-uKJnI4CSe_Y1wCLcB/s1600/Independence-Day.jpg'
+}, {
+  'titulo': 'jason-bourne-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-Um9Z9_RWmLM/V5-i1sciy_I/AAAAAAAAB00/jqv5OH2fxFs56vPr1wIh6PAw1Vu2Uf1bQCLcB/s1600/PnoOav5.jpg'
+}, {
+  'titulo': 'um-espiao-e-meio-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-KNbwBt_sccw/VyJj_rssVxI/AAAAAAAAGFQ/PbRJxL-03XE7MASTQnGORN6YlMyQce1qACLcB/s1600/umespiaoemeio_0.png'
+}, {
+  'titulo': 'x-men-apocalipse-legendando',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-p33QeJLhKng/V0CtnLiVHbI/AAAAAAAAAyA/3htcY-f2jogJvLdhLB__29rrg_X9WgfcACLcB/s1600/X-Men-Apocalipse.jpg'
+}, {
+  'titulo': 'the-last-heist-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-cSfNIyxwxcw/V2XonrR_NtI/AAAAAAAAAIM/oJ07H6B6AlUaNzEnuV9zr5U1Omdybm6gACLcB/s1600/the-last-heist.jpg'
+}, {
+  'titulo': 'kung-fusao-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-q9qDNVFzy64/Ux9YdgOSy3I/AAAAAAAAIgA/deXpYA3csxU/s1600/Kung-Fusao.jpg'
+}, {
+  'titulo': 'daeho-the-tiger-an-old-hunters-tale-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://topdezfilmes.org/wp-content/uploads/2016/08/The-Tiger-An-Old-Hunters-Tale.jpg'
+}, {
+  'titulo': 'o-forasteiro-violencia-sem-limites-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-vJZd02xRRYU/UZwqMwXw1fI/AAAAAAAADkE/XdrCkUqTKc0/s1600/284743.jpg'
+}, {
+  'titulo': 'sangue-e-honra-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-IDZbNB7xUnc/V7OOBfoXssI/AAAAAAAAB9E/ufZ3FO5IUScFdvn27BP1V-BGsOdU52ItACLcB/s1600/ffqfB5oeMG0LokZEJ9DN0TREPza.jpg'
+}, {
+  'titulo': 'um-homem-contra-wall-street-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-Ibd9NY-174s/U4OpL6u72WI/AAAAAAAAIiU/UlTTEula7qQ/s1600/Um+Homem+Contra+Wall+Street+-+Assault+on+Wall+Street.jpg'
+}, {
+  'titulo': 'darkest-day-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-5yZ-abF2axc/V7Hswy5rO6I/AAAAAAAAB8k/CWSDGrd428IHwow8W3c_84FjtWoJDkDFgCLcB/s1600/cmxGHBqKNPhUnBTwX0badUKgSm9.jpg'
+}, {
+  'titulo': 'the-killer-robots-crash-and-burn-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-IA7NQwKI97s/V7HmLQfV4UI/AAAAAAAAB8Q/elMRtxq6YdU8Hgj0DTp2n_HwqfujbFHsQCLcB/s1600/2uD3ZhIO0cJM54bR78TaMw7WOc7.jpg'
+}, {
+  'titulo': 'highlander-o-guerreiro-imortal-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-2ttPU6XPnYA/Vt3l9CieZVI/AAAAAAAAC7A/WNsMI4lQO3k/s1600/highlander.jpg'
+}, {
+  'titulo': 'highlander-3-o-feiticeiro-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-DrQF8lKrZe0/V6tbr8ZXUZI/AAAAAAAAB7s/hbM-UX0SlOI7DlGuSQReLYi_abJLtGYIwCLcB/s1600/8ycF89GBlV6G403KcoZzPL8b6B9.jpg'
+}, {
+  'titulo': 'highlander-a-origem-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-khku9dmRJXY/V6pLK08TM3I/AAAAAAAAB6o/5KnKXfGl0-EPadIxa3BcXJl-GdbpaPTmgCLcB/s1600/vKpIDKvsy2ny5vznWDg7Csj2HcV.jpg'
+}, {
+  'titulo': 'crimes-e-trapacas-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-LE5eL-W17Xw/V6jDAZJIq1I/AAAAAAAAB6M/v7VrErWiP-knHvhYatBmTLzgnxILsFdDQCLcB/s1600/rIqx05w1SnfpzDsMLlXnWDZrJww.jpg'
+}, {
+  'titulo': 'star-trek-sem-fronteiras-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-I0KGUy3sLY0/V6i8eQWVzDI/AAAAAAAAB5s/RVdPXb-ikIk9KY2BVrKXuS2202Af1zyHQCLcB/s1600/6WwWZcy.jpg'
+}, {
+  'titulo': 'bad-ass-3-dois-duroes-em-bayou-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-coPdRjmlvS0/V6i6L0xopDI/AAAAAAAAB5Y/nH7ZpQseljkcDKD7gpJISFJMKCfPhzm9gCLcB/s1600/9UK4IkAqB5JHdEcE6QWRyAKB14M.jpg'
+}, {
+  'titulo': '5-dias-de-guerra-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-ITYxD5iI4T4/TvSaIKv6W-I/AAAAAAAAARY/14TLZdFmv9M/s1600/5%2BDias%2Bde%2BGuerra%2B%255BDual%2BAudio%255D%2BBDRip%2BXviD.jpg'
+}, {
+  'titulo': 'godzilla-2014-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-jIKpYPc2oiw/U1wcYwysI9I/AAAAAAAAvAg/Bt4SrKBLMNA/s1600/godzillaposter.jpg'
+}, {
+  'titulo': 'dredd-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-CnWi0W823XM/UYo9JfC1D1I/AAAAAAAAC_M/ZuKJn_pRgms/s1600/dredd-3d-blu-ray-cover.jpg'
+}, {
+  'titulo': 'ferias-sangrentas-de-verao-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-U8Ghl7xmEXE/V6dow-D6ixI/AAAAAAAAB5E/zMeEPx1m7_oF0Jj3v5yLDcCX5Yee9L_NwCLcB/s1600/7PwqtPbsPS85p3JhoFWRaUzSK2q.jpg'
+}, {
+  'titulo': 'de-volta-para-o-futuro-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-z63Ohwe_S-A/Vh10vQQUvLI/AAAAAAAAJNk/8Co-IPvLTXs/s320/de-volta-para-o-futuro.jpg'
+}, {
+  'titulo': 'de-volta-para-o-futuro-ii-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-45ZTv3enVuE/UX21XOZuSvI/AAAAAAAABoI/BHGPf6wZkkI/s1600/De+Volta+Para+O+Futuro+2.jpg'
+}, {
+  'titulo': 'de-volta-para-o-futuro-iii-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-OsE8RiGZx1Y/TrHxacBTyQI/AAAAAAAAA4M/uL_Vb6LF2cM/s1600/s_MLB_v_O_f_155284690_3328.jpg'
+}, {
+  'titulo': 'all-girls-weekend-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-t6mPUCIiUK4/V6aF4-_WwxI/AAAAAAAAB4k/NfnHLJ1D6W4o_NBWss4DvHvUp9znUAxjgCLcB/s1600/1X4fGUeC7WQ9d3juiHhwsu7e39i.jpg'
+}, {
+  'titulo': 'o-livro-de-eli-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-4a0STiFZg64/TZw52eUGxkI/AAAAAAAAAV8/YKK8tq86CiU/s1600/livrodeeli_5.jpg'
+}, {
+  'titulo': 'hancock-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/_bC2Lk6N9nAY/Sw-5OQn4IUI/AAAAAAAACTg/2bxV-YvMswM/s1600/Hancock.jpg'
+}, {
+  'titulo': 'gigantes-de-aco-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-__PC448VI1c/U0S1ghH0URI/AAAAAAAARiw/aaUfHWkf_hs/s1600/gigantes-de-aco.jpg'
+}, {
+  'titulo': 'o-poder-de-alguns-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-_bVVALp7z6Q/UbhVIBpOGnI/AAAAAAAAZ20/gp75ay3dSMI/s1600/O+Poder+de+Alguns.jpg'
+}, {
+  'titulo': 'dupla-implacavel-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-rDySJ7Vl_vA/V6O4d2rCkXI/AAAAAAAAB4E/YyXa4zi6f5Ugt2zQOR3Vd2UKGRMNtiq6gCLcB/s1600/5ogUb2Fwj0qZCw5Lh1DXQA5tPp0.jpg'
+}, {
+  'titulo': 'chamadas-do-crime-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-2dDljgCMhx0/V6O0srRAHQI/AAAAAAAAB30/h3R8jqMzsmMhoNCORhEv7RNdIYzr_0EhQCLcB/s1600/3IPhLHyluVuMhojWTaVUmJVysqE.jpg'
+}, {
+  'titulo': 'o-cacador-e-a-rainha-do-gelo-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-u13FUvSk7CA/V0HfUC0yNJI/AAAAAAAAAz0/D6-gZ0vjIycCuZqffW2bnrrbaaqHlImHgCLcB/s1600/O-Ca%25C3%25A7ador-e-a-Rainha-do-Gelo.jpg'
+}, {
+  'titulo': 'planeta-dos-tubaroes-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-Ww7SR7k8bIQ/V6IyteBrNBI/AAAAAAAAB2M/piOJH7NAvM83eAJeIbChIuI6S019chmawCLcB/s1600/gnoz9A87242kwROESrTWd5x7yz7.jpg'
+}, {
+  'titulo': 'helix-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-Z7qowLrBZYw/V6IsZa0IYeI/AAAAAAAAB1g/mr-mui8ET1UGweU-IMY10IGUmddjNdrsACLcB/s1600/postere.php.jpg'
+}, {
+  'titulo': 'jason-bourne-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-Um9Z9_RWmLM/V5-i1sciy_I/AAAAAAAAB00/jqv5OH2fxFs56vPr1wIh6PAw1Vu2Uf1bQCLcB/s1600/PnoOav5.jpg'
+}, {
+  'titulo': 'the-rezort-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-kDOPrPMBzy0/V2kiwGEwdKI/AAAAAAAAB2E/w6TvPjSmVDoL1GXPhAPtWY0JIfqJH21aQCLcB/s1600/the-rezort-2016.jpg'
+}, {
+  'titulo': 'the-last-king-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-muyaRO2Rqfk/V1p7Jig4pzI/AAAAAAAAAJk/jOQ-r1ZQsFsvsNoNtnyu-1gKp_4Bdjr5wCLcB/s400/MV5BMTU0MzE1MjE0M15BMl5BanBnXkFtZTgwMDc3OTYwOTE%2540._V1_SY1000_CR0%252C0%252C648%252C1000_AL_.jpg'
+}, {
+  'titulo': 'demolition-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-bl3ITKz6MdY/Vw18BP78RiI/AAAAAAAAGUk/g16o7GKC6bcg_QybkI9m4G5CSs7_whV2ACLcB/s1600/getmovieposter_demolition_2.jpg'
+}, {
+  'titulo': 'marauders-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-boWRXC0YBZE/V4JRWQ9QgJI/AAAAAAAADV4/i8bIli84FT8w48clOdalri8nlPluRHOHACLcB/s1600/Marauders_%25282016_film%2529.png'
+}, {
+  'titulo': 'keanu-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-tUEjFtFU0N4/V5jGn9NHPeI/AAAAAAAABtc/Jm8MCU__jg80_x1oCRjW1AEkxYo4DK1zACLcB/s1600/Keanu.jpg'
+}, {
+  'titulo': 'diplomata-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-kvxHp9FUuJY/V50rQbpaYKI/AAAAAAAABzI/iGeDp95l76UgtrLcBtmMvC6XJoQLzYR9gCLcB/s1600/Diplomata.jpg'
+}, {
+  'titulo': 'om-policial-mau-policial-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-mLHELTtk4Hg/V5uKUF1LUoI/AAAAAAAAByE/Ik0ua9daEDgdFstWoXQvWDBS9UBuZ4x_ACLcB/s1600/bom%2Bpolicial%2Bmau%2Bpolicial.jpg'
+}, {
+  'titulo': 'desbravadores-a-lenda-do-guerreiro-fantasma-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-22iAeoHNASI/V5uHh9G29RI/AAAAAAAABx4/ixfRC88suqQnhRh_RJSkUjQbo6_1pQktACLcB/s1600/454123.jpg'
+}, {
+  'titulo': 'enfurecidos-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-4LF2Pbgk75k/V5t-k9i8koI/AAAAAAAABxI/mBpqf6MET44bLHctdJmD_72hXRtJttr5wCLcB/s1600/Vitimas-da-Vingan%25C3%25A7a.jpg'
+}, {
+  'titulo': 'seguranca-de-shopping-2-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-MMcTQV3RNws/V5oVpN8LMvI/AAAAAAAABwI/LvRWUtqr6xg66LTt7yk_zNsxlE-u1meeACLcB/s1600/Seguran%25C3%25A7a%2Bde%2BShopping%2B2.jpg'
+}, {
+  'titulo': 'expresso-do-amanha-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-4r-uq0BHaSQ/V5osAiKAKWI/AAAAAAAABwg/K8oNtlFuMa4IgFbmXUJ2go6xEw7HDuODgCLcB/s1600/expresso%2Bdo%2Bamanh%25C3%25A3.jpg'
+}, {
+  'titulo': 'vinganca-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-dKZo-g1jWC8/V5n39gaytHI/AAAAAAAABu0/QRUUpOmSQOMWUqnPqugJW7tra1EFiy7YQCLcB/s1600/Vendeta.jpg'
+}, {
+  'titulo': 'um-tira-muito-suspeito-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-zBN4LYMVTic/Uk8cY5H1ZVI/AAAAAAAAAgo/YL4Nrmk4ypI/s1600/download.jpg'
+}, {
+  'titulo': 'keanu-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-tUEjFtFU0N4/V5jGn9NHPeI/AAAAAAAABtc/Jm8MCU__jg80_x1oCRjW1AEkxYo4DK1zACLcB/s1600/Keanu.jpg'
+}, {
+  'titulo': 'insanos-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-Z2lZhOVbNJ0/V5i7V7knwOI/AAAAAAAABsg/RUXFaV8UFZwg09oTD-SbcYa-PRFKxbWcgCLcB/s1600/i2%255Epimgpsh_thumbnail_win_distr.jpg'
+}, {
+  'titulo': 'carnage-park-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-c3qjZCSKWpY/V36hYSsSK-I/AAAAAAAAOLU/QlbBe8Wxrb0HUbNZEbgoFWHP-H61f5BRgCLcB/s1600/Captura%2Bde%2BTela%2B2016-07-07%2Ba%25CC%2580s%2B3.48.03%2BPM.png'
+}, {
+  'titulo': 'r2b-operacao-retorno-a-base-dublado-hd',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-pCwWIZMIZxI/V4AIZssEJVI/AAAAAAAAJek/J4zpd_fn5dIOq_SabLDPGzrAj05jtUwdgCLcB/s1600/001.jpg&w=166&h=250'
+}, {
+  'titulo': 'em-busca-da-justica-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-e0QyR4DPMTk/V4k_yqWuGZI/AAAAAAAAJiA/r6yaixVFH6MufUMZa8LdPmXIXZKWc7ycgCLcB/s1600/001.jpg&w=166&h=250'
+}, {
+  'titulo': 'verao-em-staten-island-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-G3v9IKJKOOY/V4lA6EE9YvI/AAAAAAAAJiM/s10w8_Pd_sYAgjDLADBRTAj3KFB7SWZXgCLcB/s1600/001.jpg&w=166&h=250'
+}, {
+  'titulo': 'vigilante-diaries-legendado-hd',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-ufXRXflG-qs/V0wxJonAPgI/AAAAAAAAc0o/2K6KGaWaHkQk3whItpWzyxyADly77UkdgCLcB/s1600/Vigilante-Diaries.png'
+}, {
+  'titulo': 'rurouni-kenshin-samurai-x-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-nV7GttmcRl4/U1sZ9chukFI/AAAAAAAAYtI/JegvlUrGorU/s1600/filme+2.jpg'
+}, {
+  'titulo': 'esquadrao-sinistro-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-ZwOCtBvdLYs/V5BGmYCPyTI/AAAAAAAADG8/nTuHwkyPhkgg_a6XFQDno6vCMGNsai5MwCLcB/s1600/Sinister-Squad.jpg'
+}, {
+  'titulo': 'independents-day-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-7nlQxTSucOI/V3cT2I9NK6I/AAAAAAAAJYk/0YbctXvTkpEbtmLoVQ7Ry0jf5FAXHYObACLcB/s1600/001.jpg&w=166&h=250'
+}, {
+  'titulo': 'a-serie-divergente-convergente-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-Gu7XrYSrHvw/V0dYeovidTI/AAAAAAAAIyk/cHV4qpBW7BA4XettDXCaDW8KFWFn7rJJACLcB/s1600/001.jpg&w=166&h=250'
+}, {
+  'titulo': 'nascido-para-correr-velocidade-maxima-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://static.filmesonlinegratis.net/thumb.php?src=https://2.bp.blogspot.com/-H6bVgQI_9l4/V5POTTs5R4I/AAAAAAAAJmQ/l4nERwXIDSkEBArgFJ33rLTzmTiqXc6awCLcB/s1600/001.jpg&w=166&h=250'
+}, {
+  'titulo': 'o-atirador-fantasma-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-0frvV2RQRps/V5UW2M843xI/AAAAAAAAJmw/gJg89S3CFu4FETEJT5e5JnKdwEgWdfYkgCLcB/s1600/001.jpg&w=166&h=250'
+}, {
+  'titulo': 'a-lenda-de-tarzan-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-frvTKrPbQaI/V5OfCgUjWwI/AAAAAAAACbo/xWig_Avb5UUJDALfntXp7fGfM4Rlwk-AACLcB/s1600/tarzan.jpg'
+}, {
+  'titulo': 'a-justiceira-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-6G2cgCWvynw/VJXVn10thDI/AAAAAAAABw8/AM6rHKn-Qhw/s1600/Assistir-Miss-Meadows-Legendado-160x230.jpg'
+}, {
+  'titulo': 'momentum',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-tuOJCgCi3c8/V2WkjrDlPZI/AAAAAAAAJPQ/wyqDZzz1RxEByjiLxiykl_Wop5IsnMUTwCLcB/s1600/001.jpg&w=166&h=250'
+}, {
+  'titulo': 'mi-5-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-5Iraa0zW0dY/V4Kr_IKaDvI/AAAAAAAABpU/BY87FIySjkchZGeORgUEMcuK_QcfrHyeQCLcB/s1600/MI-5.jpg'
+}, {
+  'titulo': 'guerra-mundial-z-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-MsTQa6Jifg0/V4Kly2mdcfI/AAAAAAAABoo/XftyDkDDgPE-NHC-0N60Rve86RNgkqIzACLcB/s1600/guerra-mundial-z.jpg'
+}, {
+  'titulo': 'arrebentando-hong-kong-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-Rz-pW7iboFQ/V4BB4_o45LI/AAAAAAAABoI/UQJ2FW6LqZosiV5IDh-kC7r2_XvzEimCgCLcB/s1600/Arrebentando-Hong-Kong.jpg'
+}, {
+  'titulo': 'a-vinganca-do-mestre-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-bFFz8pzBDA8/V4BBWZ4iaGI/AAAAAAAABoA/VQYcAuNKeNMhY9Fa-cEqgYJIi-RX0O1oACLcB/s1600/A-Vingan%25C3%25A7a-Do-Mestre.jpg'
+}, {
+  'titulo': 'o-poder-dos-punhos-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-K1VPDcw2K9Y/V4BA3d-ahpI/AAAAAAAABn4/kOmP1fyQ-kMvGtzKyYOT2a7Gy1Wx-HtXwCLcB/s1600/O-Poder-dos-Punhos.jpg'
+}, {
+  'titulo': 'kickboxer-o-desafio-do-dragao-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-oeL_LJrhRgE/V4BAYQFNSCI/AAAAAAAABns/hFrvUonloZwkdhXZtwP0CdVjIVebkT3ogCLcB/s1600/Kickboxer.jpg'
+}, {
+  'titulo': 'kickboxer-2-a-vinganca-do-dragao-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-zaVaPmFJOyM/V4A_7sa_OxI/AAAAAAAABnk/0weB6B_2os47BTPihQiChtxdhRiGibrggCLcB/s1600/Kickboxer-2.jpg'
+}, {
+  'titulo': 'kickboxer-5-a-redencao-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-BkrlZxtnd5A/V4A_arCiX5I/AAAAAAAABnc/PY31wAI7edA05La1X9bk0OtbpVkspDz1QCLcB/s1600/Kickboxer-5.jpg'
+}, {
+  'titulo': 'operacao-condor-um-kickboxer-muito-louco-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-jqkUjjMw1aA/V4A-2tP4AFI/AAAAAAAABnU/tFiSyapLEqMFl0qMuCXm07nvwpqCwXtlgCLcB/s1600/Opera%25C3%25A7%25C3%25A3o-Condor.jpg'
+}, {
+  'titulo': 'projeto-china-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-CdELTtzdBkA/V4A-XWswN-I/AAAAAAAABnQ/a1GvZngrODo_yt-7bdF3E_uAITi5Y7RIACLcB/s1600/Projeto-China.jpg'
+}, {
+  'titulo': 'operacao-escorpiao-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-rW7cjPRvEyw/V36WlU5_hlI/AAAAAAAABnA/FCahoXiiT5Q4AOmzeN4NysovFqsBklzugCLcB/s1600/Opera%25C3%25A7%25C3%25A3o-Escorpi%25C3%25A3o.jpg'
+}, {
+  'titulo': 'a-mao-de-ferro-de-shaolin-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-SkKj7E6RbGU/V36UNVkfCNI/AAAAAAAABmw/qaFRtbF_yn4NomLeIuH919q3aePVbaRWQCLcB/s1600/A-M%25C3%25A3o-de-Ferro-de-Shaolin.jpg'
+}, {
+  'titulo': 'leis-marciais-2-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-2sDZyyTYA7g/V36ThSPxVxI/AAAAAAAABms/V1azBynXr3c2l0JX1PNjs-GL3tQ64pvwACLcB/s1600/Leis-Marciais-2.jpg'
+}, {
+  'titulo': 'shootfighter-o-combate-mortal-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-vdasurEIplk/V36QWdllOlI/AAAAAAAABmY/dInQ7UC_wS482KsuCO5GPcJvgiSHu6ICwCLcB/s1600/Shootfighter.jpg'
+}, {
+  'titulo': 'a-saga-de-um-heroi-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-r7pADQNQNq4/V36PIYlXhVI/AAAAAAAABmQ/M73ObOodtyMDQOCJ22n3bCX1CU68NeLqQCLcB/s1600/A-Saga-de-Um-Her%25C3%25B3i.jpg'
+}, {
+  'titulo': 'dois-herois-do-karate-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-U3BLw-BpOw4/V36NuLdFIHI/AAAAAAAABmE/LZkOtMaS8649QDc3Kqd6teub-ZCO07ajgCLcB/s1600/Dois-Her%25C3%25B3is-do-Karat%25C3%25AA.jpeg'
+}, {
+  'titulo': 'garras-de-aguia-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-aVWJQWXCRmU/V36Lj-BaDRI/AAAAAAAABl4/r475ZKdOoPEekTcfbUIdtj0FRddFsqvQACLcB/s1600/Garras-De-%25C3%2581guia.jpg'
+}, {
+  'titulo': 'street-fighter-a-ultima-batalha-dublado-hd',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-GezPJy4ljt4/V36BbZ3Gx1I/AAAAAAAABlo/np3ymVQDPl8z8IbP_Jd80jkKRYqZe95PgCLcB/s1600/Street-Fighter.jpg'
+}, {
+  'titulo': 'police-story-3-supercop-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-HfAERBANAmM/V31Go7a6SHI/AAAAAAAABlQ/FAdmBWs9QX0AAQOvciAKaqWWKnzXT6RHwCLcB/s1600/Supercop.jpg'
+}, {
+  'titulo': 'police-story-4-primeiro-impacto-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-YDD5CmCid-g/V31GFk7NvzI/AAAAAAAABlM/eFp2nLUKJdgPrZ34cxYP0lGJp6jcL8CnACLcB/s1600/Police-Story-4.jpg'
+}, {
+  'titulo': 'o-jovem-mestre-do-kung-fu-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-kgHCBGTtEeM/V31FZsIiTCI/AAAAAAAABlI/n04zTYBskYIoZ6-7LAyhZwjzPxR8haJawCLcB/s1600/O-Jovem-Mestre-do-Kung-Fu.jpg'
+}, {
+  'titulo': 'o-jogo-da-morte-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-3mJuBzz4SWY/V31D21K64eI/AAAAAAAABlA/0YIdSsXUvXYbVKcFY7YTSK58YcX1Bo3pgCLcB/s1600/O-Jogo-da-Morte.jpg'
+}, {
+  'titulo': 'a-furia-do-dragao-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-FsLVYbNRleo/V309dUQsLBI/AAAAAAAABkw/Uug0sE4j7VAx29ymrpVNXSDZSepYcILSACLcB/s1600/A-F%25C3%25BAria-do-Drag%25C3%25A3o.jpg'
+}, {
+  'titulo': 'unidos-para-vencer-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-HvkDrr4w9xw/V306RGjci0I/AAAAAAAABkk/mkj8pbhsB8shvKrCMNSPW16eXpOnUt2VwCLcB/s1600/Unidos-Para-Vencer.jpg'
+}, {
+  'titulo': 'a-armadura-dos-deuses-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-n8BmUrbkGBg/V305TJY3vlI/AAAAAAAABkc/DYV00FN2dq4aYJ783ecsWkW3fyzSblCTgCLcB/s1600/A-Armadura-dos-Deuses.jpg'
+}, {
+  'titulo': 'desafio-final-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-ijVdW0mtbzg/V304HplOkGI/AAAAAAAABkU/dbK8a0xm-pkbmSvF9-IGff_TroHm9XfCQCLcB/s1600/Desafio-Final.jpg'
+}, {
+  'titulo': 'memphis-belle-a-fortaleza-voadora-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-WPJs91Y8zvA/V3vgHHIE7_I/AAAAAAAABj4/plDlzS6CNyQc9edkBPK0cgRClI7LvN5ywCLcB/s1600/Memphis-Belle.jpg'
+}, {
+  'titulo': 'espolios-de-guerra-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-DXKrD2E4ueM/V3ve4zj75KI/AAAAAAAABjk/MIaQWA8MWQsHBTfmVnrt76N4tLHMaJd6wCLcB/s1600/Esp%25C3%25B3lios-de-Guerra.jpg'
+}, {
+  'titulo': 'braddock-o-super-comando-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-FuRZFMNsANw/V3vdC8OJE4I/AAAAAAAABjM/WjgLxKLLAoIZJm78JP_uduOptzqOqHF1gCLcB/s1600/Braddock.jpg'
+}, {
+  'titulo': 'a-horda-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-EX6zgoyELzI/V3vcY4SU2GI/AAAAAAAABjE/ZzpYN_ZPhEUDiwjsvI9U9tSd20k0zS2IwCLcB/s1600/A-Horda.jpg'
+}, {
+  'titulo': 'braddock-2-o-inicio-da-missao-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-9rtWfJaRYzM/V3qdyyh9RNI/AAAAAAAABiM/tXwqXXHw0ZQNGAzkoNlHEC_RouKqv6WwwCLcB/s1600/Braddock-2.jpg'
+}, {
+  'titulo': 'braddock-3-o-resgate-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/--VHV7FlNzQM/V3qdIDuLluI/AAAAAAAABiE/ngqaCFG8MfU-z9Pj3b2FYiO6lb4etRy3QCLcB/s1600/Braddock-3.jpg'
+}, {
+  'titulo': 'american-soldiers-a-vida-em-um-dia-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-trYZ-El5ntM/V3qcqvNXWHI/AAAAAAAABh8/TQrleE9YKS42Jm9W_GMhVyfl9LC-tVPDwCLcB/s1600/American-Soldiers.jpg'
+}, {
+  'titulo': 'falcoes-da-noite-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-wZb2rSrqN3c/V3hgB9OuTgI/AAAAAAAABhA/Doladm0K7b8au1kHtUupy99jImrdBS6_gCLcB/s1600/Falc%25C3%25B5es-da-Noite.jpg'
+}, {
+  'titulo': 'paradox-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-OZ_R0Dgn7I8/V3hQYj3DHNI/AAAAAAAABgA/kZEyTU6Wnps7xP3fT-EMLwzY5w59NBJwACLcB/s1600/Paradox.jpg'
+}, {
+  'titulo': 'perseguicao-implacavel-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-IukYZubjGQ8/V3cLJI1qg4I/AAAAAAAABfo/Eqec5EAuXJsEUIiJnZW4Tgf-2-s3N9wEQCLcB/s1600/Persegui%25C3%25A7%25C3%25A3o-Implac%25C3%25A1vel.jpg'
+}, {
+  'titulo': 'carga-preciosa-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-NZmzRUoWz7I/V3cFGdFtZ2I/AAAAAAAABek/Q-vTCX5OmoQim8vEJUF8lMYL3Pdd7TOLQCLcB/s1600/Carga-Preciosa-1.jpg'
+}, {
+  'titulo': 'a-onda-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-HrELjKGZcAQ/V3cD9H-w32I/AAAAAAAABec/DDMkeSCQmxIySdsJOq9qDm3WWbI_8-rwACLcB/s1600/A-Onda.jpg'
+}, {
+  'titulo': 'rodas-da-morte-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-YB8pK63MSOQ/V3WASxRC14I/AAAAAAAABdA/0VsY_QK8cQ03sT0_0o33BD-zLMsmaCb2QCLcB/s1600/Rodas-da-Morte.jpg'
+}, {
+  'titulo': 'assaltos-em-cadeia-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-8brXoj3Nayc/V3QImoWSC0I/AAAAAAAABbk/V4waiH6bBGEnyVi3mvy9Ewhp1_3xw2EzACLcB/s1600/Assaltos-em-Cadeia.jpg'
+}, {
+  'titulo': 'assistir-independence-day-o-ressurgimento-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-MJd0DxMc1sw/V3P6SAqu6GI/AAAAAAAABao/WMi1actC_UUj5BocdCe-uKJnI4CSe_Y1wCLcB/s1600/Independence-Day.jpg'
+}, {
+  'titulo': 'freiras-nuas-com-grandes-armas-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-IL82Gd-vblc/V3E5b8ZtMiI/AAAAAAAABXQ/lgwCdwU3xq0bNKckrJWEgkbk2QmjJo2ZACLcB/s1600/Freiras-Nuas-com-Grandes-Armas.jpg'
+}, {
+  'titulo': 'sem-saida-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-dGTVblUjYUc/V260oycYbQI/AAAAAAAABUY/R4XV4MlsYZ88x083FmpUKOUoIGJfpZ72QCLcB/s1600/Sem-Sa%25C3%25ADda.jpg'
+}, {
+  'titulo': 'carga-preciosa-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-ox1MXo8zrXA/V21dXvIzDCI/AAAAAAAABRI/Q8nePc_gjGg7VY4oRko2I62cWN4anqUkQCLcB/s1600/Carga-Preciosa.jpg'
+}, {
+  'titulo': 'batalha-de-honra-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-1Ci8X1rjmpI/V2hcE8z8OcI/AAAAAAAAJSo/MbRD5CmvXHk7votfv2ibgLjd4zHsVur0wCLcB/s1600/001.jpg&w=166&h=250'
+}, {
+  'titulo': 'showdown-in-manila-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-2-XPUBrInkM/Vl8A-R9e83I/AAAAAAAAY9U/G4MwzXzt7Lg/s1600/FB_IMG_1449063437802.jpg'
+}, {
+  'titulo': 'agente-86-bruce-e-lloyd-fora-de-controle-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-9Jp0ncX_inA/V2nDxfnYlsI/AAAAAAAABO8/MHusc_TGUL4GPFkQiBN-Lo25oaD2erHogCLcB/s1600/Agente-86.jpg'
+}, {
+  'titulo': 'the-ones-below-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-bFS9pnz1150/V2XvvJXM8mI/AAAAAAAABNE/GrTkf1qy6Fw3AqMtmfXHSyUq8X7LM1QdQCLcB/s1600/postere.php.jpg'
+}, {
+  'titulo': 'resgate-em-alta-velocidade-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-xq0mdlOkzCw/V2Gep9Yfa_I/AAAAAAAAJLY/1xSODNKYkx4whM0zYzYs5OcKOMJRo24NgCLcB/s1600/001.jpg&w=166&h=250'
+}, {
+  'titulo': 'truque-de-mestre-2-dublado-hd',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-W6WIwUwZEog/V2MgzkNbfGI/AAAAAAAABKU/xnB9tdQhXe4SP7j9I-G7MOqq-2700lahACLcB/s1600/Truque-de-Mestre-2.jpg'
+}, {
+  'titulo': 'lendas-do-crime-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-JQGDYYLVPzE/V2Mfzmhd5NI/AAAAAAAABKI/eqhqBnjdcqI9ONqsLQ_Yhungj0zZvwKcQCLcB/s1600/Lendas-do-Crime.jpg'
+}, {
+  'titulo': 'no-limite-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-kkpWEvho8K4/V2Hf9IUlt1I/AAAAAAAABJA/ecvIgJobzSALoTgvdsCVDVcKhJjozD00gCLcB/s1600/No-Limite.jpg'
+}, {
+  'titulo': 'andron-o-labirinto-negro-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-Jmwjqg0bM5I/V2HbDyQGI8I/AAAAAAAABIQ/sQkupgGbsk4EArkU6LVacJuDnW6Dbh9EgCLcB/s1600/Andron.jpg'
+}, {
+  'titulo': 'o-homem-da-mascara-de-ferro-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-UBXqFO2mSZg/Vzt_zP_qW1I/AAAAAAAAIm4/_q4OLm_F85QvlkEB2bsNDewLo5WhyOA5ACLcB/s1600/001.jpg&w=166&h=250'
+}, {
+  'titulo': 'o-fugitivo-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-oZWTshOp_tA/VzubZ5XntTI/AAAAAAAAInI/OjOUpcZS6ek7DnolSR9SHt9VSoE6G000gCLcB/s1600/001.jpg&w=166&h=250'
+}, {
+  'titulo': 'a-hitman-in-london-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-ePh5tue_EkI/V17u-ycZjCI/AAAAAAAABGY/dGEvqUR61T0Ai4bx8F9nDH-stvaIgg0nACLcB/s1600/A-Hitman-in-London.jpg'
+}, {
+  'titulo': 'deuses-e-generais-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-GGcLHc8SuWA/V17p_G787fI/AAAAAAAABFo/NzHi50gI7YkuxKDFE1c5VnV7uUX0W-kYgCLcB/s1600/Deuses-e-Generais.jpg'
+}, {
+  'titulo': 'eles-vivem-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-i0ucuni59dU/V13NPEOypBI/AAAAAAAAJIk/ECXk60vnYx4fBVKpr4Xwp9bzAWsgTd25QCLcB/s1600/001.jpg&w=166&h=250'
+}, {
+  'titulo': 'trafico-humano-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-4_PxL3t4xsw/V1r2M7SdrDI/AAAAAAAAJFU/69Y9zgpYdkkzPLXyXQSco3lwlnV9tJv8ACLcB/s1600/001.jpg&w=166&h=250'
+}, {
+  'titulo': 'warcraft-o-primeiro-encontro-de-dois-mundos-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-6iwtYbDKSsc/V1Rh7ki3r_I/AAAAAAAAI-c/BTWvcpQ6p-MWwpnKXR8lwHBguc3ifv4dACLcB/s1600/001.jpg&w=166&h=250'
+}, {
+  'titulo': 'as-tartarugas-ninja-fora-das-sombras-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-L85MKwBOi6A/V1xezA4-CtI/AAAAAAAAJG8/vfdsaRjuiAQh_q24WMdm2MYr6VC9QNYTgCLcB/s1600/001.jpg&w=166&h=250'
+}, {
+  'titulo': 'inseguranca-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-oQEeVh1tjGA/V1rVHmd5cNI/AAAAAAAAJEs/t5H4HcMW3pUks4tYzTiDCyuiTcwvugjewCLcB/s1600/001.jpg&w=166&h=250'
+}, {
+  'titulo': 'zoombies-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-P3wX4tYzGlk/V1hsRDrAREI/AAAAAAAAJCk/qJ9prkWvsSsfCrtFtbgJoXQRklR_IRFMQCLcB/s1600/001.jpg&w=166&h=250'
+}, {
+  'titulo': 'quebrando-regras-3-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-9bicd3CEw_w/Vwf0MMxrPwI/AAAAAAAAGz0/789uCDKVsCoPzNfVqxO4d0V9UX37ude7g/s400/12924342_1700663366879600_1843200968391341046_n.jpg'
+}, {
+  'titulo': 'cacada-ao-presidente-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-aUw-Hn1PCyQ/VKL7vAqe8LI/AAAAAAAAB90/4Vy2JXkVH-s/s1600/big-game-poster2.jpg'
+}, {
+  'titulo': 'no-coracao-do-mar-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-jnUQ81mAhL4/V1YJsZ6xUxI/AAAAAAAABA4/xQiIWR1ZKhgjOIb_B4RITb4a36zoaqguwCLcB/s1600/No-Cora%25C3%25A7%25C3%25A3o-do-Mar.jpg'
+}, {
+  'titulo': 'sicario-terra-de-ninguem-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-OhRRfjnjcGs/V1YEKGWj7KI/AAAAAAAABAU/NAF5BxHhWj8BLucZQnmOeVAA2vcKzFabgCLcB/s1600/Sicario.jpg'
+}, {
+  'titulo': 'invasao-a-londres-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-8bdQzbNvuUU/V1HUDuivXOI/AAAAAAAAA_E/Xf3QMS-KdmI_PEpobAji5vZjdE0IBZy8wCLcB/s1600/London-Has-Fallen.jpg'
+}, {
+  'titulo': 'sniper-operacoes-especiais-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-W7C_mXYAMQQ/VyNi50R6dlI/AAAAAAAAIIU/LPVKldESjZkqSIi2FkGroFj4H-NpeJ4XgCLcB/s1600/sniper%2Bspecial%2Bops.jpg'
+}, {
+  'titulo': 'dracula-a-historia-nunca-contada-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-3P824Gv0ea0/VEn3uc3-3XI/AAAAAAAAIiA/-O39CwtJJlI/s400/DRACULA.jpg&w=166&h=250'
+}, {
+  'titulo': 'soldado-anonimo-3-o-cerco-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-Oo9H-eKRVIU/V0-bTOpvk9I/AAAAAAAAI7c/FOk8b7NeMDE8wMZEjrZWmcsnfzwVFXE8ACLcB/s1600/001.jpg&w=166&h=250'
+}, {
+  'titulo': 'dois-policiais-em-apuros-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-GtxHrjNO3OI/V0-ThUPOWII/AAAAAAAAI60/o203hFpiUoskpcslIjWQbZGzPLPbEk2lwCLcB/s1600/001.jpg&w=166&h=250'
+}, {
+  'titulo': 'kill-command-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-pdSIDtU647M/V0N8mFEc7yI/AAAAAAAAA2c/nJYDNOKhVewa18CSvLyvQZXI7PToeXkkwCLcB/s640/jeBZ.jpg'
+}, {
+  'titulo': 'caes-de-guerra-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-2moCCkq8EPc/V0yLX-LS1EI/AAAAAAAAI4o/ej5lh26OikgI6mUi8UTyzo7MOHYrWJMlQCLcB/s1600/001.jpg&w=166&h=250'
+}, {
+  'titulo': 'hardcore-missao-extrema-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-GqNZspKkXm4/V03sEzGqRHI/AAAAAAAAA9U/YQxVnxykRZMs55pLf4b1NUiDnpSuAmrYwCLcB/s1600/Hardcore.jpg'
+}, {
+  'titulo': 'quatro-irmaos-dublado-hd',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-8x5C6WDoX7g/Vzt5XtjlWOI/AAAAAAAAImo/wIS9D_ow5g00FjQP8Hd36bfP6aIEHthiACLcB/s1600/001.jpg&w=166&h=250'
+}, {
+  'titulo': 'mente-criminosa-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/--WO8gZHl7fo/V0xshiuzK0I/AAAAAAAAA8E/Y9JMR-Re8MoIfWh4u3fW97XkbeHolZhFQCLcB/s1600/Mente-Criminosa.jpg'
+}, {
+  'titulo': 'd-e-b-s-as-super-espias-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-ynzi7VOjJPk/V0C0b778IGI/AAAAAAAAItc/PdjLEa1l-80Zp1qJVVVgwHm1EKY051FhQCLcB/s1600/001.jpg&w=166&h=250'
+}, {
+  'titulo': 'acquaria-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-goNvu4zA60k/V0IQxPlpCzI/AAAAAAAAIv8/CvuyIlulX6YeUy2thCpxzZCS5VSBQBNggCLcB/s1600/001.jpg&w=166&h=250'
+}, {
+  'titulo': 'triple-9-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-rgTcXIZTEsA/VwhGV5MYL7I/AAAAAAAABw8/dA-zzrXEU1YatryPPLgADDumkdoFaId8A/s1600/Triple%2B9%2B%25282016%2529%2BR0%2B-%2BCover%2B%2526%2BLabel%2BDVD%2BMovie%2B%2528Copy%2529.jpg'
+}, {
+  'titulo': 'orgulho-e-preconceito-e-zumbis-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-BSzkYoiJEsk/V0pUgItSY5I/AAAAAAAAA7c/6c_J6EFLX6ssIhkUwyqkJCtXsxggRRm4wCLcB/s1600/Orgulho-e-Preconceito-e-Zumbis.jpg'
+}, {
+  'titulo': 'dead-snow-red-vs-dead-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-mxL7clbA_sE/Vzy4sbUH07I/AAAAAAAAIoY/CVdzNudGc2MV2YR3OKpr2ZoPrUa_avVQwCLcB/s1600/001.jpg&w=166&h=250'
+}, {
+  'titulo': 'o-protetor-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-yRSpP23LU7k/V0STQLRY-aI/AAAAAAAAIyA/j8TbGNDn-Y8AUZGKZnVhlgz95UXC9z4_ACLcB/s1600/001.jpg&w=166&h=250'
+}, {
+  'titulo': 'jogo-de-assassinos-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-OQ3bjgFwRx0/V0iwLfoZIoI/AAAAAAAAI00/-uGKb4ByMDol5dEktCA5iIZk0VqHGIeNACLcB/s1600/001.jpg&w=166&h=250'
+}, {
+  'titulo': '13-horas-os-soldados-secretos-de-benghazi-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-NjNeT6g5Jbk/V0irnfDWYyI/AAAAAAAAI0Q/Sr77Gk-1l70TrfKPBzfmmjVTYV0DN2PYACLcB/s1600/001.jpg&w=166&h=250'
+}, {
+  'titulo': 'hard-luck-jogo-sujo-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-qYg-jl-2IYc/V0b0Y2cKRNI/AAAAAAAAA6o/DGqmDIsF_K4FEjH7LtV8ZKKVF5B1iXjhQCLcB/s1600/jogo-sujo-www_tiodosfilmes_com-.jpg'
+}, {
+  'titulo': 'harley-davidson-e-marlboro-man-cacada-sem-treguas-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-1IV8yAb-H10/V0brPSDx1iI/AAAAAAAAA5c/70a-LrNio2oVVdeG4GqcbbHcnwXWNViyACLcB/s1600/00.jpg'
+}, {
+  'titulo': 'hooper-o-homem-das-mil-facanhas-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-ACh_SLAg44U/V0SpauIwX3I/AAAAAAAAA3g/5-3jSjv1HDcqWen0oilbnE1zh0zgPmBhQCLcB/s1600/TheFallGuy_S1V1_zps40b246fc.jpg'
+}, {
+  'titulo': 'assalto-sobre-trilhos-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-pDLCkZK_OXw/V0R41d4P8BI/AAAAAAAAA2M/W9BZGUF_wHY9wf4SKLneYwcBd4rnvStxACLcB/s1600/Assalto-Sobre-Trilhos.jpg'
+}, {
+  'titulo': 'x-men-apocalipse-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-p33QeJLhKng/V0CtnLiVHbI/AAAAAAAAAyA/3htcY-f2jogJvLdhLB__29rrg_X9WgfcACLcB/s1600/X-Men-Apocalipse.jpg'
+}, {
+  'titulo': 'tiros-em-ruanda-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-ear4f_5BZNU/V0NBRMKQu7I/AAAAAAAAA1w/V0IksWzqyTcVlZ4KB8qgivtOajhsoKWEwCLcB/s1600/tiros-em-ruanda-poster02.jpg'
+}, {
+  'titulo': 'a-vizinhanca-assombrada-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-_R6oSpbI2DM/V0M_iTat-QI/AAAAAAAAA1Y/_muN5HsjshoCnfTIDZvBJuCx-5kM1C1MACLcB/s1600/A-Vizinhan%25C3%25A7a-Assombrada.jpg'
+}, {
+  'titulo': 'a-espada-do-dragao-branco-dublado-2',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-bAvVRX5dAD8/V0M9mt-drII/AAAAAAAAA1E/qkUlssl91Ko3s4yZFaE04MjIFILBMDLNQCLcB/s1600/A-Espada-do-Drag%25C3%25A3o-Branco.jpg'
+}, {
+  'titulo': 'o-cacador-e-a-rainha-do-gelo-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-u13FUvSk7CA/V0HfUC0yNJI/AAAAAAAAAz0/D6-gZ0vjIycCuZqffW2bnrrbaaqHlImHgCLcB/s1600/O-Ca%25C3%25A7ador-e-a-Rainha-do-Gelo.jpg'
+}, {
+  'titulo': 'sem-limite-para-vingar-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-0uQwkqOT8Cc/V0CxTYVF47I/AAAAAAAAAyY/9jp-pcprylcPCKp3xOuFOS6-ofhSAzvFgCLcB/s1600/SEM.capatelona.jpg'
+}, {
+  'titulo': 'guarda-costas-do-inimigo-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-A_iBkl2enpI/Vz9FRyRGwCI/AAAAAAAAAw8/QJvOeZ5M610YhSUhgue9QIo5k1Z-JeSTwCLcB/s1600/261291778.jpg'
+}, {
+  'titulo': 'dc-showcase-espectro-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-pefcQxSRndk/Vz9DvMU4dAI/AAAAAAAAAww/0T2Kjv3N4ko-IwguN7cuJalUST7soEe9QCLcB/s1600/Spectre.jpg'
+}, {
+  'titulo': 'dc-showcase-mulher-gato-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-RNlH41W0LQA/Vz8_-S9SLsI/AAAAAAAAAwg/pSHxW7sXQxAxcC3rQTLQVwcVYx0FcjkjQCLcB/s1600/DCShowcaseCatwoman2011.jpg'
+}, {
+  'titulo': 'dc-showcase-jonah-hex-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-eOGe8W17NSc/Vz8_QUeTN0I/AAAAAAAAAwc/HwLHYzzfNf8oxqw-vhWEy1J3GYF5oC-bwCLcB/s1600/DC-SHOWCASE-JONAH-HEX-capa.jpg'
+}, {
+  'titulo': 'assistir-a-vida-por-um-fio-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-X7zzTpNaT1c/Vz89A7gpk1I/AAAAAAAAAwI/20q7tnJoFqwd-Iv9R3FjF5xjgeBsuPXmwCLcB/s1600/A-Vida-Por-Um-Fio.jpg'
+}, {
+  'titulo': 'os-esquecidos-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-u1bodKB9sb4/VU6dchAhlBI/AAAAAAAADIY/QDZph_3q_HY/s1600/esquecidos-2004-poster01.jpg'
+}, {
+  'titulo': 'reza-a-lenda-nacional',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-WfwbKlFdzTw/Vf2e-ZbazRI/AAAAAAAAJfk/_W90AYl7pSU/s1600/12011291_512458325585815_1106854404383281001_n.jpg'
+}, {
+  'titulo': 'invasao-a-londres-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-oKSHojCskLk/Vzy5ADTtpJI/AAAAAAAAAuI/eNtqxU3HtdELpPhULrXk6ZhyJX91Y-gCgCLcB/s1600/Invas%25C3%25A3o-a-Londres.jpeg'
+}, {
+  'titulo': 'navy-seals-vs-zombies-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-J9yv3OcdawY/Vzy11IXTe-I/AAAAAAAAAts/wlc3VNwaljsOQQjri_wiuSrHpKWT4onAwCLcB/s1600/Navy-SEALs.jpg'
+}, {
+  'titulo': 'marcas-da-guerra-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-V_YQkXvFFT4/VzyyMkD9KVI/AAAAAAAAAtE/wSMMvQNmJdEKftkmZTOBlSZTgILbcrsvwCLcB/s1600/Marcas-da-Guerra.jpg'
+}, {
+  'titulo': 'em-nome-da-lei-nacional',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-SlGAz5YAe7E/Vzs-YVSGoBI/AAAAAAAAAsU/YjnN-8TFmyUjLtd8nZtgHApIMBFhliMqQCLcB/s1600/Em-Nome-da-Lei.jpg'
+}, {
+  'titulo': 'eu-sou-a-furia-dubladoh-d',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-jA6yc8Pzz7A/Vzs9gkrhZ2I/AAAAAAAAAsI/20uAmpnrHN8xULRhZKXmXlZkccfmm4qUgCLcB/s1600/Eu-Sou-a-F%25C3%25BAria.jpg'
+}, {
+  'titulo': 'zoombies-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-0FFfrW3CJAY/Vzs1Yyb-iKI/AAAAAAAAArA/mI0m6-jNvksz5cGr2NeoL7vbxKISZak8ACLcB/s1600/xcc.jpg'
+}, {
+  'titulo': 'do-fundo-do-mar-dublado-hd',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-HmL9IeENMw4/VznwJdLkxyI/AAAAAAAAAqo/CumXh5hfH4IPlAKZzuyYQ05vcfZHiD1AQCLcB/s1600/do%2Bfundo%2Bdo%2Bmar.jpg'
+}, {
+  'titulo': 'chuva-negra-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-azwLY8k26E8/Vzns8UdjJBI/AAAAAAAAAqI/ozRDBoMCnYYKrb1UoFegEZP9fciFN_6JQCLcB/s1600/capa.jpg'
+}, {
+  'titulo': 'capitao-america-guerra-civil-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-rd7jjwIumU4/VznrIMdauSI/AAAAAAAAAp8/hqfTXzB0VMcQlK9JWkUFWYO2JakVma0wACLcB/s1600/capitao.jpg'
+}, {
+  'titulo': 'desafio-de-mestres-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-vA7Tg_SczFo/TekwBOGQkAI/AAAAAAAAKXU/dRdOPO5EFpU/s1600/Desafio%2Bde%2BMestres.jpg'
+}, {
+  'titulo': 'magnificos-guarda-costas-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://upload.wikimedia.org/wikipedia/en/8/8c/Magnificent_Bodyguards.jpg'
+}, {
+  'titulo': 'armas-lendarias-da-china-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-f8udF9fw1ns/Vzdlo6_eNAI/AAAAAAAAAn4/yxWVkvB8uIA-aZzpPfcgdx7LzTYe11HgACLcB/s1600/uH6ncQ3.jpg'
+}, {
+  'titulo': 'horas-decisivas-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-bM_eB-av_FU/VsTIOYD-HSI/AAAAAAAAHvs/kTF6DcV4lBg/s400/HORAS%2BDECISIVAS.jpg'
+}, {
+  'titulo': 'minha-vontade-e-a-lei-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-bnT55Gzueu8/ViIkneUrgkI/AAAAAAAATZQ/BhWyCBYy-F4/s1600/mivonerlei.jpg'
+}, {
+  'titulo': 'rebeldes-e-herois-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-_UbEM0bMaIU/UoesbQ4VZGI/AAAAAAAAm_g/3Wfsmam4yWo/s1600/1.jpg'
+}, {
+  'titulo': 'fuga-para-a-vitoria-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-xyT0d5Kwvo0/T55Vm7btVTI/AAAAAAAAASQ/g7g-wUDVHz4/s1600/fuga-para-a-vitoria.jpg'
+}, {
+  'titulo': 'o-ultimo-passageiro-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-BTm-LOljuvk/U8vrScbiJEI/AAAAAAABnS0/6Kzr7gqXhGE/s1600/MANEL-LOUREIRO-D_O-ultimo-pass.jpg'
+}, {
+  'titulo': 'van-helsing-o-cacador-de-monstros-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-PpjJ6qm5eJA/UFhom-xTh7I/AAAAAAAACq8/moDi2WN-Y1s/s1600/Capa+Van+Helsing+-+O+Ca%C3%A7ador+de+Monstros.jpg'
+}, {
+  'titulo': 'van-helsing-missao-londres-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-PM5tz23fSXY/Tnj8BB2PfFI/AAAAAAAAAvI/nI_m8iQUQjE/s1600/VH-ML.jpg'
+}, {
+  'titulo': 'ressurreicao-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-kA9QQuNo0Vk/Vy9QohuMOFI/AAAAAAAAAmM/fu382YxWD2IvnnRji9gRVOKAdbu7JKxXACLcB/s1600/ressurreicao.jpg'
+}, {
+  'titulo': 'eu-sou-a-furia-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-H0CkfmbRzBY/Vyizokx6NEI/AAAAAAAAGig/M_oFrPo-tRUVKqjuWWloeKNUyNrFFaXHwCLcB/s320/capa.jpg'
+}, {
+  'titulo': 'escorpiao-vermelho-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-2DYgC53pKd8/U2kyF9UHkmI/AAAAAAAAG-8/oCRLIdezmLE/s1600/escorpverm.jpg'
+}, {
+  'titulo': 'vampiros-de-john-carpenter-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/_JsJq_FRLXn8/S5bCpR-PmUI/AAAAAAAACGo/kQSZruyUP7c/s400/1245109123_vampirosposter01.jpg'
+}, {
+  'titulo': 'helter-skelter-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-SGpozel3wFg/VXHkSLmOemI/AAAAAAAAFpw/kKwFGG-hLuo/s1600/POSTER%2BHELTER.jpg'
+}, {
+  'titulo': 'mar-de-fogo-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-qQu-hlU7dwU/Vml-_bjnzbI/AAAAAAAAAG0/yQYX_4q_uJ8/s1600/mar-de-fogo.jpg'
+}, {
+  'titulo': 'gangues-urbanas-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-U723kyzQRms/TmKIGFImzwI/AAAAAAAAAxc/HsIl4PBIdrk/s1600/Gangues+Urbanas.jpg'
+}, {
+  'titulo': 'josey-wales-o-fora-da-lei-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-Zi9AeTxgfgc/Uq2Z6KViPUI/AAAAAAAADC0/hOOrVdUi_2M/s1600/Josey+Wales+Poster+xlg.jpg'
+}, {
+  'titulo': 'na-mira-de-assassinas-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-2gKSkt1oC1M/T4iUjclHYAI/AAAAAAAAPGw/_E-ECnVLy_E/s1600/Certain+Prey+%282011%29.jpg'
+}, {
+  'titulo': 'o-grande-mestre-3-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-M_svNspc9o0/VkITXbgxi2I/AAAAAAAATeA/gvZQRRiQHFk/s1600/ipman3-2_j-mixture.blogspot.com.br.jpg'
+}, {
+  'titulo': 'duelo-de-imperios-a-guerra-pela-asia-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-SsyKjaON8y0/UAba4l6WMhI/AAAAAAAAAOc/PP8cY0wXLy8/s1600/Duelo%2Bde%2BImp%25C3%25A9rios%2B-%2BA%2BGuerra%2BPela%2B%25C3%2581sia.jpg'
+}, {
+  'titulo': 'samurai-cop-2-deadly-vengeance-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-MoN-ahzM4M8/Vw_T_zBLn3I/AAAAAAAAAkA/dwFN5GdEm_kzpv5LsZvkk5Ia2uL9ik55wCLcB/s1600/d3682c9.jpg'
+}, {
+  'titulo': 'asteroid-final-impact-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-F9AZtEtLtN8/VrDhJMshYoI/AAAAAAAAA2g/2Mw1AkFDKsk/s640/ast-1.jpg'
+}, {
+  'titulo': 'bravetown-alma-perdida-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-Kmdd3A1PGU4/Vw00Sw1HAfI/AAAAAAAADAg/kLArxvaYznklfTEiNEjEdtgdywlfG4_gwCLcB/s320/eKTYqMWfCfyaAAOVMSJIAaUcFyj.jpg'
+}, {
+  'titulo': 'mar-em-furia-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-H0pMQDw22yM/UYwvJ35Z1LI/AAAAAAAAB1U/2BtIvRj08Q8/s640/55A.jpg'
+}, {
+  'titulo': 'conexao-perigosa-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-OfHs5-sxaGY/Vwbj0KZE4rI/AAAAAAAAIgE/tKgS9x5Kbxo8WlJ9lpf9cq7lJgDFKSVfg/s320/conex%25C3%25A3o%2Bperisosa.jpg'
+}, {
+  'titulo': 'liga-da-justica-vs-jovens-titas-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-qBPrdQR31ZE/Vvx6_XnuX3I/AAAAAAAAIRg/ZJ6UqFyd-0k4oGvpKZ0jeBrjKaKYV5m7A/s320/justice%2Bleague.jpg'
+}, {
+  'titulo': 'o-vingador-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-69COI09rIaI/VvnjXxyWdLI/AAAAAAAAIOE/wVzFuQPYfDo125xlCJnbx8e_kZL8EcngQ/s320/o%2Bvingador.jpg'
+}, {
+  'titulo': 'ruas-em-guerra-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-EFkutP_Ofrs/VvnTOFclKmI/AAAAAAAAIMw/SRKp63Il81wAkS23VFGB8HTLlg9UyeWYQ/s320/ruas%2Bem%2Bguerra.jpg'
+}, {
+  'titulo': 'jogos-vorazes-a-esperanca-o-final-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-Slb-qOjp_5U/VlY_S6ne1vI/AAAAAAAAFQw/o_-3Gg04bnM/s320/jogos%2Bvorazes.jpg'
+}, {
+  'titulo': 'operacao-resgate-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-wR-fOAsVC9o/VvBTzbIHzaI/AAAAAAAAH_A/-Nh0XUp8CoYDp91LKB8TGjEayx6WwN4Cw/s320/opera%25C3%25A7%25C3%25A3o%2Bresgate.jpg'
+}, {
+  'titulo': 'perseguindo-abbott-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-uzEAPUlXPmI/VvcxmKt-uUI/AAAAAAAAILo/eVkph2CXe7sjsiEF5siOhjawaduFlwgsA/s320/perseguindo.jpg'
+}, {
+  'titulo': 'assistir-star-wars-o-despertar-da-forca-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-g88jPJklB5I/VnWQQEjliYI/AAAAAAAAFpw/xS5MI6aHydM/s320/o%2Bdespertar%2Bda%2Bfor%25C3%25A7a.jpg'
+}, {
+  'titulo': 'efeito-colateral-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-Ac14KvSw3Mk/VvRI6MyFLEI/AAAAAAAAIFk/HkFF-LJx6qcuq7HbE5jMmWi4t3yWpSfnQ/s320/efeito%2Bcolateral.jpg'
+}, {
+  'titulo': 'roboshark-dublado-hd',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-8Uz0-MOwJB8/VvQ5f99stnI/AAAAAAAAIE4/ngXejzzmZjIfRc3rLiRg4X8bJoo_id_Gw/s320/roboshark.jpg'
+}, {
+  'titulo': 'os-tres-mosqueteiros-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-6dpAO4TVlLI/TxGoGWvXiLI/AAAAAAAAA-s/XsZa--sQtSA/s320/Os+Tr%25C3%25AAs+Mosqueteiros.jpg'
+}, {
+  'titulo': 'os-ultimos-dias-em-marte-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-l1pw3eypM0w/UwZC2KzBZ-I/AAAAAAAAj5Y/s9p_bKzGs04/s1600/Os+%C3%9Altimos+Dias+em+Marte.jpg'
+}, {
+  'titulo': 'prison-break-o-resgate-final-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-7dnqyv0iues/VvHsJjGAgRI/AAAAAAAAIEE/ehOs3HzU3o4GA5qIKXiKtiJPRY-I9TAlg/s320/prison%2Bbreak.jpg'
+}, {
+  'titulo': 'submundo-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-a0TzggR_UUs/VvHx9SwekpI/AAAAAAAAIEU/oasom8rRPAEq4CO5eZmPuKOolDpVEQOZw/s320/submundo%2B1.jpg'
+}, {
+  'titulo': 'ataque-dos-titas-2-o-fim-do-mundo-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-lH9em59inHg/VvG_DaBJAfI/AAAAAAAAICs/PrtAy4hEn_gHiGYzr5HhTlG3Y28T2Z--g/s320/batalha%2Bde%2Btitans%2B2.jpg'
+}, {
+  'titulo': 'rebeliao-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-MhZH-DA9c2E/VvGw54sM5WI/AAAAAAAAICE/mB8Jjs86b7cfx5rKunSGllzRHd1aBMHEg/s320/Rebeli%25C3%25A3o.jpg'
+}, {
+  'titulo': 'o-sistema-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-4PWuF2Wi95k/UmcHu_oYL0I/AAAAAAAABaM/ocTjhfxikYg/s1600/fotocapa.jpg'
+}, {
+  'titulo': 'a-lenda-de-kamui-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-YIH65xrMZBk/TlqB8OpwPqI/AAAAAAAAEls/cj2waxOXjYg/s320/ALENDADEKAMUI.jpg'
+}, {
+  'titulo': 'animatrix-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-SN3izyTUtNI/VuRjI-Ve3tI/AAAAAAAAH1U/-FCxjHC3eg8U9tM8Dn0ftlUe2NusW3cUA/s320/animatrix.jpg'
+}, {
+  'titulo': 'aos-olhos-do-inimigo-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-5yp4unHieP4/VuOP_gt-ImI/AAAAAAAAHy8/pSGWzQZN8kMoCCJmklrtsZOt3IQrTCcyA/s320/aos%2Bolhos.jpg'
+}, {
+  'titulo': 'queimando-asfalto-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-l7kkasSOYZg/VuCvm4vQ8CI/AAAAAAAAHxQ/VQeII_Grd5E/s320/queimando%2Basfalto.jpg'
+}, {
+  'titulo': 'ultima-saida-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-bk8-A9LGvkk/Vt88UXQuzkI/AAAAAAAAHJM/7Pq4QaEiK1g/s1600/001.jpg&w=166&h=250'
+}, {
+  'titulo': 'jesse-stone-lost-in-paradise-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-UiQVeIh902k/VtIvMuITjfI/AAAAAAAAG8U/PmBHi-egsyA/s1600/001.jpg&w=166&h=250'
+}, {
+  'titulo': 'dragon-blade-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-cFPPW8X7KG4/Vts2kMjM0aI/AAAAAAAAHFU/gVEbPzK4haY/s1600/001.jpg&w=166&h=250'
+}, {
+  'titulo': 'a-espada-do-dragao-branco-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-OQa7_LusV8s/VtyhIQ5xGlI/AAAAAAAAHGY/zg4DOW9x0gs/s1600/001.jpg&w=166&h=250'
+}, {
+  'titulo': 'mr-nice-guy-bom-de-briga-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-hXBXBewI9Mw/VthzkCfsV1I/AAAAAAAAHCE/IRxZ48XWhig/s1600/001.jpg&w=166&h=250'
+}, {
+  'titulo': 'regenerados-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-p4s_kMIm-HU/VtTzXTh3SrI/AAAAAAAAHdQ/Dgd_nTZd9ec/s320/hope%2Branch.jpg'
+}, {
+  'titulo': 'as-torres-gemeas-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-GD7Df9CXWJ8/UhoaMMLPRtI/AAAAAAAAh7c/tjNjnAGmXC4/s1600/capa.jpg'
+}, {
+  'titulo': 'a-quinta-execucao-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-j8Rspnz51qg/Txcqo07d6iI/AAAAAAAAHrQ/TzRh9bWH6aE/s250/A%2BQuinta%2BExecu%25C3%25A7%25C3%25A3o.jpg'
+}, {
+  'titulo': 'o-tigre-e-o-dragao-a-espada-do-destino-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-bvr6fHxVLHk/VtTcgDHc52I/AAAAAAAAHck/8F242tzM2Q8/s320/tigre%2Be%2Bo%2Bdrag%25C3%25A3o.jpg'
+}, {
+  'titulo': 'fomos-herois-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-VKBg6rFCr0I/UhmRRYA9HvI/AAAAAAAAh6s/rm8ICP8-3r8/s1600/capa.jpg'
+}, {
+  'titulo': 'o-pagamento-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-v3XXsTseIls/Vs56kNYyujI/AAAAAAAAHVw/OyQD-ahfgbg/s320/paycheck.jpg'
+}, {
+  'titulo': 'o-justiceiro-2-zona-de-guerra-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-pjndmfCYqyU/Vs51i3zYk3I/AAAAAAAAHVY/iFOFi3ovQuI/s320/o%2Bjusticeiro.jpg'
+}, {
+  'titulo': 'em-busca-pela-verdade-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-KXmuT_0nKJs/VszfBzGOgTI/AAAAAAAAHTw/wRKy1PQ5jOc/s320/em%2Bbusca%2Bpela.jpg'
+}, {
+  'titulo': 'nazistas-no-centro-da-terra-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-mQzWzWUJ8SU/UW-n55uWnKI/AAAAAAAAPjs/vuIJfVydc4A/s320/Nazistas+No+Centro+da+Terra.jpg'
+}, {
+  'titulo': 'rambo-4-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-d8mvcB5QI5M/UfAbWhOcJ5I/AAAAAAAAfp0/NhxbeyqYZHE/s1600/capa2.png'
+}, {
+  'titulo': 'maquina-mortifera-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-4Oz1pYENRns/VsuDcIOLWuI/AAAAAAAAHRI/wcL4jlOeOmc/s320/maquina%2B1.jpg'
+}, {
+  'titulo': 'segundo-em-comando-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-yHKwWT73_AI/Vow-1Ruw-oI/AAAAAAAAGA8/FHBJBqYnnsM/s320/segundo.jpg'
+}, {
+  'titulo': 'selvagens-caes-de-guerra-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-YwOAPKnfzyY/VoxBvi3hcQI/AAAAAAAAGBI/ilRZrROhUbU/s320/casa.jpg'
+}, {
+  'titulo': 'o-mestre-invencivel-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-iQHs4sdMLM0/VoxIWpCm5CI/AAAAAAAAGBY/puQTnaGBq3E/s320/o%2Bmestre%2Bincrivel.jpg'
+}, {
+  'titulo': 'american-ultra-armados-e-alucinados-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-jSYkrnorhmg/VfsA8R9ne-I/AAAAAAAADxU/YJM68bzJ9_o/s320/american%2Bultra.jpg'
+}, {
+  'titulo': 'circulo-de-fogo-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://lh6.googleusercontent.com/-TUXTo1RTfhI/UegjgERR4kI/AAAAAAAAC2U/ZAWUgd6qGyg/s444/l_1663662_8561742a.jpg'
+}, {
+  'titulo': 'jogos-de-guerra-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-v37mNzXefL0/UStB1GbqwFI/AAAAAAAAO9c/enKGwRvzjd0/s320/Jogos+de+Guerra.jpg'
+}, {
+  'titulo': 'jogos-de-guerra-o-codigo-mortal-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://www.megafilmesonline.net/wp-content/uploads/2013/11/jogos-de-guerra-o-codigo-mortal.jpg'
+}, {
+  'titulo': 'a-queima-roupa-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-gfBcia9exEw/Tjf7_ux56nI/AAAAAAAAHAM/ZZI8kVtCzKY/s280/%25C3%2580%2BQueima%2BRoupa.jpg'
+}, {
+  'titulo': 'lego-liga-da-justica-combate-cosmico-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-3skPLNLTqcc/VsTPoxJBSxI/AAAAAAAAHIw/qcv5hkpY4Qo/s320/lego.jpg'
+}, {
+  'titulo': 'herois-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-xn1B2YclXhM/VsXjYcLdnlI/AAAAAAAAGSg/pZ-QrICH0BQ/s1600/20163777.jpg'
+}, {
+  'titulo': 'guerreiros-do-amanha-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-kDofJrgpGoc/VsIryvcmZwI/AAAAAAAAHHg/gIpXlvpEBBQ/s320/guerreiros.jpg'
+}, {
+  'titulo': 'ticker-ameaca-infernal-dublado-hd',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-sTjarwh9UD0/VsINUk_rfCI/AAAAAAAAHFw/yhIJHN5cDx8/s320/ticker.jpg'
+}, {
+  'titulo': 'assassinato-em-los-angeles-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-Adl3m1iQg6Q/VsIRIaSXeSI/AAAAAAAAHF8/YVJbwrWOKlc/s320/assassinato%2Bem%2Blos.jpg'
+}, {
+  'titulo': 'ned-kelly-hd',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-BE4ViAi2-JY/VsIioxWTEOI/AAAAAAAAHHE/wJDFxGEGWHQ/s320/nedkelly.jpg'
+}, {
+  'titulo': 'santos-e-soldados-a-ultima-missao',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-cMZ8ydZVLnI/VsVphIMur1I/AAAAAAAAEIk/VnRHx-rPNIc/s1600/Santos%2Be%2BSoldados%2B-%2BA%2B%25C3%259Altima%2BMiss%25C3%25A3o.jpg'
+}, {
+  'titulo': 'blade-runner-o-cacador-de-androides',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://upload.wikimedia.org/wikipedia/pt/b/bb/BladeRunner-P%C3%B4ster.jpg'
+}, {
+  'titulo': 'alem-da-mascara',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-3OGp11qj4Jw/VqaCv61w2pI/AAAAAAAAGmU/djoxfcn0Um8/s320/alem%2Bda%2Bmascara.jpg'
+}, {
+  'titulo': 'o-sequestro-do-onibus-657',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://4.bp.blogspot.com/-9317e2BfVWE/VsVnkV-uAsI/AAAAAAAAEIE/K2dee_RABeQ/s1600/O%2BSequestro%2Bdo%2B%25C3%2594nibus%2B657.jpg'
+}, {
+  'titulo': 'pixels',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://alfafilmesonline.com/wp-content/uploads/2015/07/a451.jpg'
+}, {
+  'titulo': 'assistir-terremoto-falha-de-san-andreas',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://static.omelete.uol.com.br/media/extras/capas/Terremoto_A_Falha_de_San_Andreas_-_Poster_Main.jpg'
+}, {
+  'titulo': 'pequenos-guerreiros',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-d1wpSLC0kX0/TuU3mT5L2iI/AAAAAAAABMY/W0UdrPKFI8g/s250/Pequenos%2BGuerreiros.jpg&w=166&h=250'
+}, {
+  'titulo': 'jurassic-world-o-mundo-dos-dinossauros-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://cdn.fstatic.com/media/movies/covers/2015/06/thumbs/jurassic-world-o-mundo-dos-dinossauros_t14190_jpg_290x478_upscale_q90.jpg'
+}, {
+  'titulo': 'um-drink-no-inferno',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://farm4.staticflickr.com/3755/12825702974_955f4ed194_o.jpg'
+}, {
+  'titulo': 'mergulho-radical',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://upload.wikimedia.org/wikipedia/pt/thumb/1/1e/Into_the_Blue.jpg/200px-Into_the_Blue.jpg'
+}, {
+  'titulo': 'jogos-de-assassinos',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-hAnKoqZdIjk/VqhY-iRZsbI/AAAAAAAAWLM/kxdOndftRQY/s400/Jogos-de-Assassinos-SBFD.jpg'
+}, {
+  'titulo': 'impacto-mortal',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-rG4hpvPVdzU/Vdeb1kaYyPI/AAAAAAAARy0/TuIeMFR0SiY/s1600/Impacto-Mortal-dublado-filme-online-HD.jpg'
+}, {
+  'titulo': 'wolverine-imortal-versao-estendida',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://cdn.flimmer.de.s3.amazonaws.com/cf/b808d110d6e7d444bbab1a92d6e5d2/753x1080_wolverine_wege_des_kriegers.jpg'
+}, {
+  'titulo': 'os-condenados-2',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-42WR-6AIl-I/Vkb4of8qf0I/AAAAAAAAAfU/KQmV7l3I8uA/s1600/MV5BMTQ3MDg2Mzc0MF5BMl5BanBnXkFtZTgwODk0ODM5NjE%2540._V1._SY0.jpg'
+}, {
+  'titulo': 'os-condenados-hd',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-gaJ94hjYFcY/UnRTw7UH5qI/AAAAAAAAgyM/fA9WB_Tph28/s1600/Os_Condenados.jpg'
+}, {
+  'titulo': 'stallone-cobra',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://upload.wikimedia.org/wikipedia/en/4/41/Cobra_movie_poster.jpg'
+}, {
+  'titulo': '007-contra-spectre',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/--1HSwsKu4Zg/VjYINWdKWWI/AAAAAAAAcnw/dpNvvJ7oamI/s1600/capa.png'
+}, {
+  'titulo': 'invasao-do-mundo-batalha-de-los-angeles',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-qWli9mZZV6Y/UX9AA5XkEDI/AAAAAAAAZ40/kEdDXf5b90Y/s1600/capa.png'
+}, {
+  'titulo': 'assistir-maze-runner-prova-de-fogo',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-CmLVbj3J52o/Vfw-MhUZohI/AAAAAAAATew/-4C4cGXkNFM/s1600/Maze%2BRunner%2B-%2BProva%2Bde%2BFogo.jpg'
+}, {
+  'titulo': 'jogos-vorazes-em-chamas',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-fdsuEDoX6Vk/Up_TFk_LilI/AAAAAAAASeQ/uRRlUtELDIE/s250/Jogos+Vorazes+2+-+Em+Chamas.jpg'
+}, {
+  'titulo': 'eclipse-mortal',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/_bGJTTseeKNg/SanomlPF70I/AAAAAAAADNw/juZumjcYsC0/s250/Capa-EclipseMortal-2.jpg'
+}, {
+  'titulo': 'na-toca-do-tigre',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://filmovisruba.files.wordpress.com/2015/05/tiger-house-poster1.jpg'
+}, {
+  'titulo': 'star-wars-o-despertar-da-forca',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-I_BDJ52iJnw/VnKTlp9LKJI/AAAAAAAAdPU/hVPHP-t7Dtk/s1600/capa.png'
+}, {
+  'titulo': 'horas-de-desespero',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-ebr3srSZjNY/Vjen-XqP0kI/AAAAAAAAEu0/DfAT1OGHCQE/s320/horas%2Bde%2Bdesesperos.jpg'
+}, {
+  'titulo': 'troia',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-9sBKutr_G8c/U0viSHXceGI/AAAAAAAAs04/slZADBm_AyU/s1600/capa.png'
+}, {
+  'titulo': 'uma-cidade-sem-lei',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://lh4.googleusercontent.com/-VFoRxv_gfcA/Tt8A_tdOvgI/AAAAAAAAB8Q/HNYy5627l1s/s442/4.jpg'
+}, {
+  'titulo': 'ninja-o-guerreiro-imortal',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-S6bgk0yXT0U/VliZsYwoZeI/AAAAAAAAFTY/VOAjzJbrq7k/s320/ninja.jpg'
+}, {
+  'titulo': 'bad-boys-2',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/--7BeqfCpz5g/UqjjatQ80HI/AAAAAAAAm3k/-OtAP4AnZpI/s1600/capa.jpg'
+}, {
+  'titulo': 'bad-boys',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-vJrgmAnBC1Y/U2FCjIHk4AI/AAAAAAAAtW0/xMq_0V_oTFs/s1600/capa.png'
+}, {
+  'titulo': 'reacao-em-cadeia',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://br.web.img2.acsta.net/pictures/210/107/21010741_20130606145949966.jpg'
+}, {
+  'titulo': 'transformers-4-a-era-da-extincao',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/--QRf8yktKpE/U9NEyqzAydI/AAAAAAAAEAs/f6MtlG3s8rU/s1600/capa+(1)-Optimized.jpg'
+}, {
+  'titulo': 'transformers-3-o-lado-oculto-da-lua',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-cg9i0M_lr5s/Tg_MPs0v0uI/AAAAAAAABhA/9Fdn95LFlFk/s1600/transformers_dark_of_the_moon_02.jpg'
+}, {
+  'titulo': 'transformers-2-a-vinganca-dos-derrotados',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-UJPMP7lWWVM/Tg7jJJkhOFI/AAAAAAAAAhI/bVIjtyTooyE/s400/Transformers+2+-+A+Vingan%25C3%25A7a+dos+Derrotados.jpg'
+}, {
+  'titulo': 'transformers',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/_aX7VSRMlQI4/SuN-pH6uCsI/AAAAAAAAAPI/Ji7kzZPy3bE/s400/Transformers.jpg'
+}, {
+  'titulo': 'os-quatro-2-reino-sem-lei',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-MPL5pfL--QI/VlUQ4O5eETI/AAAAAAAAURs/sXXHUM21vtc/s1600/Os%2BQuatro%2B2%2B-%2BReino%2BSem%2BLei.jpg'
+}, {
+  'titulo': 'os-quatro',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-HVok0dSlTPE/VjL7IsecoEI/AAAAAAAATgg/Cak3rFukkKI/s640/Os-Quatro-dublado-filme-online-hd.jpg'
+}, {
+  'titulo': 'assistir-fora-da-lei',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://lh4.googleusercontent.com/-HGPkT3KG424/Th1A4WiBpDI/AAAAAAAAAyc/BUE_wPeDi0k/IJAJSIJASIAJ.jpg'
+}, {
+  'titulo': 'busca-implacavel-3',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://lh6.googleusercontent.com/-K6KKlfKKQUY/VMJmOeoOl4I/AAAAAAAAPLc/Kdr1dV1MXUU/w328-h460-no/l_2446042_34e543b9.jpg'
+}, {
+  'titulo': 'busca-implacavel',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/_yTogmn-6HTA/TQzHYkcx93I/AAAAAAAABTU/4ELLLg6wWAM/s320/busca%2Bimplacavel.jpeg'
+}, {
+  'titulo': 'duelo-de-imperios',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-xyVQYg8wQ1k/URud8IlG5bI/AAAAAAAASsI/NNLSi2X5dr8/s400/wq7fv.jpg'
+}, {
+  'titulo': 'incontrolavel',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-8yGXQNMoRW4/UQBeDmby4EI/AAAAAAAAR2U/iXdF8vpiQms/s400/t84b.jpg'
+}, {
+  'titulo': 'corrida-mortal-3-inferno',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-cXXbPRLnxWU/URApz59PxGI/AAAAAAAAMYE/aXuN6FadilU/s400/cooooooooooooooooo.png'
+}, {
+  'titulo': 'corrida-mortal-2',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://fotos.ua.sapo.pt/NVne1JUSohd6GT7J9cLG/'
+}, {
+  'titulo': 'corrida-mortal',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-kYv8ViS_z3g/URY3ytJCbSI/AAAAAAAAAe0/5muPuYmHgU0/s1600/cormor.jpg'
+}, {
+  'titulo': 'passe-livre',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://portal.julund.com.br/wp-content/uploads/2016/02/PasseLivre01.jpg'
+}, {
+  'titulo': 'roubo-nas-alturas',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-hm3VzU_C1Jg/T1fzAreF4wI/AAAAAAAABaI/dgZMm2Oo6e0/s320/roubo+nas+alturas..jpg'
+}, {
+  'titulo': 'jumper',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-dVBZVck9cns/UcswiLGyNmI/AAAAAAAAEpQ/L6GTpoHSuNc/s1600/images.jpg'
+}, {
+  'titulo': 'o-agente-da-u-n-c-l-e',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://cdn.x2n.com.br/~cdn993/wp-content/uploads/2015/09/O-Agente-da-U.N.C.L.E.-poster.jpg'
+}, {
+  'titulo': 'em-nome-do-rei-3-a-ultima-missao',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-SyYlQKSL5iY/U8xRzZQFQMI/AAAAAAAAUcw/ozhrY7wObqo/s1600/465646456.jpg'
+}, {
+  'titulo': 'em-nome-do-rei-2-entre-dois-mundos',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-uLVmW4dxWRY/VjwIJ-ty1MI/AAAAAAAAE5I/a857kmgYgVo/s320/em%2Bnome%2Bdo%2Brei.jpg'
+}, {
+  'titulo': 'em-nome-do-rei',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/--qBqAbpYe7E/ThOMRwJF6-I/AAAAAAAAAu0/HJd00feQrYM/s1600/em_nome_do_rei_poster.jpg'
+}, {
+  'titulo': 'sangue-no-asfalto',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-bfD7cKWcSnQ/VjjqlcdQIaI/AAAAAAAATk8/GsbLZGoPj4Y/s640/Sangue-no-Asfalto-dublado-filme-online-hd.jpg'
+}, {
+  'titulo': 'olho-por-olho',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-GK_9CSa88FU/UdPtzb6ZCAI/AAAAAAAAQaA/is2a2ao64nA/s561/Olho+Por+Olho.jpg'
+}, {
+  'titulo': 'thor-o-mundo-sombrio',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-7haZ_YkId_4/UnO2OtOhF2I/AAAAAAAAAJ8/yttWDu0LVR4/s400/capa.jpg'
+}, {
+  'titulo': 'rapidos-e-perigosos',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-uk_FcFYtDzk/Vi9AfBtLX3I/AAAAAAAAcmc/zqY9iW7Z7Wc/s1600/capa.png'
+}, {
+  'titulo': 'a-gripe',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-UUcemIK8OoY/ViKD5-6rxQI/AAAAAAAAO-o/O6u2YxgOHZQ/s1600/zPY7JoH.jpg'
+}, {
+  'titulo': 'turma-da-luta',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-OQbt6zuTt4Y/VZLuVg_F1sI/AAAAAAAACBU/tKzeojxmtuU/s1600/underdog%2Bkids.jpg'
+}, {
+  'titulo': 'a-confissao',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-Qjk2bx1Q6C8/Vh1-KsiANRI/AAAAAAAAEUc/wdNF7qlLFso/s320/The%2Bconfession.jpg'
+}, {
+  'titulo': '60-segundos',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-sDFIv6GEqkg/Vh260hp2HGI/AAAAAAAAEU4/Jv5jEN2JNx0/s320/60%2Bsegundos.jpg'
+}, {
+  'titulo': 'cowboys-e-aliens',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-odmzFwC7QSo/TscwyTRGASI/AAAAAAAADMw/0OFNDe23SqU/s400/ALIENS.jpg'
+}, {
+  'titulo': 'identidade-especial',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://br.web.img3.acsta.net/c_215_290/pictures/14/02/17/13/03/475551.jpg'
+}, {
+  'titulo': 'o-novato',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-dbpHuNhkwaU/UnPGyW2eZZI/AAAAAAAAlEI/NjMxdlCajhI/s1600/capa.png'
+}, {
+  'titulo': 'o-carro-a-maquina-do-diabo',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/--V6GRKUkvbE/VgSwLyAc_4I/AAAAAAAAD-0/1YsC6_gx_H8/s320/O%2Bcarro.jpg'
+}, {
+  'titulo': 'felon',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-ctPCIEBg7Sc/VhXbWTB3n9I/AAAAAAAAEMY/gHql3OYWWNU/s320/felon.jpg'
+}, {
+  'titulo': 'o-sexto-dia',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-s8O3Yd173F8/VhSAPqtLDlI/AAAAAAAAEKo/4mFIbSSaLco/s320/sexto%2Bdia.jpg'
+}, {
+  'titulo': 'o-vidente',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://www.megafilmesonline.net/wp-content/uploads/2013/05/o-vidente.jpg'
+}, {
+  'titulo': 'o-despertar-dos-deuses',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-QMjJRxYKKj4/VhSX1IzwVkI/AAAAAAAAEK4/WnTY_hVbflI/s320/o%2Bdespertar%2Bdos%2Bdeuses.jpg'
+}, {
+  'titulo': 'guerra-e-guerra',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://upload.wikimedia.org/wikipedia/pt/thumb/5/55/This_Means_War_Poster.jpg/200px-This_Means_War_Poster.jpg'
+}, {
+  'titulo': 'mib-homens-de-preto-3',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://b2w.partner.instantsystems.se/pictures/f/MenInBlackIIIMAQUINA.jpg'
+}, {
+  'titulo': 'mib-homens-de-preto-2',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://upload.wikimedia.org/wikipedia/pt/thumb/3/3d/Men_in_Black_II_Poster.jpg/200px-Men_in_Black_II_Poster.jpg'
+}, {
+  'titulo': 'mib-homens-de-preto',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://static.cineclick.com.br/sites/adm/uploads/banco_imagens/53/260x365_519ebdc2cbf8a.jpg'
+}, {
+  'titulo': 'matrix-revolutions',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://upload.wikimedia.org/wikipedia/pt/archive/9/94/20120907122218!Matrix_revolutions.jpg'
+}, {
+  'titulo': 'matrix-reloaded',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://upload.wikimedia.org/wikipedia/pt/0/0e/Matrix_reloaded_.jpg'
+}, {
+  'titulo': 'matrix',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://upload.wikimedia.org/wikipedia/pt/c/c1/The_Matrix_Poster.jpg'
+}, {
+  'titulo': 'noite-sem-fim',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-M3xfIKe8SDU/VX4AARxYRxI/AAAAAAAAEmA/6wInArWA-js/s1600/20150509-noites-sem-fim-poster-615x879.jpg'
+}, {
+  'titulo': 'sniper-americano',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://www.kaktus-mag.com/wp-content/uploads/2015/02/american-sniper-poster.jpg'
+}, {
+  'titulo': 'o-destino-de-jupiter',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-qlzEsL0pyOs/VRIblMDgYyI/AAAAAAAAAjw/cttOHAXIY2o/s1600/o-destino-de-jupiter-dublado.jpeg'
+}, {
+  'titulo': 'tracers',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://cdn.wegotthiscovered.com/wp-content/uploads/Tracers-2014-Daniel-Benmayor-poster-450.jpg'
+}, {
+  'titulo': 'kung-fu-mortal',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://img.tintuc.vietgiaitri.com/2014/12/2/sat-quyen-dang-cap-chan-tu-dan-len-tieng-2731a9.jpg'
+}, {
+  'titulo': 'os-mercenarios-3',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-v6XJG_tmSSU/UdjWXKdTPXI/AAAAAAAAMNQ/edKT_QGwV2E/s1600/osmercenarios3+(1).jpg'
+}, {
+  'titulo': 'os-mercenarios-2',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://lh5.googleusercontent.com/-_0sFrzxzR54/UDD0rOIY9sI/AAAAAAAAG_c/38Aaxa7Olas/s300/2.jpg'
+}, {
+  'titulo': 'os-mercenarios',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-WHcIWmpYrpI/T5vdyTFbhAI/AAAAAAAAMMg/bwgliqopDzQ/s400/Os%2BMercen%25C3%25A1rios%2B-%2Bwww.baixatudofilmes.com-.jpg'
+}, {
+  'titulo': 'velozes-e-furiosos-7',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-fOWHjo9Vrc4/VR9ZxawfquI/AAAAAAAAAnE/bv-EJaoeAqw/s1600/velozes-e-furiosos-7-dublado.jpeg'
+}, {
+  'titulo': 'velozes-e-furiosos-6',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-bD0SWRhaABQ/UjIYyHVp6tI/AAAAAAAAADY/oHxvHTh0i2E/s400/Velozes+e+Furiosos+6.jpg'
+}, {
+  'titulo': 'velozes-e-furiosos-5-operacao-rio-hd',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-GIGsuKKBp-0/UUojkh31v7I/AAAAAAAAY0U/JuCLAvgUyRw/s1600/capa.png'
+}, {
+  'titulo': 'velozes-e-furiosos-4-hd',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-7sNzKcGDi4s/TbhV1yMAYmI/AAAAAAAAEWo/Obd_zCGJE44/s1600/velozes+e+furiosos+4.jpg'
+}, {
+  'titulo': 'velozes-e-furiosos-3-desafio-em-toquio-hd',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/_acz75RzbbH0/TSRwlvgKDSI/AAAAAAAABHc/A2fvMKn4Jqw/s1600/velozes+e+furiosos+3.jpg'
+}, {
+  'titulo': 'velozes-furiosos',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-sxjg4bDTtAo/TeFzhliiZHI/AAAAAAAAAXk/DbOU33_-JyE/s1600/%252B-Velozes-%252B-Furiosos.jpg'
+}, {
+  'titulo': 'velozes-e-furiosos',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/_acz75RzbbH0/TSSWyS2hLoI/AAAAAAAABHs/pVQbGd1eSLI/s1600/Velozes+e+Furiozos+1.jpg'
+}, {
+  'titulo': 'submundo-das-lutas',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://br.web.img3.acsta.net/r_160_240/b_1_d6d6d6/pictures/15/08/04/20/44/282303.jpg'
+}, {
+  'titulo': 'ate-morte',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-LpeVGS3vFKA/Vgn_H4ygGwI/AAAAAAAAEEQ/NBGsIe4xb1M/s320/at%25C3%25A9%2Ba%2Bmorte.jpg'
+}, {
+  'titulo': 'o-homem-de-aco',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-SUz-vcmTtRg/Ue1DEGbjgOI/AAAAAAAAKeU/8QHhnuaKGZM/s1600/O-Homem-de-Aco-poster-Superman.jpg'
+}, {
+  'titulo': 'chappie',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://upload.wikimedia.org/wikipedia/pt/7/71/Chappie_poster.jpg'
+}, {
+  'titulo': 'osso-duro',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-eJhwB2XeyXc/Vfb9PInA-oI/AAAAAAAADpI/fpkDwZRdOwM/s320/osso%2Bduro.jpg'
+}, {
+  'titulo': 'a-queda-da-terra',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-XX9Uei4R66k/Vfr7HOXQvfI/AAAAAAAADw8/Kq5jFLE0ICw/s320/a%2Bqueda%2Bda%2Bterra.jpg'
+}, {
+  'titulo': 'escola-de-espioes',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-jG0vYiFFyoI/Vgfu1el6IuI/AAAAAAAACSY/T6usUhd-oxA/s1600/Escola%2Bde%2BEspi%25C3%25B5es.jpg'
+}, {
+  'titulo': 'os-vingadores',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-OBwh-evMJbk/T05w34U-FZI/AAAAAAAABpg/BFFu1S6vpqM/s1600/The-Avengers.jpg'
+}, {
+  'titulo': 'mad-max-3-alem-da-cupula-do-trovao',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://images-eu.amazon.com/images/P/B00004CXXA.02.LZZZZZZZ.jpg'
+}, {
+  'titulo': 'mad-max-2-cacada-continua',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://br.web.img2.acsta.net/medias/nmedia/18/90/62/67/20105229.jpg'
+}, {
+  'titulo': 'mad-max',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-sU9SiMRu4Ag/UEEve8ZLdDI/AAAAAAAAAaY/DwLyUgf_Q7g/s1600/936full-mad-max-poster.jpg'
+}, {
+  'titulo': 'o-exterminador-do-futuro-genesis',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://static.cineclick.com.br/sites/adm/uploads/banco_imagens/59/640x0_1431103253.jpg'
+}, {
+  'titulo': 'smosh-o-filme',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-MSJhgMv52mM/VgWMeuiO7fI/AAAAAAAAD_E/asauo90XYsk/s320/smosh.jpg'
+}]

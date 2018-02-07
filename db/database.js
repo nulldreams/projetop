@@ -9,28 +9,39 @@ const db = new Datastore({
 db.loadDatabase()
 db.persistence.setAutocompactionInterval(1000 * 60 * 1)
 
-function get (id, callback) {
-  db.findOne({
-    _id: id
-  }, callback)
+function findByTema (tema, callback) {
+  db.find({ tema: tema }, (err, _tema) => {
+    // let order = _.sortBy(_tema[0], ['filmes.info.lancamento'])
+    let order = _.orderBy(_tema[0].filmes, (e) => {
+      return e.info.lancamento
+    }, ['desc'])
+
+    callback(null, order)
+  })
 }
 
 function getAll (callback) {
   db.find({}, callback)
 }
 
-function add (filme, cb) {
-  db.findOne({ tema: filme.tema }, (err, doc) => {
+function add (nFilme, cb) {
+  db.findOne({ tema: nFilme.tema }, (err, doc) => {
     if (err) return cb(err)
     if (!doc) {
-      filme.quantidade = filme.filmes.length
-      return db.insert(filme, cb)
+      let movie = {
+        tema: nFilme.tema,
+        filmes: [nFilme.filme],
+        quantidade: 1
+      }
+      return db.insert(movie, cb)
     }
-
-    doc.filmes = _.concat(doc.filmes, filme.filmes)
-    doc.quantidade = doc.filmes.length
-    db.update({ tema: filme.tema }, doc, {}, (err, updated) => {
-      return console.log('updated', updated)
+    // doc.filmes = _.concat(doc.filmes, filme.filmes)
+    db.find({}, (err, documentos) => {
+      if (_.filter(documentos[0].filmes, { nome: nFilme.filme.nome })[0] === undefined) {
+        doc.filmes.push(nFilme.filme)
+        doc.quantidade = doc.filmes.length
+        return db.update({ tema: nFilme.tema }, doc, {}, cb)
+      }
     })
   })
 }
@@ -58,7 +69,7 @@ function removeAll () {
 }
 
 module.exports = {
-  get,
+  findByTema,
   getAll,
   add,
   remove,

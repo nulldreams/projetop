@@ -1,0 +1,109 @@
+module.exports = [{
+  'titulo': 'jesus-o-envagelho-segundo-lucas-1979-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-_RzLda9dk8U/WPOZeRg5MPI/AAAAAAAADuw/jJSfvVhfEN8hKeNCmsfq0TcxiFIEhh8hwCLcB/s1600/CAPA.jpg'
+}, {
+  'titulo': 'jesus-o-envagelho-segundo-lucas-1979-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-_RzLda9dk8U/WPOZeRg5MPI/AAAAAAAADuw/jJSfvVhfEN8hKeNCmsfq0TcxiFIEhh8hwCLcB/s1600/CAPA.jpg'
+}, {
+  'titulo': 'tombstone-justice-is-coming-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://images-na.ssl-images-amazon.com/images/I/51UdG6rzHkL.jpg'
+}, {
+  'titulo': 'tombstone-justica-esta-chegando-dublado-hd',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://images-na.ssl-images-amazon.com/images/I/51UdG6rzHkL.jpg'
+}, {
+  'titulo': 'rocky-um-lutador-1976-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-HUoaEneBiUM/UKsFPO7H4TI/AAAAAAAADFE/fxRQLI-VFJA/s1600/Rocky_1976.jpg'
+}, {
+  'titulo': 'tres-homens-em-conflito-1966-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-Xm9-Hu3qqn0/UhZgkjDJ-5I/AAAAAAAABzM/eP14mmQ7Gw8/s1600/THE+GOOD+THE+BAD+AND+THE+UGLY.jpg'
+}, {
+  'titulo': 'lawrence-da-arabia-1962-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/_qcgQ-uApGRM/TIjzIiUYPEI/AAAAAAAAAqw/BavbUHTm6Wk/s1600/45D6FC_1.jpg'
+}, {
+  'titulo': 'e-t-o-extraterrestre-dublado-hd',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/--buEAA-n1vI/Vw-ff6pfaCI/AAAAAAAAAaw/tiBpvHtujJIsKTwU1eOwibHLjYbqZZH1wCLcB/s1600/filme_et_o_extraterrestre.jpg'
+}, {
+  'titulo': '12-homens-e-uma-sentenca-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/_R8LkKSvcN4c/TRjN_kI7u-I/AAAAAAAAZgY/w62eabd2U34/s1600/1%2Ba%2B12%2Bposter%2B1997.jpg'
+}, {
+  'titulo': '2001-uma-odisseia-no-espaco-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://www.afraudedoseculo.com.br/images/2001odyssey1.jpg'
+}, {
+  'titulo': 'te-pego-la-fora-1987-dublado-hd',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-0WaapgMbIGA/UVCUFRpiYCI/AAAAAAAAApM/NiQ7XQ4BQfY/s1600/02db93ecb39d8a530cde2cdd968e6b38.jpg'
+}, {
+  'titulo': 'vinganca-dos-nerds-1984-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-uTArGu70_rY/UcD6HT8psmI/AAAAAAAABkI/4bB8UquXz5k/s400/images+(16).jpg'
+}, {
+  'titulo': 'cidadao-kane-1941-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-J0xU8CSsucI/TzVGq2YjYOI/AAAAAAAAA0o/I8VzEGCu0Ag/s1600/kane1.jpg'
+}, {
+  'titulo': 'poltergeist-o-fenomeno-1982-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-q-vLStDk_CA/VeE4e0CbrcI/AAAAAAAAr8U/pV7Jl49LYwY/s1600/Poltergeist%2B-%2BO%2BFenomeno.jpg'
+}, {
+  'titulo': 'touro-indomavel-1980-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-SgUIjXJ8_Gg/UpKIxt9a5DI/AAAAAAAAAes/KJBFa3Koy-M/s1600/93.jpg'
+}, {
+  'titulo': 'casablanca-1942-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/-7Ckjy9VoyrM/VKdE1_lpXlI/AAAAAAAABZo/s1Cu0SYnxFc/s1600/1942%2B-%2BCasablanca%2B(Michael%2BCurtiz%2B-%2BAlemania%2B-%2B1952)b.jpg'
+}, {
+  'titulo': 'top-gun-ases-indomaveis-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-WcJyOtejzRE/TepncBY1-uI/AAAAAAAAADE/Cp35Cdiy6M0/s1600/fotocapac.jpg'
+}, {
+  'titulo': 'o-poderoso-chefao-parte-3-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/-eFJC6ht7Xoc/TnINwn7TgsI/AAAAAAAAAGg/GeBlqIdRWBc/s1600/o%2Bpoderoso%2Bchefao%2B3.jpg'
+}, {
+  'titulo': 'o-poderoso-chefao-parte-2-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-WVMbm_f983Y/TnCZKd_z8GI/AAAAAAAAAGQ/_urlomzhTUI/s1600/O%2BPoderoso%2BChefao%2B2.jpg'
+}, {
+  'titulo': 'o-poderoso-chefao-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-434wlyrd7K8/WSIGSp-IARI/AAAAAAAABME/4gKQSG6GkLUIO5sfMoONFS-qWQazzYQKgCLcB/s1600/31.jpg'
+}, {
+  'titulo': 'o-exorcista-1973-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-1Cu2c57H5Fg/UHnoeZyfemI/AAAAAAAAAGs/MXTSTKee5Uk/s1600/o_exorcista_-_capa_dvd.jpg'
+}, {
+  'titulo': 'va-e-veja-1985-legendado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/-U7I4k_RVE7k/TcdO2fT4owI/AAAAAAAABC4/X3mBSRKjaCE/s1600/come-and-see-movie-poster-1985-1020433450.jpg'
+}, {
+  'titulo': 'por-uns-dolares-mais-1965-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-pKb__qN9F7s/UlpahudBfNI/AAAAAAAACXE/UrHzgtiT_Ng/s1600/por-uns-dolares-a-mais-dvd-sergio-leone-western-eastwood_MLB-O-202019072_116.jpg'
+}, {
+  'titulo': 'jennifer-8-proxima-vitima-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-fmmfElKSFqA/WW5bzJ9i6cI/AAAAAAAAKgY/bjNZVqJSbYI2_tVjHu5k6JgBA7DfdFCfQCLcBGAs/s320/ghighghyighi.jpg'
+}, {
+  'titulo': 'esporte-sangrento-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://image.tmdb.org/t/p/w185/b7SpbzA0o4UL7pywetcGLBUb5vE.jpg'
+}, {
+  'titulo': 'coracao-de-dragao-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/_PpNKNkdKU6g/S7Ar5A-FpQI/AAAAAAAAAYY/ZiWml29oP48/s1600/40370_3.jpg'
+}, {
+  'titulo': 'o-iluminado-1980-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://3.bp.blogspot.com/-PoDu9Mz-mTc/WQT-aW5WU5I/AAAAAAAAAWo/9ig3phsqBR8Pb0Us-wBkzvZ8s-loQS7KwCLcB/s1600/3mVew1NxE2FI9kQcOcZov1F2KlW.jpg'
+}, {
+  'titulo': 'kingpin-estes-loucos-reis-do-boliche-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://1.bp.blogspot.com/-b4ixnicX4X8/V3E8JcxUCkI/AAAAAAAABX0/XUOALtXrRMkiUc47DkVbZsPE3N_s8UwRACLcB/s1600/Kingpin.jpg'
+}, {
+  'titulo': 'feita-por-encomenda-dublado',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=https://2.bp.blogspot.com/-ZjSK7fv7PKM/Vz3lpQBUM2I/AAAAAAAAAvY/Z3UvthnvsXQGqyMfkjhJAgoWrN60mJfegCLcB/s1600/capa-13.jpg'
+}, {
+  'titulo': 'assistir-star-wars-episodio-v-o-imperio-contra-ataca',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://3.bp.blogspot.com/_aX7VSRMlQI4/S1T5gQNv_FI/AAAAAAAABNQ/VTQ7I30qnOY/s250/Star+Wars+-+Epis%C3%B3dio+5+-+O+Imp%C3%A9rio+Contra-Ataca.jpg'
+}, {
+  'titulo': 'assistir-star-wars-episodio-vi-o-retorno-de-jedi',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/_aX7VSRMlQI4/S1e2OSCRLhI/AAAAAAAABPo/XFwQ93DqRic/s250/Star+Wars+-+Epis%C3%B3dio+6+-+O+Retorno+de+Jedi.jpg'
+}, {
+  'titulo': 'star-wars-episodio-iv-uma-nova-esperanca',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://1.bp.blogspot.com/_4vuxbGy9Iyk/TOBuNbodhtI/AAAAAAAAAM0/9zpXvGjKSu0/s1600/Guerra.Nas.Estrelas.Episodio.4.Uma.Nova.Esperanca.DVDRIP.Xvid.Dublado.jpg'
+}, {
+  'titulo': 'star-wars-episodio-i-a-ameaca-fantasma',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://2.bp.blogspot.com/_aX7VSRMlQI4/S0fa4FJIC1I/AAAAAAAABBg/JKID1sqfLPU/s250/Star+Wars+-+Epis%C3%B3dio+1+-+A+Amea%C3%A7a+Fantasma.jpg'
+}, {
+  'titulo': 'mad-max-3-alem-da-cupula-do-trovao',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://images-eu.amazon.com/images/P/B00004CXXA.02.LZZZZZZZ.jpg'
+}, {
+  'titulo': 'mad-max-2-cacada-continua',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://br.web.img2.acsta.net/medias/nmedia/18/90/62/67/20105229.jpg'
+}, {
+  'titulo': 'mad-max',
+  'imagem': 'http://img.filmeseseriesonline.net/timthumb.php?src=http://4.bp.blogspot.com/-sU9SiMRu4Ag/UEEve8ZLdDI/AAAAAAAAAaY/DwLyUgf_Q7g/s1600/936full-mad-max-poster.jpg'
+}]
