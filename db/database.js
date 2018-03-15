@@ -24,25 +24,16 @@ function getAll (callback) {
   db.find({}, callback)
 }
 
-function add (nFilme, cb) {
-  db.findOne({ tema: nFilme.tema }, (err, doc) => {
+function add (filme, cb) {
+  db.findOne({}, (err, documento) => {
+    console.log('documento', documento)
     if (err) return cb(err)
-    if (!doc) {
-      let movie = {
-        tema: nFilme.tema,
-        filmes: [nFilme.filme],
-        quantidade: 1
-      }
-      return db.insert(movie, cb)
+    if (!documento) {
+      return db.insert({ filmes: [filme] }, cb)
     }
-    // doc.filmes = _.concat(doc.filmes, filme.filmes)
-    db.find({}, (err, documentos) => {
-      if (_.filter(documentos[0].filmes, { nome: nFilme.filme.nome })[0] === undefined) {
-        doc.filmes.push(nFilme.filme)
-        doc.quantidade = doc.filmes.length
-        return db.update({ tema: nFilme.tema }, doc, {}, cb)
-      }
-    })
+
+    documento.filmes.push(filme)
+    db.update({}, documento, {}, cb)
   })
 }
 
