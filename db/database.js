@@ -9,6 +9,10 @@ const db = new Datastore({
 db.loadDatabase()
 db.persistence.setAutocompactionInterval(1000 * 60 * 1)
 
+function get (query, cb) {
+  db.find(query, cb)
+}
+
 function findByTema (tema, callback) {
   db.find({ tema: tema }, (err, _tema) => {
     // let order = _.sortBy(_tema[0], ['filmes.info.lancamento'])
@@ -26,7 +30,6 @@ function getAll (callback) {
 
 function add (filme, cb) {
   db.findOne({}, (err, documento) => {
-    console.log('documento', documento)
     if (err) return cb(err)
     if (!documento) {
       return db.insert({ filmes: [filme] }, cb)
@@ -64,5 +67,6 @@ module.exports = {
   getAll,
   add,
   remove,
-  removeAll
+  removeAll,
+  get
 }

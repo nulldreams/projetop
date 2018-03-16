@@ -9,5 +9,6 @@ module.exports = (fastify) => {
     })
   })
 
-  fastify.get('/filmes/:tema', api.filmes)
+  fastify.get('/filmes', api.filmes)
+  fastify.get('/api/v1/filme/:path', api.filme)
 }
